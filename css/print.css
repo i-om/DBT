@@ -1,0 +1,48 @@
+#main
+{
+    top:3px;
+    position: relative;
+}
+
+
+#leftcol
+{
+    width:200px;
+    float:left;
+    margin-top: 30px;
+    text-align:left;
+    font-family:Arial;
+    display:none;
+}
+
+#containerMain
+{
+    /*width:800px;*/
+    
+    float: left;
+    left: 3px;
+    margin-top: 30px;
+    text-align:left;
+    position: relative;
+    font-family:Arial;
+}
+
+#buttonContainer
+{
+    left:0px;
+    position:relative;
+    width:720px;
+    display:inline;
+    margin-left:3px;
+}
+
+input[type=button],input[type='button'],input[type="button"],.classHeading
+{
+    display:none;
+}
+
+a
+{
+    text-decoration: none;
+    color:black;
+}

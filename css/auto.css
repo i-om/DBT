@@ -1,0 +1,84 @@
+  .suggestionsBox
+ {
+    position: absolute;
+    margin: 0px 0px 0px 0px;
+    background-color: white;
+   /* -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;*/
+    border: 1px solid #000;
+    color: black;
+    z-index: 20;
+    text-align: left;
+    display:none;
+    width: 130px;
+    height: 150px;
+    overflow: auto;
+    font-family:Arial;
+    font-size: 12px;
+ }
+
+ .suggestionsBox li
+ {
+	padding: 3px;
+	cursor: pointer;
+    font-family:Arial;
+    font-size: 12px;
+
+ }
+ .suggestionsBox li:hover
+ {
+    background-color: #99FFCC;
+    font-family:Arial;
+    font-size: 12px;
+ }
+ 
+#displaylist li
+{
+  list-style:none;
+  font-family:Arial;
+  font-size: 12px;
+}
+.main{
+  width: 800px;
+  height:400px;
+  margin-left: 50px;
+  padding: 0px;
+  top:10px;
+  position:relative;
+  float: left;
+  font-family:Arial;
+  font-size: 12px;
+}
+.tabhide
+{
+   display: none;
+   width: 400px;
+   color: blue;
+   font-family:Arial;
+  font-size: 12px;
+}
+.putimg
+{
+    background-image: url(../images/img_35.gif);
+    height: 53px;
+    margin-left: 10px;
+    width:100%;
+    font-size:14px;
+    font-family:Arial;
+    color:#FFFFFF;
+    font-weight:bold;
+    text-align:left;
+}
+.putimg1
+{
+    background-image: url(../images/img_40.gif);
+    height: 53px;
+    margin-top: 8px;
+    margin-left: 10px;
+    width:100%;
+    font-size:14px;
+    font-family:Arial;      
+    color:#FFFFFF;
+    font-weight:bold;
+    text-align:left;
+}

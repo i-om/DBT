@@ -1,0 +1,24 @@
+#leftcol
+{
+    background-color :#999999;
+}
+#containerMain
+{
+    background-color :#CCCCFF;
+}
+.classHeading
+{ 
+    color : #CCFFFF;
+    font-size: xx-large;
+    height: 20px;
+    font-style: normal;
+    text-shadow: 5px;
+    font-family: Arial;
+    width: 100%;
+}
+lable
+{
+  width: 100%;
+  background-color :#333399;
+}
+

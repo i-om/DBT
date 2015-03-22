@@ -1,0 +1,913 @@
+p
+{
+  display: block;
+}
+
+
+body
+{
+    background-color:#ffffff;
+    font-family:Arial;
+    margin:0;
+	padding:0;
+}
+
+
+
+#header
+{
+    top:0px;
+    height:99px;
+    width:1000px;
+    background-image: url(../images/dbt.jpg);
+    background-repeat: no-repeat;
+    position: relative;
+    -moz-border-radius: 8px 8px 8px 8px;
+}
+
+#header #company
+{
+    top:0px;
+    left:5px;
+    float: left;
+    position:relative;
+    background-image:none;
+    background-repeat: no-repeat;
+    width:280px;
+    height:75px;
+    text-align: left;
+    font-size: 12px;
+}
+
+#header #company #chead
+{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+#header #cv
+{
+    top:5px;
+    left:210px;
+    float:left;
+    position:relative;
+    color:#fff;
+    font-family:Arial;
+    font-size: 60px;
+ /*   text-shadow: 20; */
+}
+
+#header #version
+{
+    top:47px;
+    left:0px;
+    float:left;
+    position:relative;
+    color:#fff;
+    font-family:Arial;
+    font-size:10px;
+
+}
+
+
+
+#header #logo
+{
+    float:right;
+    top:5px;
+    right:5px;
+    position:relative;
+}
+
+
+
+#main
+{
+    width:1000px;
+    top:3px;
+    position: relative;
+}
+
+#leftcol
+{
+    width:135px;
+    float:left;
+    text-align:left;
+font-family:Arial;
+}
+
+#rightcol{
+
+width:135px;
+float:right;
+text-align:left;
+font-family:Arial;
+right:0px;
+position:absolute;
+}
+
+#bar
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+    width:860px; 
+    background-image: url(../images/dbt_bar.jpg);
+    background-repeat: no-repeat;
+    float:left;
+    left: 3px;
+    position:relative;
+}
+
+#barLogin
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+	width:1000px;
+	height: 50px;
+    background-image: url(../images/dbt_bar2.jpg);
+    background-repeat: no-repeat;
+    float:left;
+    left: 3px;
+    position:relative;
+}
+
+#bar a
+{
+    color:#ffffff;
+    text-decoration: none;
+}
+
+#bar #headBar
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+    color:#ffffff;
+    font-size:32px;
+    font-family:Arial;
+    float:none;
+	font-weight:bold;
+    text-transform: uppercase;
+}
+
+.headbar
+{
+	-moz-border-radius: 2px 2px 2px 2px;
+    color:#ffffff;
+    font-size:36px;
+    font-family:Arial;
+    float:none;
+	font-weight:bold;
+    text-transform: uppercase;
+}
+
+#bottomBar
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+    width:860px;
+    background-color:#1A2226;
+    float:left;
+    left: 3px;
+    position:relative;
+    color:#ffffff;
+    font-size:12px;
+    font-family:Arial;
+    left: 0px;
+    position: relative;
+}
+
+#containerMain
+{
+    width:860px;
+    float: left;
+    left: 3px;
+    margin-top: 3px;
+    text-align:left;
+    position: relative;
+    font-family:Arial;
+}
+
+#containerMain a
+{
+    text-decoration: none;
+}
+
+
+#containerMain a:Hover
+{
+    text-decoration: none;
+    text-transform: none;
+}
+
+
+
+#head
+{
+    -moz-border-radius: 1px 1px 1px 1px;
+    width:135px;
+    height:18px;
+    background-color:#1A2226;
+    color:#ffffff;
+    font-family:Arial;
+}
+
+
+#head1
+{
+    -moz-border-radius: 1px 1px 1px 1px;
+    width:860px;
+    height:22px;
+    background-color:#1A2226;
+    color:#ffffff;
+    text-align:left;
+    font-family:Arial;
+}
+
+#headtitle
+{
+    top:-2px;
+    position:relative;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:12px;
+    font-weight: bold;
+}
+
+#headtitle1
+{
+    color:#ffffff;
+    font-family:Arial;
+    left:0px;
+    position:relative;
+    font-size:14px;
+}
+
+#headtitle1 td
+{
+    color:#ffffff;
+    font-family:Arial;
+}
+
+#head img
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+    left:0px;
+    top:-2px;
+    position: relative;
+    float:left;
+}
+
+#head1 img
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+    left:0px;
+    position: relative;
+}
+
+#footer
+{
+    -moz-border-radius: 1px 1px 1px 1px;
+    top:7px;
+    left: 0px;
+    width:1000px;
+    height:15px;
+    background-image: url(../images/dbt_bar1.jpg);
+    background-repeat: no-repeat;
+    position: relative;
+    float:left;
+    color:#660000;
+    font-family:Arial;
+    font-size: 9px;
+    text-decoration: none;
+    text-transform: none;
+}
+
+#footer a
+{
+   text-decoration: none;
+   color: #660000;
+   text-transform: none;
+}
+
+
+h3
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+    color:#000000;
+}
+
+
+#leftWidget
+{
+    background-image: url(../images/bg.jpg);
+    background-repeat: repeat-x;
+    background-color: #ffffff;
+}
+
+
+#leftWidget #leftWidgetContent
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+    color:#000000;
+    font-size: 10px;
+    font-family:Arial;
+    margin-left: 10px;
+    text-decoration: none;
+    text-transform: none;
+}
+
+#leftWidget #leftWidgetContentLogin
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+    color:#000000;
+    font-size: 9px;
+    font-Family: 'Arial';
+    margin-left: 5px;
+}
+
+#leftWidget #leftWidgetContentLogin a
+{
+    color:#000000;
+    text-decoration: none;
+    text-transform: none;
+}
+
+#leftWidget #leftWidgetContentLogin a:HOVER
+{
+    color:#000000;
+    text-decoration: underline;
+}
+
+#leftWidget #leftWidgetContent a:HOVER
+{
+    color:#000000;
+    text-decoration: underline;
+}
+
+#leftWidget #leftWidgetContent a
+{
+    color:#000000;
+    text-decoration: none;
+}
+
+
+#containerDiv
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+    background: #FFFFFF;
+    background-repeat: repeat-x;
+    font-family:Arial;
+}
+
+#containerDiv a
+{
+    color: #000000;
+    text-decoration: none;
+    text-transform: none;
+}
+
+#containerDiv textarea
+{
+    font-size: 14px;
+    font-family:Arial;
+    background-color: #FFFFFF;
+    border: 1px solid #999999;
+}
+
+
+#containerDiv #containerData
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+    color:#000000;
+    font-size: 14px;
+    font-family:Arial;
+    margin-left: 7px;
+    text-align:left;
+}
+
+#containerDiv #containerData input[type="text"]
+{
+    font-size: 14px;
+    font-family:Arial;
+    background-color: #FFFFFF;
+
+    border: 1px solid #999999;
+
+}
+
+
+#buttonContainer
+{
+    left:0px;
+    position:relative;
+    width:720px;
+    display:inline;
+    margin-left:3px;
+}
+
+#buttonContainer a #title
+{
+    top: -40px;
+    left: 150px;
+    position: relative;
+    color: #000;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight:bold;
+    text-align: center;
+    width: 160px;}
+
+
+#buttonContainer a #title1
+{
+    top: -45px;
+    left: 120px;
+    position: relative;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight:bold;
+    font-size: 16px;
+    font-weight:bold;
+    width: 160px;
+    text-align: center;
+    }
+
+#buttonContainer a
+{
+    color: #1B1B1B;
+    cursor:pointer;
+    text-decoration: none;
+   	width:360px;
+    height:120px;
+    background-image: url(../images/btn_2.jpg);
+    background-repeat: no-repeat;
+    float:left;
+    background-color: #ffffff;
+
+}
+
+#buttonContainer a:hover
+{
+	color:#FFFFFF;
+    /*text-decoration: none;*/
+    background-image: url(../images/button2.png);
+
+}
+
+#buttonContainer a img
+{
+    top:15px;
+    border: 0px;
+    left: 45px;
+    position:relative;
+    width:auto;
+}
+
+
+
+#buttonAdd
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+    background-image: url(../images/button.jpg);
+    background-repeat: repeat-x;
+    height:32px;
+    width: 150px;
+    text-align: center;
+    color: #FFFFFF;
+    font-family:Arial;
+    cursor: pointer;
+}
+
+#buttonAdd a
+{
+    cursor: pointer;
+    color: #FFFFFF;
+}
+
+#buttonAdd:Hover
+{
+    text-decoration: none;
+    text-transform: none;
+    cursor: pointer;
+    color: #cccccc;
+}
+
+#operations
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+    background-color:#3D4550;
+    color:#ffffff;
+    height: 50px;
+    position: relative;
+    width:860px;
+}
+
+
+#arrowLeft
+{
+    background-repeat: no-repeat;
+    cursor: pointer;
+    top:1px;
+    position: relative;
+}
+
+#arrowLeft img:HOVER
+{
+  cursor: pointer;
+}
+
+#twoDay
+{
+    font-family:Arial;
+    font-size: 10px;
+    top:-4px;
+    position: relative;
+    color:#ffffff;
+}
+
+#twoDay a
+{
+    text-decoration: none;
+    text-transform: none;
+}
+
+#today
+{
+    top:-1px;
+    position: relative;
+    font-size: 10px;
+    color:#000000;
+}
+
+#today input[type="button"]
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+    font-size: 10px;
+    width: 42px;
+    top: -3px;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+    border: 0px;
+    border-bottom: 1px none #999999 ;
+    background-color:none;
+}
+
+
+#arrowRight
+{
+  background-repeat: no-repeat;
+  cursor: pointer;
+  top:1px;
+  position: relative;
+}
+
+#arrowRight img:hover
+{
+  cursor: pointer;
+}
+
+#docName
+{
+  font-family:Arial;
+  text-align:center;
+  font-size: 12px;
+  width: 150px;
+  top:18px;
+  left:-80px;
+  position:relative;
+  color:#ffffff;
+}
+
+#docName select
+{
+  font-size: 12px;
+  width: 150px;
+ border: 1px solid #999999 ;
+}
+
+#years
+{
+  float: left;
+  font-family:Arial;
+  left:3px;
+  position: relative;
+  color:#ffffff;
+  font-size:12px;
+}
+
+#years select
+{
+   font-size: 10px;
+   border: 1px solid #999999 ;
+}
+
+#to{
+  color: #000000;
+}
+
+#traverse
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+    z-index: 0;
+    color: #000000;
+
+}
+
+#goBack
+{
+font-family:Arial;
+   text-align: center;
+   font-size: 14px;
+   position: relative;
+   left: 150px;
+}
+
+#traverse #month a
+{
+     background-image: url(../images/traverse.png);
+     background-repeat: no-repeat;
+     width:60px;
+     height: 18px;
+     bottom: 0px;
+     vertical-align: middle;
+     font-family:Arial;
+     font-size: 12px;
+     margin-right: 5px;;
+     float:right;
+     text-align: center;
+     cursor: pointer;
+     text-decoration: none;
+     color: #000000;
+     top:11px;
+     position: relative;
+
+}
+
+#traverse #month a:Hover
+{
+     background-image: url(../images/traverse1.png);
+     background-repeat: no-repeat;
+     color:#ffffff;
+     text-decoration: none;
+
+
+}
+
+#traverse #day a
+{
+     background-image: url(../images/traverse.png);
+     background-repeat: no-repeat;
+     width:60px;
+     height: 18px;
+     bottom: 0px;
+     vertical-align: middle;
+     font-family:Arial;
+     font-size: 11px;
+     margin-right: 5px;;
+     float:right;
+     text-align: center;
+     cursor: pointer;
+     text-decoration: none;
+     color: #000000;
+     position: relative;
+      top:12px;
+
+}
+
+#traverse #day a:Hover
+{
+     background-image: url(../images/traverse1.png);
+     background-repeat: no-repeat;
+     color:#ffffff;
+     text-decoration: none;
+}
+
+#traverse #week a
+{
+
+     background-image: url(../images/traverse.png);
+     background-repeat: no-repeat;
+     width:60px;
+     height: 18px;
+     bottom: 0px;
+     vertical-align: middle;
+     font-family:Arial;
+     font-size: 11px;
+     margin-right: 5px;;
+     float:right;
+     text-align: center;
+     cursor: pointer;
+     text-decoration: none;
+     color: #000000;
+     top:11px;
+     position: relative;
+
+}
+
+#traverse #week a:Hover{
+    background-image: url(../images/traverse1.png);
+     background-repeat: no-repeat;
+     color:#ffffff;
+     text-decoration: none;
+
+
+}
+
+
+#traverse #selected a{
+     background-image: url(../images/traverse1.png);
+     background-repeat: no-repeat;
+     width:60px;
+     height: 18px;
+     bottom: 0px;
+     vertical-align: middle;
+     font-family:Arial;
+     font-size: 12px;
+     margin-right: 5px;;
+     float:right;
+     text-align: center;
+     cursor: pointer;
+     text-decoration: none;
+     color: #ffffff;
+     top:11px;
+     position: relative;
+
+}
+
+
+
+#even
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+     background-color: #CEEFFF;
+}
+
+
+#odd
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+}
+
+#hd
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+      background-color: #000000;
+      color: #ffffff;
+}
+
+#headder
+{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#ccc
+{
+    background-color: #CEEFFF;
+}
+
+
+input[type="text"]
+{
+    font-size: 14px;
+    font-family:Arial;
+    background-color: #FFFFFF;
+    border: 1px #ccc solid;
+    border: 1px solid #999999;
+}
+
+input[type="password"]
+{
+    font-size: 14px;
+    font-family:Arial;
+    background-color: #FFFFFF;
+    border: 1px #ccc solid;
+    border: 1px solid #999999;
+}
+
+textarea
+{
+    font-size: 14px;
+    font-family:Arial;
+    background-color: #FFFFFF;
+    border: 1px #999999  solid;
+}
+
+
+select
+{
+    font-size: 14px;
+    font-family:Arial;
+    background-color: #FFFFFF;
+    border: 1px solid #999999 ;
+
+}
+
+
+
+#ui-datepicker-div
+{
+    z-index:1250;
+    font-size: 62.5%;
+}
+
+#white
+{
+    color:white;
+}
+
+#printheader
+{
+  display: none;
+}
+
+.display
+{
+   -moz-border-radius: 2px 2px 2px 2px;
+    font-size: 11px;
+    font-family:Arial;
+    background-color: #FFFFFF;
+    border: 0px;
+    
+}
+
+ #banner
+{
+    top:5px;
+    left:5px;
+    float:left;
+    position:relative;
+    color: #606;
+    font-family:Arial;
+    font-size: 24px;
+	font-weight:bolder;
+    
+}
+
+ #mandatory
+{
+  color: red;
+  font-size: 15px;
+}
+
+.clHeaderAddrTitle
+{
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.clHeaderAddr
+{
+    font-size: 11px;
+    font-style: italic;
+}
+
+.minorHeading
+{
+    color: #292929;
+    font-family:Arial;
+    font-size:12px;
+    font-style: italic;
+	font-weight: bold;
+    display:block;
+
+}
+
+.minorLabel
+{
+
+    
+}
+
+.clTextHospital
+{
+
+    display: none;
+}
+
+.classInFormMainLabel
+{
+
+    font-weight: bold;
+    font-size: 16px;
+
+}
+
+.classLabel
+{
+    font-weight: bold;
+
+}
+
+input,textarea,select,option
+{
+     outline:none;
+    transition: all 0.25s ease-in-out;
+
+    -webkit-transition: all 0.25s ease-in-out;
+    -moz-transition: all 0.25s ease-in-out;
+}
+
+input:focus,textarea:focus,select:focus, option:hover {
+    box-shadow: 0 0 5px rgba(0, 0, 255, 1);
+    -webkit-box-shadow: 0 0 3px rgba(0, 0, 255, 1);
+    -moz-box-shadow: 0 0 3px rgba(0, 0, 255, 1);
+    
+}

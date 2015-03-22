@@ -1,0 +1,288 @@
+2010-02-25 10:49:48		 Start of Function : getSMSManagerForIdXML 
+2010-02-25 10:49:48		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms_manager.xml :: 
+2010-02-25 10:49:48		 End of Function : getSMSManagerForIdXML 
+2010-02-25 10:49:48		 Start of Function : insertSMSDetails 
+2010-02-25 10:49:48		 Database Connection Successful. 
+2010-02-25 10:49:48		 Database Selection Failure. MYSQL ERROR ::: Unknown database 'rt_communication' :::. 
+2010-02-25 10:49:48		 End of Function : insertSMSDetails 
+2010-02-25 12:07:11		 Start of Function : getSMSManagerForIdXML 
+2010-02-25 12:07:11		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms_manager.xml :: 
+2010-02-25 12:07:11		 End of Function : getSMSManagerForIdXML 
+2010-02-25 12:07:11		 Start of Function : insertSMSDetails 
+2010-02-25 12:07:11		 Database Connection Successful. 
+2010-02-25 12:07:11		 Database Selection Successful. 
+2010-02-25 12:07:11		 Query Executed Successfully. ::: insert into `rt_comm_sms` (`rt_comm_sms_id`,`rt_comm_to_name`,`rt_comm_to_mobile`,`rt_comm_from_name`,`rt_comm_from_mobile`,`rt_comm_message`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_sender_id`,`rt_comm_plus91_sms_id`,`rt_comm_sms_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                            (null            ,'Amar'       ,'9889678686'       ,'mahesh'       ,'9960269988'       ,'I am bussy now, call u later...'       ,'send'       ,'2010-02-24'       ,'12:00:00'       ,'2010-02-24'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-25'                ,'12:00:00'                ,'1'                ,'Clinic'       ,'AAA666'       ,'1'       ,'43'  ,''       ,''       ,''); 
+2010-02-25 12:07:11		 Database Connection Closed Successful. 
+2010-02-25 12:07:11		 End of Function : insertSMSDetails 
+2010-02-25 12:07:11		 Start of Function : insertSMSDetailsXML 
+2010-02-25 12:07:11		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms.xml :: 
+2010-02-25 12:07:11		 XML File Update Successfully. 
+2010-02-25 12:07:11		 End of Function : insertSMSDetailsXML 
+2010-02-25 12:09:49		 Start of Function : getSMSManagerForIdXML 
+2010-02-25 12:09:49		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms_manager.xml :: 
+2010-02-25 12:09:49		 End of Function : getSMSManagerForIdXML 
+2010-02-25 12:09:49		 Start of Function : insertSMSDetails 
+2010-02-25 12:09:49		 Database Connection Successful. 
+2010-02-25 12:09:49		 Database Selection Successful. 
+2010-02-25 12:09:49		 Query Executed Successfully. ::: insert into `rt_comm_sms` (`rt_comm_sms_id`,`rt_comm_to_name`,`rt_comm_to_mobile`,`rt_comm_from_name`,`rt_comm_from_mobile`,`rt_comm_message`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_sender_id`,`rt_comm_plus91_sms_id`,`rt_comm_sms_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                            (null            ,'Amar'       ,'9889678686'       ,'mahesh'       ,'9960269988'       ,'a cute smile of friend make the day beautiful      '       ,'send'       ,'2010-02-24'       ,'12:00:00'       ,'2010-02-24'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-25'                ,'12:00:00'                ,'1'                ,'Clinic'       ,'AAA666'       ,'1'       ,'44'  ,''       ,''       ,''); 
+2010-02-25 12:09:49		 Database Connection Closed Successful. 
+2010-02-25 12:09:49		 End of Function : insertSMSDetails 
+2010-02-25 12:09:49		 Start of Function : insertSMSDetailsXML 
+2010-02-25 12:09:49		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms.xml :: 
+2010-02-25 12:09:49		 XML File Update Successfully. 
+2010-02-25 12:09:49		 End of Function : insertSMSDetailsXML 
+2010-02-25 12:11:12		 Start of Function : getSMSManagerForIdXML 
+2010-02-25 12:11:12		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms_manager.xml :: 
+2010-02-25 12:11:12		 End of Function : getSMSManagerForIdXML 
+2010-02-25 12:11:12		 Start of Function : insertSMSDetails 
+2010-02-25 12:11:12		 Database Connection Successful. 
+2010-02-25 12:11:12		 Database Selection Successful. 
+2010-02-25 12:11:12		 Query Executed Successfully. ::: insert into `rt_comm_sms` (`rt_comm_sms_id`,`rt_comm_to_name`,`rt_comm_to_mobile`,`rt_comm_from_name`,`rt_comm_from_mobile`,`rt_comm_message`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_sender_id`,`rt_comm_plus91_sms_id`,`rt_comm_sms_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                            (null            ,'Amar'       ,'9889678686'       ,'mahesh'       ,'9960269988'       ,'I am bussy now, call u later...'       ,'send'       ,'2010-02-24'       ,'12:00:00'       ,'2010-02-24'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-25'                ,'12:00:00'                ,'1'                ,'Clinic'       ,'AAA666'       ,'1'       ,'45'  ,''       ,''       ,''); 
+2010-02-25 12:11:12		 Database Connection Closed Successful. 
+2010-02-25 12:11:12		 End of Function : insertSMSDetails 
+2010-02-25 12:11:12		 Start of Function : insertSMSDetailsXML 
+2010-02-25 12:11:12		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms.xml :: 
+2010-02-25 12:11:12		 XML File Update Successfully. 
+2010-02-25 12:11:12		 End of Function : insertSMSDetailsXML 
+2010-02-25 12:14:13		 Start of Function : getSMSManagerForIdXML 
+2010-02-25 12:14:13		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms_manager.xml :: 
+2010-02-25 12:14:13		 End of Function : getSMSManagerForIdXML 
+2010-02-25 12:14:13		 Start of Function : insertSMSDetails 
+2010-02-25 12:14:13		 Database Connection Successful. 
+2010-02-25 12:14:13		 Database Selection Successful. 
+2010-02-25 12:14:13		 Query Executed Successfully. ::: insert into `rt_comm_sms` (`rt_comm_sms_id`,`rt_comm_to_name`,`rt_comm_to_mobile`,`rt_comm_from_name`,`rt_comm_from_mobile`,`rt_comm_message`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_sender_id`,`rt_comm_plus91_sms_id`,`rt_comm_sms_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                            (null            ,'Ambrish'       ,'9090324234'       ,'mahesh'       ,'9960269988'       ,'Have a nice day.'       ,'send'       ,'2010-02-24'       ,'12:00:00'       ,'2010-02-24'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-25'                ,'12:00:00'                ,'1'                ,'Clinic'       ,'AAA666'       ,'1'       ,'47'  ,''       ,''       ,''); 
+2010-02-25 12:14:13		 Database Connection Closed Successful. 
+2010-02-25 12:14:13		 End of Function : insertSMSDetails 
+2010-02-25 12:14:13		 Start of Function : insertSMSDetailsXML 
+2010-02-25 12:14:13		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms.xml :: 
+2010-02-25 12:14:13		 XML File Update Successfully. 
+2010-02-25 12:14:13		 End of Function : insertSMSDetailsXML 
+2010-02-25 12:15:29		 Start of Function : getSMSManagerForIdXML 
+2010-02-25 12:15:29		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms_manager.xml :: 
+2010-02-25 12:15:29		 End of Function : getSMSManagerForIdXML 
+2010-02-25 12:15:29		 Start of Function : insertSMSDetails 
+2010-02-25 12:15:29		 Database Connection Successful. 
+2010-02-25 12:15:29		 Database Selection Successful. 
+2010-02-25 12:15:29		 Query Executed Successfully. ::: insert into `rt_comm_sms` (`rt_comm_sms_id`,`rt_comm_to_name`,`rt_comm_to_mobile`,`rt_comm_from_name`,`rt_comm_from_mobile`,`rt_comm_message`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_sender_id`,`rt_comm_plus91_sms_id`,`rt_comm_sms_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                            (null            ,'Ambrish'       ,'9090324234'       ,'mahesh'       ,'9960269988'       ,'a cute smile of friend make the day beautiful      '       ,'send'       ,'2010-02-24'       ,'12:00:00'       ,'2010-02-24'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-25'                ,'12:00:00'                ,'1'                ,'Clinic'       ,'AAA666'       ,'1'       ,'48'  ,''       ,''       ,''); 
+2010-02-25 12:15:29		 Database Connection Closed Successful. 
+2010-02-25 12:15:29		 End of Function : insertSMSDetails 
+2010-02-25 12:15:29		 Start of Function : insertSMSDetailsXML 
+2010-02-25 12:15:29		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms.xml :: 
+2010-02-25 12:15:29		 XML File Update Successfully. 
+2010-02-25 12:15:29		 End of Function : insertSMSDetailsXML 
+2010-02-25 12:15:52		 Start of Function : getSMSManagerForIdXML 
+2010-02-25 12:15:52		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms_manager.xml :: 
+2010-02-25 12:15:52		 End of Function : getSMSManagerForIdXML 
+2010-02-25 12:15:52		 Start of Function : insertSMSDetails 
+2010-02-25 12:15:52		 Database Connection Successful. 
+2010-02-25 12:15:52		 Database Selection Successful. 
+2010-02-25 12:15:52		 Query Executed Successfully. ::: insert into `rt_comm_sms` (`rt_comm_sms_id`,`rt_comm_to_name`,`rt_comm_to_mobile`,`rt_comm_from_name`,`rt_comm_from_mobile`,`rt_comm_message`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_sender_id`,`rt_comm_plus91_sms_id`,`rt_comm_sms_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                            (null            ,'Karan'       ,'9080890890'       ,'mahesh'       ,'9960269988'       ,'a cute smile of friend make the day beautiful      '       ,'send'       ,'2010-02-24'       ,'12:00:00'       ,'2010-02-24'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-25'                ,'12:00:00'                ,'1'                ,'Clinic'       ,'AAA666'       ,'1'       ,'49'  ,''       ,''       ,''); 
+2010-02-25 12:15:52		 Database Connection Closed Successful. 
+2010-02-25 12:15:52		 End of Function : insertSMSDetails 
+2010-02-25 12:15:52		 Start of Function : insertSMSDetailsXML 
+2010-02-25 12:15:52		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms.xml :: 
+2010-02-25 12:15:52		 XML File Update Successfully. 
+2010-02-25 12:15:52		 End of Function : insertSMSDetailsXML 
+2010-02-27 09:53:44		 Start of Function : getSMSManagerForIdXML 
+2010-02-27 09:53:44		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms_manager.xml :: 
+2010-02-27 09:53:44		 End of Function : getSMSManagerForIdXML 
+2010-02-27 09:53:44		 Start of Function : insertSMSDetails 
+2010-02-27 09:53:44		 Database Connection Successful. 
+2010-02-27 09:53:44		 Database Selection Successful. 
+2010-02-27 09:53:44		 Query Executed Successfully. ::: insert into `rt_comm_sms` (`rt_comm_sms_id`,`rt_comm_to_name`,`rt_comm_to_mobile`,`rt_comm_from_name`,`rt_comm_from_mobile`,`rt_comm_message`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_sender_id`,`rt_comm_plus91_sms_id`,`rt_comm_sms_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                            (null            ,'Antara'       ,'9845453454'       ,'mahesh'       ,'9960269988'       ,'Have a nice day.'       ,'send'       ,'2010-02-24'       ,'12:00:00'       ,'2010-02-24'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-27'                ,'12:00:00'                ,'1'                ,'Clinic'       ,'AAA666'       ,'1'       ,'59'  ,''       ,''       ,''); 
+2010-02-27 09:53:44		 Database Connection Closed Successful. 
+2010-02-27 09:53:44		 End of Function : insertSMSDetails 
+2010-02-27 09:53:44		 Start of Function : insertSMSDetailsXML 
+2010-02-27 09:53:44		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms.xml :: 
+2010-02-27 09:53:44		 XML File Update Successfully. 
+2010-02-27 09:53:44		 End of Function : insertSMSDetailsXML 
+2010-02-27 09:55:43		 Start of Function : getSMSManagerForIdXML 
+2010-02-27 09:55:43		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms_manager.xml :: 
+2010-02-27 09:55:43		 End of Function : getSMSManagerForIdXML 
+2010-02-27 09:55:43		 Start of Function : insertSMSDetails 
+2010-02-27 09:55:43		 Database Connection Successful. 
+2010-02-27 09:55:43		 Database Selection Successful. 
+2010-02-27 09:55:43		 Query Executed Successfully. ::: insert into `rt_comm_sms` (`rt_comm_sms_id`,`rt_comm_to_name`,`rt_comm_to_mobile`,`rt_comm_from_name`,`rt_comm_from_mobile`,`rt_comm_message`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_sender_id`,`rt_comm_plus91_sms_id`,`rt_comm_sms_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                            (null            ,'Antara'       ,'9845453454'       ,'mahesh'       ,'9960269988'       ,'Have a nice day.'       ,'send'       ,'2010-02-24'       ,'12:00:00'       ,'2010-02-24'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-27'                ,'12:00:00'                ,'1'                ,'Clinic'       ,'AAA666'       ,'1'       ,'60'  ,''       ,''       ,''); 
+2010-02-27 09:55:43		 Database Connection Closed Successful. 
+2010-02-27 09:55:43		 End of Function : insertSMSDetails 
+2010-02-27 09:55:43		 Start of Function : insertSMSDetailsXML 
+2010-02-27 09:55:43		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms.xml :: 
+2010-02-27 09:55:43		 XML File Update Successfully. 
+2010-02-27 09:55:43		 End of Function : insertSMSDetailsXML 
+2010-02-27 09:56:16		 Start of Function : getSMSManagerForIdXML 
+2010-02-27 09:56:16		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms_manager.xml :: 
+2010-02-27 09:56:16		 End of Function : getSMSManagerForIdXML 
+2010-02-27 09:56:16		 Start of Function : insertSMSDetails 
+2010-02-27 09:56:16		 Database Connection Successful. 
+2010-02-27 09:56:16		 Database Selection Successful. 
+2010-02-27 09:56:16		 Query Executed Successfully. ::: insert into `rt_comm_sms` (`rt_comm_sms_id`,`rt_comm_to_name`,`rt_comm_to_mobile`,`rt_comm_from_name`,`rt_comm_from_mobile`,`rt_comm_message`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_sender_id`,`rt_comm_plus91_sms_id`,`rt_comm_sms_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                            (null            ,'Antara'       ,'9845453454'       ,'mahesh'       ,'9960269988'       ,'Have a nice day.'       ,'send'       ,'2010-02-24'       ,'12:00:00'       ,'2010-02-24'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-27'                ,'12:00:00'                ,'1'                ,'Clinic'       ,'AAA666'       ,'1'       ,'61'  ,''       ,''       ,''); 
+2010-02-27 09:56:16		 Database Connection Closed Successful. 
+2010-02-27 09:56:16		 End of Function : insertSMSDetails 
+2010-02-27 09:56:16		 Start of Function : insertSMSDetailsXML 
+2010-02-27 09:56:16		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms.xml :: 
+2010-02-27 09:56:16		 XML File Update Successfully. 
+2010-02-27 09:56:16		 End of Function : insertSMSDetailsXML 
+2010-02-27 09:56:26		 Start of Function : getSMSManagerForIdXML 
+2010-02-27 09:56:26		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms_manager.xml :: 
+2010-02-27 09:56:26		 End of Function : getSMSManagerForIdXML 
+2010-02-27 09:56:26		 Start of Function : insertSMSDetails 
+2010-02-27 09:56:26		 Database Connection Successful. 
+2010-02-27 09:56:26		 Database Selection Successful. 
+2010-02-27 09:56:26		 Query Executed Successfully. ::: insert into `rt_comm_sms` (`rt_comm_sms_id`,`rt_comm_to_name`,`rt_comm_to_mobile`,`rt_comm_from_name`,`rt_comm_from_mobile`,`rt_comm_message`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_sender_id`,`rt_comm_plus91_sms_id`,`rt_comm_sms_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                            (null            ,'Antara'       ,'9845453454'       ,'mahesh'       ,'9960269988'       ,'Have a nice day.'       ,'send'       ,'2010-02-24'       ,'12:00:00'       ,'2010-02-24'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-27'                ,'12:00:00'                ,'1'                ,'Clinic'       ,'AAA666'       ,'1'       ,'62'  ,''       ,''       ,''); 
+2010-02-27 09:56:26		 Database Connection Closed Successful. 
+2010-02-27 09:56:26		 End of Function : insertSMSDetails 
+2010-02-27 09:56:26		 Start of Function : insertSMSDetailsXML 
+2010-02-27 09:56:26		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms.xml :: 
+2010-02-27 09:56:26		 XML File Update Successfully. 
+2010-02-27 09:56:26		 End of Function : insertSMSDetailsXML 
+2010-02-27 09:58:18		 Start of Function : getSMSManagerForIdXML 
+2010-02-27 09:58:18		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms_manager.xml :: 
+2010-02-27 09:58:18		 End of Function : getSMSManagerForIdXML 
+2010-02-27 09:58:18		 Start of Function : insertSMSDetails 
+2010-02-27 09:58:18		 Database Connection Successful. 
+2010-02-27 09:58:18		 Database Selection Successful. 
+2010-02-27 09:58:18		 Query Executed Successfully. ::: insert into `rt_comm_sms` (`rt_comm_sms_id`,`rt_comm_to_name`,`rt_comm_to_mobile`,`rt_comm_from_name`,`rt_comm_from_mobile`,`rt_comm_message`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_sender_id`,`rt_comm_plus91_sms_id`,`rt_comm_sms_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                            (null            ,'Antara'       ,'9845453454'       ,'mahesh'       ,'9960269988'       ,'Have a nice day.'       ,'send'       ,'2010-02-24'       ,'12:00:00'       ,'2010-02-24'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-27'                ,'12:00:00'                ,'1'                ,'Clinic'       ,'AAA666'       ,'1'       ,'63'  ,''       ,''       ,''); 
+2010-02-27 09:58:18		 Database Connection Closed Successful. 
+2010-02-27 09:58:18		 End of Function : insertSMSDetails 
+2010-02-27 09:58:18		 Start of Function : insertSMSDetailsXML 
+2010-02-27 09:58:18		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms.xml :: 
+2010-02-27 09:58:18		 XML File Update Successfully. 
+2010-02-27 09:58:18		 End of Function : insertSMSDetailsXML 
+2010-02-27 09:58:58		 Start of Function : getSMSManagerForIdXML 
+2010-02-27 09:58:58		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms_manager.xml :: 
+2010-02-27 09:58:58		 End of Function : getSMSManagerForIdXML 
+2010-02-27 09:58:58		 Start of Function : insertSMSDetails 
+2010-02-27 09:58:58		 Database Connection Successful. 
+2010-02-27 09:58:58		 Database Selection Successful. 
+2010-02-27 09:58:58		 Query Executed Successfully. ::: insert into `rt_comm_sms` (`rt_comm_sms_id`,`rt_comm_to_name`,`rt_comm_to_mobile`,`rt_comm_from_name`,`rt_comm_from_mobile`,`rt_comm_message`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_sender_id`,`rt_comm_plus91_sms_id`,`rt_comm_sms_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                            (null            ,'Antara'       ,'9845453454'       ,'mahesh'       ,'9960269988'       ,'Have a nice day.'       ,'send'       ,'2010-02-24'       ,'12:00:00'       ,'2010-02-24'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-27'                ,'12:00:00'                ,'1'                ,'Clinic'       ,'AAA666'       ,'1'       ,'64'  ,''       ,''       ,''); 
+2010-02-27 09:58:58		 Database Connection Closed Successful. 
+2010-02-27 09:58:58		 End of Function : insertSMSDetails 
+2010-02-27 09:58:58		 Start of Function : insertSMSDetailsXML 
+2010-02-27 09:58:58		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms.xml :: 
+2010-02-27 09:58:58		 XML File Update Successfully. 
+2010-02-27 09:58:58		 End of Function : insertSMSDetailsXML 
+2010-02-27 09:59:19		 Start of Function : getSMSManagerForIdXML 
+2010-02-27 09:59:19		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms_manager.xml :: 
+2010-02-27 09:59:19		 End of Function : getSMSManagerForIdXML 
+2010-02-27 09:59:19		 Start of Function : insertSMSDetails 
+2010-02-27 09:59:19		 Database Connection Successful. 
+2010-02-27 09:59:19		 Database Selection Successful. 
+2010-02-27 09:59:19		 Query Executed Successfully. ::: insert into `rt_comm_sms` (`rt_comm_sms_id`,`rt_comm_to_name`,`rt_comm_to_mobile`,`rt_comm_from_name`,`rt_comm_from_mobile`,`rt_comm_message`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_sender_id`,`rt_comm_plus91_sms_id`,`rt_comm_sms_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                            (null            ,'Antara'       ,'9845453454'       ,'mahesh'       ,'9960269988'       ,'
+        '       ,'send'       ,'2010-02-24'       ,'12:00:00'       ,'2010-02-24'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-27'                ,'12:00:00'                ,'1'                ,'Clinic'       ,'AAA666'       ,'1'       ,'65'  ,''       ,''       ,''); 
+2010-02-27 09:59:19		 Database Connection Closed Successful. 
+2010-02-27 09:59:19		 End of Function : insertSMSDetails 
+2010-02-27 09:59:19		 Start of Function : insertSMSDetailsXML 
+2010-02-27 09:59:19		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms.xml :: 
+2010-02-27 09:59:19		 XML File Update Successfully. 
+2010-02-27 09:59:19		 End of Function : insertSMSDetailsXML 
+2010-02-27 10:00:04		 Start of Function : getSMSManagerForIdXML 
+2010-02-27 10:00:04		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms_manager.xml :: 
+2010-02-27 10:00:04		 End of Function : getSMSManagerForIdXML 
+2010-02-27 10:00:04		 Start of Function : insertSMSDetails 
+2010-02-27 10:00:04		 Database Connection Successful. 
+2010-02-27 10:00:04		 Database Selection Successful. 
+2010-02-27 10:00:04		 Query Executed Successfully. ::: insert into `rt_comm_sms` (`rt_comm_sms_id`,`rt_comm_to_name`,`rt_comm_to_mobile`,`rt_comm_from_name`,`rt_comm_from_mobile`,`rt_comm_message`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_sender_id`,`rt_comm_plus91_sms_id`,`rt_comm_sms_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                            (null            ,'Antara'       ,'9845453454'       ,'mahesh'       ,'9960269988'       ,'Have a nice day.'       ,'send'       ,'2010-02-24'       ,'12:00:00'       ,'2010-02-24'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-27'                ,'12:00:00'                ,'1'                ,'Clinic'       ,'AAA666'       ,'1'       ,'66'  ,''       ,''       ,''); 
+2010-02-27 10:00:04		 Database Connection Closed Successful. 
+2010-02-27 10:00:04		 End of Function : insertSMSDetails 
+2010-02-27 10:00:04		 Start of Function : insertSMSDetailsXML 
+2010-02-27 10:00:04		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms.xml :: 
+2010-02-27 10:00:04		 XML File Update Successfully. 
+2010-02-27 10:00:04		 End of Function : insertSMSDetailsXML 
+2010-02-27 10:04:17		 Start of Function : getSMSManagerForIdXML 
+2010-02-27 10:04:17		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms_manager.xml :: 
+2010-02-27 10:04:17		 End of Function : getSMSManagerForIdXML 
+2010-02-27 10:04:17		 Start of Function : insertSMSDetails 
+2010-02-27 10:04:17		 Database Connection Successful. 
+2010-02-27 10:04:17		 Database Selection Successful. 
+2010-02-27 10:04:17		 Query Executed Successfully. ::: insert into `rt_comm_sms` (`rt_comm_sms_id`,`rt_comm_to_name`,`rt_comm_to_mobile`,`rt_comm_from_name`,`rt_comm_from_mobile`,`rt_comm_message`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_sender_id`,`rt_comm_plus91_sms_id`,`rt_comm_sms_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                            (null            ,'Antara'       ,'9845453454'       ,'mahesh'       ,'9960269988'       ,'Have a nice day.'       ,'send'       ,'2010-02-24'       ,'12:00:00'       ,'2010-02-24'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-27'                ,'12:00:00'                ,'1'                ,'Clinic'       ,'AAA666'       ,'1'       ,'67'  ,''       ,''       ,''); 
+2010-02-27 10:04:17		 Database Connection Closed Successful. 
+2010-02-27 10:04:17		 End of Function : insertSMSDetails 
+2010-02-27 10:04:17		 Start of Function : insertSMSDetailsXML 
+2010-02-27 10:04:17		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms.xml :: 
+2010-02-27 10:04:17		 XML File Update Successfully. 
+2010-02-27 10:04:17		 End of Function : insertSMSDetailsXML 
+2010-02-27 10:05:04		 Start of Function : getSMSManagerForIdXML 
+2010-02-27 10:05:04		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms_manager.xml :: 
+2010-02-27 10:05:04		 End of Function : getSMSManagerForIdXML 
+2010-02-27 10:05:04		 Start of Function : insertSMSDetails 
+2010-02-27 10:05:04		 Database Connection Successful. 
+2010-02-27 10:05:04		 Database Selection Successful. 
+2010-02-27 10:05:04		 Query Executed Successfully. ::: insert into `rt_comm_sms` (`rt_comm_sms_id`,`rt_comm_to_name`,`rt_comm_to_mobile`,`rt_comm_from_name`,`rt_comm_from_mobile`,`rt_comm_message`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_sender_id`,`rt_comm_plus91_sms_id`,`rt_comm_sms_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                            (null            ,'Antara'       ,'9845453454'       ,'mahesh'       ,'9960269988'       ,'Have a nice day.'       ,'send'       ,'2010-02-24'       ,'12:00:00'       ,'2010-02-24'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-27'                ,'12:00:00'                ,'1'                ,'Clinic'       ,'AAA666'       ,'1'       ,'68'  ,''       ,''       ,''); 
+2010-02-27 10:05:04		 Database Connection Closed Successful. 
+2010-02-27 10:05:04		 End of Function : insertSMSDetails 
+2010-02-27 10:05:04		 Start of Function : insertSMSDetailsXML 
+2010-02-27 10:05:04		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms.xml :: 
+2010-02-27 10:05:04		 XML File Update Successfully. 
+2010-02-27 10:05:04		 End of Function : insertSMSDetailsXML 
+2010-02-27 10:05:30		 Start of Function : getSMSManagerForIdXML 
+2010-02-27 10:05:30		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms_manager.xml :: 
+2010-02-27 10:05:30		 End of Function : getSMSManagerForIdXML 
+2010-02-27 10:05:30		 Start of Function : insertSMSDetails 
+2010-02-27 10:05:30		 Database Connection Successful. 
+2010-02-27 10:05:30		 Database Selection Successful. 
+2010-02-27 10:05:31		 Query Executed Successfully. ::: insert into `rt_comm_sms` (`rt_comm_sms_id`,`rt_comm_to_name`,`rt_comm_to_mobile`,`rt_comm_from_name`,`rt_comm_from_mobile`,`rt_comm_message`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_sender_id`,`rt_comm_plus91_sms_id`,`rt_comm_sms_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                            (null            ,'Antara'       ,'9845453454'       ,'mahesh'       ,'9960269988'       ,'Have a nice day.'       ,'send'       ,'2010-02-24'       ,'12:00:00'       ,'2010-02-24'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-27'                ,'12:00:00'                ,'1'                ,'Clinic'       ,'AAA666'       ,'1'       ,'69'  ,''       ,''       ,''); 
+2010-02-27 10:05:31		 Database Connection Closed Successful. 
+2010-02-27 10:05:31		 End of Function : insertSMSDetails 
+2010-02-27 10:05:31		 Start of Function : insertSMSDetailsXML 
+2010-02-27 10:05:31		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms.xml :: 
+2010-02-27 10:05:31		 XML File Update Successfully. 
+2010-02-27 10:05:31		 End of Function : insertSMSDetailsXML 
+2010-02-27 10:09:40		 Start of Function : getSMSManagerForIdXML 
+2010-02-27 10:09:40		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms_manager.xml :: 
+2010-02-27 10:09:40		 End of Function : getSMSManagerForIdXML 
+2010-02-27 10:09:40		 Start of Function : insertSMSDetails 
+2010-02-27 10:09:40		 Database Connection Successful. 
+2010-02-27 10:09:40		 Database Selection Successful. 
+2010-02-27 10:09:40		 Query Executed Successfully. ::: insert into `rt_comm_sms` (`rt_comm_sms_id`,`rt_comm_to_name`,`rt_comm_to_mobile`,`rt_comm_from_name`,`rt_comm_from_mobile`,`rt_comm_message`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_sender_id`,`rt_comm_plus91_sms_id`,`rt_comm_sms_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                            (null            ,'Satish'       ,'9890808908'       ,'mahesh'       ,'9960269988'       ,'Have a nice day.'       ,'send'       ,'2010-02-24'       ,'12:00:00'       ,'2010-02-24'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-27'                ,'12:00:00'                ,'1'                ,'Clinic'       ,'AAA666'       ,'1'       ,'70'  ,''       ,''       ,''); 
+2010-02-27 10:09:40		 Database Connection Closed Successful. 
+2010-02-27 10:09:40		 End of Function : insertSMSDetails 
+2010-02-27 10:09:40		 Start of Function : insertSMSDetailsXML 
+2010-02-27 10:09:40		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms.xml :: 
+2010-02-27 10:09:41		 XML File Update Successfully. 
+2010-02-27 10:09:41		 End of Function : insertSMSDetailsXML 
+2010-02-27 10:13:18		 Start of Function : getSMSManagerForIdXML 
+2010-02-27 10:13:18		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms_manager.xml :: 
+2010-02-27 10:13:18		 End of Function : getSMSManagerForIdXML 
+2010-02-27 10:13:18		 Start of Function : insertSMSDetails 
+2010-02-27 10:13:18		 Database Connection Successful. 
+2010-02-27 10:13:18		 Database Selection Successful. 
+2010-02-27 10:13:18		 Query Executed Successfully. ::: insert into `rt_comm_sms` (`rt_comm_sms_id`,`rt_comm_to_name`,`rt_comm_to_mobile`,`rt_comm_from_name`,`rt_comm_from_mobile`,`rt_comm_message`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_sender_id`,`rt_comm_plus91_sms_id`,`rt_comm_sms_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                            (null            ,'Ambrish'       ,'9808080890'       ,'mahesh'       ,'9960269988'       ,'Have a nice day.'       ,'send'       ,'2010-02-24'       ,'12:00:00'       ,'2010-02-24'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-27'                ,'12:00:00'                ,'1'                ,'Clinic'       ,'AAA666'       ,'1'       ,'71'  ,''       ,''       ,''); 
+2010-02-27 10:13:18		 Database Connection Closed Successful. 
+2010-02-27 10:13:18		 End of Function : insertSMSDetails 
+2010-02-27 10:13:18		 Start of Function : insertSMSDetailsXML 
+2010-02-27 10:13:18		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms.xml :: 
+2010-02-27 10:13:18		 XML File Update Successfully. 
+2010-02-27 10:13:18		 End of Function : insertSMSDetailsXML 
+2010-02-27 13:02:07		 Start of Function : getSMSManagerForIdXML 
+2010-02-27 13:02:07		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms_manager.xml :: 
+2010-02-27 13:02:07		 End of Function : getSMSManagerForIdXML 
+2010-02-27 13:02:07		 Start of Function : insertSMSDetails 
+2010-02-27 13:02:07		 Database Connection Successful. 
+2010-02-27 13:02:07		 Database Selection Successful. 
+2010-02-27 13:02:07		 Query Executed Successfully. ::: insert into `rt_comm_sms` (`rt_comm_sms_id`,`rt_comm_to_name`,`rt_comm_to_mobile`,`rt_comm_from_name`,`rt_comm_from_mobile`,`rt_comm_message`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_sender_id`,`rt_comm_plus91_sms_id`,`rt_comm_sms_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                            (null            ,'Antara'       ,'9845453454'       ,'mahesh'       ,'9960269988'       ,'Good Morning to my sweet friend.        '       ,'send'       ,'2010-02-24'       ,'12:00:00'       ,'2010-02-24'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-27'                ,'12:00:00'                ,'1'                ,'Clinic'       ,'AAA666'       ,'1'       ,'74'  ,''       ,''       ,''); 
+2010-02-27 13:02:07		 Database Connection Closed Successful. 
+2010-02-27 13:02:07		 End of Function : insertSMSDetails 
+2010-02-27 13:02:07		 Start of Function : insertSMSDetailsXML 
+2010-02-27 13:02:07		 XML File Found. :: ../db1_layer_comm/comm/sms/xml/sms.xml :: 
+2010-02-27 13:02:07		 XML File Update Successfully. 
+2010-02-27 13:02:07		 End of Function : insertSMSDetailsXML 

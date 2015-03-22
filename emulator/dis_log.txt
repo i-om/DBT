@@ -1,0 +1,316 @@
+2010-02-23 15:58:28		 Start of Function : insertDisplayDetails 
+2010-02-23 15:58:28		 Database Connection Successful. 
+2010-02-23 15:58:28		 Database Selection Failure. MYSQL ERROR ::: Unknown database 'rt_communication' :::. 
+2010-02-23 15:58:28		 End of Function : insertDisplayDetails 
+2010-02-23 16:09:43		 Start of Function : insertDisplayDetails 
+2010-02-23 16:09:43		 Database Connection Successful. 
+2010-02-23 16:09:43		 Database Selection Successful. 
+2010-02-23 16:09:43		 Query Executed Successfully. ::: insert into `rt_comm_display` (`rt_comm_display_id`,`rt_comm_to_name`,`rt_comm_to_user_id`,`rt_comm_tag`,`rt_comm_message`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_display_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                                (null                ,'mahesh'          ,'1'       ,'Schedule'       ,'
+      Message  '       ,'2010-02-23'       ,'16:09:43'       ,'test'            ,'1'       ,'2010-02-23'                ,'16:09:43'                ,'1'                ,'1'       ,'1'  ,''       ,''       ,''); 
+2010-02-23 16:09:43		 Database Connection Closed Successful. 
+2010-02-23 16:09:43		 End of Function : insertDisplayDetails 
+2010-02-23 16:09:43		 Start of Function : insertDisplayDetailsXML 
+2010-02-23 16:09:43		 XML File Found. :: ../db1_layer_comm/comm/display/xml/dis.xml :: 
+2010-02-23 16:09:43		 XML File Update Successfully. 
+2010-02-23 16:09:43		 End of Function : insertDisplayDetailsXML 
+2010-02-23 16:23:37		 Start of Function : insertDisplayDetails 
+2010-02-23 16:23:37		 Database Connection Successful. 
+2010-02-23 16:23:37		 Database Selection Successful. 
+2010-02-23 16:23:37		 Query Executed Successfully. ::: insert into `rt_comm_display` (`rt_comm_display_id`,`rt_comm_to_name`,`rt_comm_to_user_id`,`rt_comm_tag`,`rt_comm_message`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_display_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                                (null                ,'mahesh'          ,'1'       ,'Schedule'       ,'
+        '       ,'2010-12-23'       ,'16:23:37'       ,'test'            ,'1'       ,'2010-02-23'                ,'16:23:37'                ,'1'                ,'1'       ,'1'  ,''       ,''       ,''); 
+2010-02-23 16:23:37		 Database Connection Closed Successful. 
+2010-02-23 16:23:37		 End of Function : insertDisplayDetails 
+2010-02-23 16:23:37		 Start of Function : insertDisplayDetailsXML 
+2010-02-23 16:23:37		 XML File Found. :: ../db1_layer_comm/comm/display/xml/dis.xml :: 
+2010-02-23 16:23:37		 XML File Update Successfully. 
+2010-02-23 16:23:37		 End of Function : insertDisplayDetailsXML 
+2010-02-23 16:46:52		 Start of Function : insertDisplayDetails 
+2010-02-23 16:46:52		 Database Connection Successful. 
+2010-02-23 16:46:52		 Database Selection Successful. 
+2010-02-23 16:46:52		 Query Executed Successfully. ::: insert into `rt_comm_display` (`rt_comm_display_id`,`rt_comm_to_name`,`rt_comm_to_user_id`,`rt_comm_tag`,`rt_comm_message`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_display_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                                (null                ,'mahesh'          ,'1'       ,'Schedule'       ,'Work at home
+        '       ,'2010-12-24'       ,'16:46:52'       ,'test'            ,'1'       ,'2010-02-23'                ,'16:46:52'                ,'1'                ,'1'       ,'1'  ,''       ,''       ,''); 
+2010-02-23 16:46:52		 Database Connection Closed Successful. 
+2010-02-23 16:46:52		 End of Function : insertDisplayDetails 
+2010-02-23 16:46:52		 Start of Function : insertDisplayDetailsXML 
+2010-02-23 16:46:52		 XML File Found. :: ../db1_layer_comm/comm/display/xml/dis.xml :: 
+2010-02-23 16:46:52		 XML File Update Successfully. 
+2010-02-23 16:46:52		 End of Function : insertDisplayDetailsXML 
+2010-02-24 05:24:37		 Start of Function : insertDisplayDetails 
+2010-02-24 05:24:37		 Database Connection Successful. 
+2010-02-24 05:24:37		 Database Selection Successful. 
+2010-02-24 05:24:37		 Query Executed Successfully. ::: insert into `rt_comm_display` (`rt_comm_display_id`,`rt_comm_to_name`,`rt_comm_to_user_id`,`rt_comm_tag`,`rt_comm_message`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_display_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                                (null                ,'mahesh'          ,'1'       ,'Schedule'       ,'Good morning
+        '       ,'2010-11-30'       ,'05:24:37'       ,'test'            ,'1'       ,'2010-02-24'                ,'05:24:37'                ,'1'                ,'1'       ,'1'  ,''       ,''       ,''); 
+2010-02-24 05:24:37		 Database Connection Closed Successful. 
+2010-02-24 05:24:37		 End of Function : insertDisplayDetails 
+2010-02-24 05:24:37		 Start of Function : insertDisplayDetailsXML 
+2010-02-24 05:24:37		 XML File Found. :: ../db1_layer_comm/comm/display/xml/dis.xml :: 
+2010-02-24 05:24:37		 XML File Update Successfully. 
+2010-02-24 05:24:37		 End of Function : insertDisplayDetailsXML 
+2010-02-24 05:31:25		 Start of Function : insertDisplayDetails 
+2010-02-24 05:31:25		 Database Connection Successful. 
+2010-02-24 05:31:25		 Database Selection Successful. 
+2010-02-24 05:31:25		 Query Executed Successfully. ::: insert into `rt_comm_display` (`rt_comm_display_id`,`rt_comm_to_name`,`rt_comm_to_user_id`,`rt_comm_tag`,`rt_comm_message`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_display_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                                (null                ,'mahesh'          ,'1'       ,'Schedule'       ,'
+      Messag  '       ,'2010-12-23'       ,'05:31:25'       ,'test'            ,'1'       ,'2010-02-24'                ,'05:31:25'                ,'1'                ,'1'       ,'1'  ,''       ,''       ,''); 
+2010-02-24 05:31:25		 Database Connection Closed Successful. 
+2010-02-24 05:31:25		 End of Function : insertDisplayDetails 
+2010-02-24 05:31:25		 Start of Function : insertDisplayDetailsXML 
+2010-02-24 05:31:25		 XML File Found. :: ../db1_layer_comm/comm/display/xml/dis.xml :: 
+2010-02-24 05:31:25		 XML File Update Successfully. 
+2010-02-24 05:31:25		 End of Function : insertDisplayDetailsXML 
+2010-02-24 05:32:31		 Start of Function : insertDisplayDetails 
+2010-02-24 05:32:31		 Database Connection Successful. 
+2010-02-24 05:32:31		 Database Selection Successful. 
+2010-02-24 05:32:31		 Query Executed Successfully. ::: insert into `rt_comm_display` (`rt_comm_display_id`,`rt_comm_to_name`,`rt_comm_to_user_id`,`rt_comm_tag`,`rt_comm_message`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_display_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                                (null                ,'mahesh'          ,'1'       ,'Schedule'       ,'
+    Message    '       ,'2010-12-24'       ,'05:32:31'       ,'test'            ,'1'       ,'2010-02-24'                ,'05:32:31'                ,'1'                ,'1'       ,'1'  ,''       ,''       ,''); 
+2010-02-24 05:32:31		 Database Connection Closed Successful. 
+2010-02-24 05:32:31		 End of Function : insertDisplayDetails 
+2010-02-24 05:32:31		 Start of Function : insertDisplayDetailsXML 
+2010-02-24 05:32:31		 XML File Found. :: ../db1_layer_comm/comm/display/xml/dis.xml :: 
+2010-02-24 05:32:31		 XML File Update Successfully. 
+2010-02-24 05:32:31		 End of Function : insertDisplayDetailsXML 
+2010-02-24 06:06:18		 Start of Function : insertDisplayDetails 
+2010-02-24 06:06:18		 Database Connection Successful. 
+2010-02-24 06:06:18		 Database Selection Successful. 
+2010-02-24 06:06:18		 Query Executed Successfully. ::: insert into `rt_comm_display` (`rt_comm_display_id`,`rt_comm_to_name`,`rt_comm_to_user_id`,`rt_comm_tag`,`rt_comm_message`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_display_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                                (null                ,'mahesh'          ,'1'       ,'Schedule'       ,'
+        Message'       ,'2010-12-25'       ,'06:06:18'       ,'test'            ,'1'       ,'2010-02-24'                ,'06:06:18'                ,'1'                ,'1'       ,'1'  ,''       ,''       ,''); 
+2010-02-24 06:06:18		 Database Connection Closed Successful. 
+2010-02-24 06:06:18		 End of Function : insertDisplayDetails 
+2010-02-24 06:06:18		 Start of Function : insertDisplayDetailsXML 
+2010-02-24 06:06:18		 XML File Found. :: ../db1_layer_comm/comm/display/xml/dis.xml :: 
+2010-02-24 06:06:18		 XML File Update Successfully. 
+2010-02-24 06:06:18		 End of Function : insertDisplayDetailsXML 
+2010-02-24 09:28:02		 Start of Function : insertDisplayDetails 
+2010-02-24 09:28:02		 Database Connection Successful. 
+2010-02-24 09:28:02		 Database Selection Successful. 
+2010-02-24 09:28:02		 Query Executed Successfully. ::: insert into `rt_comm_display` (`rt_comm_display_id`,`rt_comm_to_name`,`rt_comm_to_user_id`,`rt_comm_tag`,`rt_comm_message`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_display_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                                (null                ,'Array'          ,'1'       ,'Schedule'       ,'
+   Message     '       ,'2010-11-26'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-24'                ,'12:00:00'                ,'1'                ,'1'       ,'23'  ,''       ,''       ,''); 
+2010-02-24 09:28:02		 Database Connection Closed Successful. 
+2010-02-24 09:28:02		 End of Function : insertDisplayDetails 
+2010-02-24 09:28:02		 Start of Function : insertDisplayDetailsXML 
+2010-02-24 09:28:02		 XML File Found. :: ../db1_layer_comm/comm/display/xml/dis.xml :: 
+2010-02-24 09:28:02		 XML File Update Successfully. 
+2010-02-24 09:28:02		 End of Function : insertDisplayDetailsXML 
+2010-02-24 09:35:18		 Start of Function : insertDisplayDetails 
+2010-02-24 09:35:18		 Database Connection Successful. 
+2010-02-24 09:35:18		 Database Selection Successful. 
+2010-02-24 09:35:18		 Query Executed Successfully. ::: insert into `rt_comm_display` (`rt_comm_display_id`,`rt_comm_to_name`,`rt_comm_to_user_id`,`rt_comm_tag`,`rt_comm_message`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_display_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                                (null                ,'mahesh'          ,'1'       ,'Schedule'       ,'Its fast today
+        '       ,'2010-11-26'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-24'                ,'12:00:00'                ,'1'                ,'1'       ,'24'  ,''       ,''       ,''); 
+2010-02-24 09:35:18		 Database Connection Closed Successful. 
+2010-02-24 09:35:18		 End of Function : insertDisplayDetails 
+2010-02-24 09:35:18		 Start of Function : insertDisplayDetailsXML 
+2010-02-24 09:35:18		 XML File Found. :: ../db1_layer_comm/comm/display/xml/dis.xml :: 
+2010-02-24 09:35:18		 XML File Update Successfully. 
+2010-02-24 09:35:18		 End of Function : insertDisplayDetailsXML 
+2010-02-24 11:18:01		 Start of Function : insertDisplayDetails 
+2010-02-24 11:18:01		 Database Connection Successful. 
+2010-02-24 11:18:01		 Database Selection Successful. 
+2010-02-24 11:18:01		 Query Executed Successfully. ::: insert into `rt_comm_display` (`rt_comm_display_id`,`rt_comm_to_name`,`rt_comm_to_user_id`,`rt_comm_tag`,`rt_comm_message`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_display_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                                (null                ,'mahesh'          ,'1'       ,'Schedule'       ,'Message
+        '       ,'2010-11-26'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-24'                ,'12:00:00'                ,'1'                ,'1'       ,'27'  ,''       ,''       ,''); 
+2010-02-24 11:18:01		 Database Connection Closed Successful. 
+2010-02-24 11:18:01		 End of Function : insertDisplayDetails 
+2010-02-24 11:18:01		 Start of Function : insertDisplayDetailsXML 
+2010-02-24 11:18:01		 XML File Found. :: ../db1_layer_comm/comm/display/xml/dis.xml :: 
+2010-02-24 11:18:01		 XML File Update Successfully. 
+2010-02-24 11:18:01		 End of Function : insertDisplayDetailsXML 
+2010-02-24 11:21:28		 Start of Function : insertDisplayDetails 
+2010-02-24 11:21:28		 Database Connection Successful. 
+2010-02-24 11:21:28		 Database Selection Successful. 
+2010-02-24 11:21:28		 Query Executed Successfully. ::: insert into `rt_comm_display` (`rt_comm_display_id`,`rt_comm_to_name`,`rt_comm_to_user_id`,`rt_comm_tag`,`rt_comm_message`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_display_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                                (null                ,'mahesh'          ,'0'       ,'Schedule'       ,'don\'t watch
+        '       ,'2010-11-26'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-24'                ,'12:00:00'                ,'1'                ,'1'       ,'29'  ,''       ,''       ,''); 
+2010-02-24 11:21:28		 Database Connection Closed Successful. 
+2010-02-24 11:21:28		 End of Function : insertDisplayDetails 
+2010-02-24 11:21:28		 Start of Function : insertDisplayDetailsXML 
+2010-02-24 11:21:28		 XML File Found. :: ../db1_layer_comm/comm/display/xml/dis.xml :: 
+2010-02-24 11:21:28		 XML File Update Successfully. 
+2010-02-24 11:21:28		 End of Function : insertDisplayDetailsXML 
+2010-02-24 11:25:15		 Start of Function : insertDisplayDetails 
+2010-02-24 11:25:15		 Database Connection Successful. 
+2010-02-24 11:25:15		 Database Selection Successful. 
+2010-02-24 11:25:15		 Query Executed Successfully. ::: insert into `rt_comm_display` (`rt_comm_display_id`,`rt_comm_to_name`,`rt_comm_to_user_id`,`rt_comm_tag`,`rt_comm_message`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_display_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                                (null                ,'mahesh'          ,'0'       ,'Schedule'       ,'i never played cricket
+        '       ,'2010-11-26'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-24'                ,'12:00:00'                ,'1'                ,'1'       ,'30'  ,''       ,''       ,''); 
+2010-02-24 11:25:15		 Database Connection Closed Successful. 
+2010-02-24 11:25:15		 End of Function : insertDisplayDetails 
+2010-02-24 11:25:15		 Start of Function : insertDisplayDetailsXML 
+2010-02-24 11:25:15		 XML File Found. :: ../db1_layer_comm/comm/display/xml/dis.xml :: 
+2010-02-24 11:25:15		 XML File Update Successfully. 
+2010-02-24 11:25:15		 End of Function : insertDisplayDetailsXML 
+2010-02-24 11:43:43		 Start of Function : insertDisplayDetails 
+2010-02-24 11:43:43		 Database Connection Successful. 
+2010-02-24 11:43:43		 Database Selection Successful. 
+2010-02-24 11:43:43		 Query Executed Successfully. ::: insert into `rt_comm_display` (`rt_comm_display_id`,`rt_comm_to_name`,`rt_comm_to_user_id`,`rt_comm_tag`,`rt_comm_message`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_display_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                                (null                ,'mahesh'          ,'0'       ,'Schedule'       ,'Its tea time
+        '       ,'2010-02-24'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-24'                ,'12:00:00'                ,'1'                ,'1'       ,'31'  ,''       ,''       ,''); 
+2010-02-24 11:43:43		 Database Connection Closed Successful. 
+2010-02-24 11:43:43		 End of Function : insertDisplayDetails 
+2010-02-24 11:43:43		 Start of Function : insertDisplayDetailsXML 
+2010-02-24 11:43:43		 XML File Found. :: ../db1_layer_comm/comm/display/xml/dis.xml :: 
+2010-02-24 11:43:43		 XML File Update Successfully. 
+2010-02-24 11:43:43		 End of Function : insertDisplayDetailsXML 
+2010-02-24 11:46:00		 Start of Function : insertDisplayDetails 
+2010-02-24 11:46:00		 Database Connection Successful. 
+2010-02-24 11:46:00		 Database Selection Successful. 
+2010-02-24 11:46:00		 Query Executed Successfully. ::: insert into `rt_comm_display` (`rt_comm_display_id`,`rt_comm_to_name`,`rt_comm_to_user_id`,`rt_comm_tag`,`rt_comm_message`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_display_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                                (null                ,'Sama'          ,'20'       ,'Schedule'       ,'I will go on walk
+        '       ,'2010-02-24'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-24'                ,'12:00:00'                ,'1'                ,'1'       ,'32'  ,''       ,''       ,''); 
+2010-02-24 11:46:00		 Database Connection Closed Successful. 
+2010-02-24 11:46:00		 End of Function : insertDisplayDetails 
+2010-02-24 11:46:00		 Start of Function : insertDisplayDetailsXML 
+2010-02-24 11:46:00		 XML File Found. :: ../db1_layer_comm/comm/display/xml/dis.xml :: 
+2010-02-24 11:46:00		 XML File Update Successfully. 
+2010-02-24 11:46:00		 End of Function : insertDisplayDetailsXML 
+2010-02-24 11:48:27		 Start of Function : insertDisplayDetails 
+2010-02-24 11:48:27		 Database Connection Successful. 
+2010-02-24 11:48:27		 Database Selection Successful. 
+2010-02-24 11:48:27		 Query Executed Successfully. ::: insert into `rt_comm_display` (`rt_comm_display_id`,`rt_comm_to_name`,`rt_comm_to_user_id`,`rt_comm_tag`,`rt_comm_message`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_display_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                                (null                ,'mahesh'          ,'16'       ,'Schedule'       ,'I should play in evening
+        '       ,'2010-02-24'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-24'                ,'12:00:00'                ,'1'                ,'1'       ,'33'  ,''       ,''       ,''); 
+2010-02-24 11:48:27		 Database Connection Closed Successful. 
+2010-02-24 11:48:27		 End of Function : insertDisplayDetails 
+2010-02-24 11:48:27		 Start of Function : insertDisplayDetailsXML 
+2010-02-24 11:48:27		 XML File Found. :: ../db1_layer_comm/comm/display/xml/dis.xml :: 
+2010-02-24 11:48:27		 XML File Update Successfully. 
+2010-02-24 11:48:27		 End of Function : insertDisplayDetailsXML 
+2010-02-25 13:44:36		 Start of Function : insertDisplayDetails 
+2010-02-25 13:44:36		 Database Connection Successful. 
+2010-02-25 13:44:36		 Database Selection Successful. 
+2010-02-25 13:44:36		 Query Executed Successfully. ::: insert into `rt_comm_display` (`rt_comm_display_id`,`rt_comm_to_name`,`rt_comm_to_user_id`,`rt_comm_tag`,`rt_comm_message`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_display_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                                (null                ,'mahesh'          ,'16'       ,'Schedule'       ,'Template Module have to be finished
+        '       ,'2010-02-25'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-25'                ,'12:00:00'                ,'1'                ,'1'       ,'51'  ,''       ,''       ,''); 
+2010-02-25 13:44:36		 Database Connection Closed Successful. 
+2010-02-25 13:44:36		 End of Function : insertDisplayDetails 
+2010-02-25 13:44:36		 Start of Function : insertDisplayDetailsXML 
+2010-02-25 13:44:36		 XML File Found. :: ../db1_layer_comm/comm/display/xml/dis.xml :: 
+2010-02-25 13:44:36		 XML File Update Successfully. 
+2010-02-25 13:44:36		 End of Function : insertDisplayDetailsXML 
+2010-02-25 15:02:03		 Start of Function : insertDisplayDetails 
+2010-02-25 15:02:03		 Database Connection Successful. 
+2010-02-25 15:02:03		 Database Selection Successful. 
+2010-02-25 15:02:03		 Query Executed Successfully. ::: insert into `rt_comm_display` (`rt_comm_display_id`,`rt_comm_to_name`,`rt_comm_to_user_id`,`rt_comm_tag`,`rt_comm_message`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_display_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                                (null                ,'mahesh'          ,'16'       ,'Schedule'       ,'Holi on Monday
+        '       ,'2010-02-26'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-25'                ,'12:00:00'                ,'1'                ,'1'       ,'52'  ,''       ,''       ,''); 
+2010-02-25 15:02:03		 Database Connection Closed Successful. 
+2010-02-25 15:02:03		 End of Function : insertDisplayDetails 
+2010-02-25 15:02:03		 Start of Function : insertDisplayDetailsXML 
+2010-02-25 15:02:03		 XML File Found. :: ../db1_layer_comm/comm/display/xml/dis.xml :: 
+2010-02-25 15:02:03		 XML File Update Successfully. 
+2010-02-25 15:02:03		 End of Function : insertDisplayDetailsXML 
+2010-02-25 15:02:27		 Start of Function : insertDisplayDetails 
+2010-02-25 15:02:27		 Database Connection Successful. 
+2010-02-25 15:02:27		 Database Selection Successful. 
+2010-02-25 15:02:27		 Query Executed Successfully. ::: insert into `rt_comm_display` (`rt_comm_display_id`,`rt_comm_to_name`,`rt_comm_to_user_id`,`rt_comm_tag`,`rt_comm_message`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_display_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                                (null                ,'mahesh'          ,'16'       ,'Schedule'       ,'holi on monday
+        '       ,'2010-02-27'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-25'                ,'12:00:00'                ,'1'                ,'1'       ,'53'  ,''       ,''       ,''); 
+2010-02-25 15:02:27		 Database Connection Closed Successful. 
+2010-02-25 15:02:27		 End of Function : insertDisplayDetails 
+2010-02-25 15:02:27		 Start of Function : insertDisplayDetailsXML 
+2010-02-25 15:02:27		 XML File Found. :: ../db1_layer_comm/comm/display/xml/dis.xml :: 
+2010-02-25 15:02:27		 XML File Update Successfully. 
+2010-02-25 15:02:27		 End of Function : insertDisplayDetailsXML 
+2010-02-25 15:03:23		 Start of Function : insertDisplayDetails 
+2010-02-25 15:03:23		 Database Connection Successful. 
+2010-02-25 15:03:23		 Database Selection Successful. 
+2010-02-25 15:03:23		 Query Executed Successfully. ::: insert into `rt_comm_display` (`rt_comm_display_id`,`rt_comm_to_name`,`rt_comm_to_user_id`,`rt_comm_tag`,`rt_comm_message`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_display_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                                (null                ,'Sama'          ,'20'       ,'Schedule'       ,'Friends Marrieage on Monday
+        '       ,'2010-02-26'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-25'                ,'12:00:00'                ,'1'                ,'1'       ,'54'  ,''       ,''       ,''); 
+2010-02-25 15:03:23		 Database Connection Closed Successful. 
+2010-02-25 15:03:23		 End of Function : insertDisplayDetails 
+2010-02-25 15:03:23		 Start of Function : insertDisplayDetailsXML 
+2010-02-25 15:03:23		 XML File Found. :: ../db1_layer_comm/comm/display/xml/dis.xml :: 
+2010-02-25 15:03:23		 XML File Update Successfully. 
+2010-02-25 15:03:23		 End of Function : insertDisplayDetailsXML 
+2010-02-25 15:03:42		 Start of Function : insertDisplayDetails 
+2010-02-25 15:03:42		 Database Connection Successful. 
+2010-02-25 15:03:42		 Database Selection Successful. 
+2010-02-25 15:03:42		 Query Executed Successfully. ::: insert into `rt_comm_display` (`rt_comm_display_id`,`rt_comm_to_name`,`rt_comm_to_user_id`,`rt_comm_tag`,`rt_comm_message`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_display_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                                (null                ,'Sama'          ,'20'       ,'Schedule'       ,'Friends Marrieage on monday
+        '       ,'2010-02-25'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-25'                ,'12:00:00'                ,'1'                ,'1'       ,'55'  ,''       ,''       ,''); 
+2010-02-25 15:03:42		 Database Connection Closed Successful. 
+2010-02-25 15:03:42		 End of Function : insertDisplayDetails 
+2010-02-25 15:03:42		 Start of Function : insertDisplayDetailsXML 
+2010-02-25 15:03:42		 XML File Found. :: ../db1_layer_comm/comm/display/xml/dis.xml :: 
+2010-02-25 15:03:42		 XML File Update Successfully. 
+2010-02-25 15:03:42		 End of Function : insertDisplayDetailsXML 
+2010-02-25 15:03:58		 Start of Function : insertDisplayDetails 
+2010-02-25 15:03:58		 Database Connection Successful. 
+2010-02-25 15:03:58		 Database Selection Successful. 
+2010-02-25 15:03:58		 Query Executed Successfully. ::: insert into `rt_comm_display` (`rt_comm_display_id`,`rt_comm_to_name`,`rt_comm_to_user_id`,`rt_comm_tag`,`rt_comm_message`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_display_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                                (null                ,'Sama'          ,'20'       ,'Schedule'       ,'Friends Marrieage on monday
+        '       ,'2010-02-27'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-25'                ,'12:00:00'                ,'1'                ,'1'       ,'56'  ,''       ,''       ,''); 
+2010-02-25 15:03:58		 Database Connection Closed Successful. 
+2010-02-25 15:03:58		 End of Function : insertDisplayDetails 
+2010-02-25 15:03:58		 Start of Function : insertDisplayDetailsXML 
+2010-02-25 15:03:58		 XML File Found. :: ../db1_layer_comm/comm/display/xml/dis.xml :: 
+2010-02-25 15:03:58		 XML File Update Successfully. 
+2010-02-25 15:03:58		 End of Function : insertDisplayDetailsXML 
+2010-02-26 15:29:55		 Start of Function : insertDisplayDetails 
+2010-02-26 15:29:55		 Database Connection Successful. 
+2010-02-26 15:29:55		 Database Selection Successful. 
+2010-02-26 15:29:55		 Query Executed Successfully. ::: insert into `rt_comm_display` (`rt_comm_display_id`,`rt_comm_to_name`,`rt_comm_to_user_id`,`rt_comm_tag`,`rt_comm_message`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_display_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                                (null                ,'mahesh'          ,'16'       ,'Schedule'       ,'Celbration for Sachin
+        '       ,'2010-02-26'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-26'                ,'12:00:00'                ,'1'                ,'1'       ,'57'  ,''       ,''       ,''); 
+2010-02-26 15:29:55		 Database Connection Closed Successful. 
+2010-02-26 15:29:55		 End of Function : insertDisplayDetails 
+2010-02-26 15:29:55		 Start of Function : insertDisplayDetailsXML 
+2010-02-26 15:29:55		 XML File Found. :: ../db1_layer_comm/comm/display/xml/dis.xml :: 
+2010-02-26 15:29:56		 XML File Update Successfully. 
+2010-02-26 15:29:56		 End of Function : insertDisplayDetailsXML 
+2010-02-26 15:33:55		 Start of Function : insertDisplayDetails 
+2010-02-26 15:33:55		 Database Connection Successful. 
+2010-02-26 15:33:55		 Database Selection Successful. 
+2010-02-26 15:33:55		 Query Executed Successfully. ::: insert into `rt_comm_display` (`rt_comm_display_id`,`rt_comm_to_name`,`rt_comm_to_user_id`,`rt_comm_tag`,`rt_comm_message`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_display_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                                (null                ,'mahesh'          ,'16'       ,'Schedule'       ,'Submit ur medical bills
+        '       ,'2010-02-27'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-26'                ,'12:00:00'                ,'1'                ,'1'       ,'58'  ,''       ,''       ,''); 
+2010-02-26 15:33:55		 Database Connection Closed Successful. 
+2010-02-26 15:33:55		 End of Function : insertDisplayDetails 
+2010-02-26 15:33:55		 Start of Function : insertDisplayDetailsXML 
+2010-02-26 15:33:55		 XML File Found. :: ../db1_layer_comm/comm/display/xml/dis.xml :: 
+2010-02-26 15:33:55		 XML File Update Successfully. 
+2010-02-26 15:33:55		 End of Function : insertDisplayDetailsXML 
+2010-02-27 13:03:20		 Start of Function : insertDisplayDetails 
+2010-02-27 13:03:20		 Database Connection Successful. 
+2010-02-27 13:03:20		 Database Selection Successful. 
+2010-02-27 13:03:20		 Query Executed Successfully. ::: insert into `rt_comm_display` (`rt_comm_display_id`,`rt_comm_to_name`,`rt_comm_to_user_id`,`rt_comm_tag`,`rt_comm_message`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_display_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                                (null                ,'mahesh'          ,'16'       ,'Schedule'       ,'Enjoy Saturday Night
+        '       ,'2010-02-27'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-27'                ,'12:00:00'                ,'1'                ,'1'       ,'75'  ,''       ,''       ,''); 
+2010-02-27 13:03:20		 Database Connection Closed Successful. 
+2010-02-27 13:03:20		 End of Function : insertDisplayDetails 
+2010-02-27 13:03:20		 Start of Function : insertDisplayDetailsXML 
+2010-02-27 13:03:20		 XML File Found. :: ../db1_layer_comm/comm/display/xml/dis.xml :: 
+2010-02-27 13:03:20		 XML File Update Successfully. 
+2010-02-27 13:03:20		 End of Function : insertDisplayDetailsXML 
+2010-03-04 05:56:53		 Start of Function : insertDisplayDetails 
+2010-03-04 05:56:53		 Database Connection Successful. 
+2010-03-04 05:56:53		 Database Selection Successful. 
+2010-03-04 05:56:53		 Query Executed Successfully. ::: insert into `rt_comm_display` (`rt_comm_display_id`,`rt_comm_to_name`,`rt_comm_to_user_id`,`rt_comm_tag`,`rt_comm_message`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_display_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                                (null                ,'mahesh'          ,'16'       ,'Schedule'       ,'Tomorrow picnic
+        '       ,'2010-03-10'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-03-04'                ,'12:00:00'                ,'1'                ,'1'       ,'76'  ,''       ,''       ,''); 
+2010-03-04 05:56:53		 Database Connection Closed Successful. 
+2010-03-04 05:56:53		 End of Function : insertDisplayDetails 
+2010-03-04 05:56:53		 Start of Function : insertDisplayDetailsXML 
+2010-03-04 05:56:53		 XML File Found. :: ../db1_layer_comm/comm/display/xml/dis.xml :: 
+2010-03-04 05:56:53		 XML File Update Successfully. 
+2010-03-04 05:56:53		 End of Function : insertDisplayDetailsXML 
+2010-03-04 05:57:22		 Start of Function : insertDisplayDetails 
+2010-03-04 05:57:22		 Database Connection Successful. 
+2010-03-04 05:57:22		 Database Selection Successful. 
+2010-03-04 05:57:22		 Query Executed Successfully. ::: insert into `rt_comm_display` (`rt_comm_display_id`,`rt_comm_to_name`,`rt_comm_to_user_id`,`rt_comm_tag`,`rt_comm_message`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_display_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                                (null                ,'mahesh'          ,'16'       ,'Schedule'       ,'Tomorrow Picnic
+        '       ,'2010-03-04'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-03-04'                ,'12:00:00'                ,'1'                ,'1'       ,'77'  ,''       ,''       ,''); 
+2010-03-04 05:57:22		 Database Connection Closed Successful. 
+2010-03-04 05:57:22		 End of Function : insertDisplayDetails 
+2010-03-04 05:57:22		 Start of Function : insertDisplayDetailsXML 
+2010-03-04 05:57:22		 XML File Found. :: ../db1_layer_comm/comm/display/xml/dis.xml :: 
+2010-03-04 05:57:22		 XML File Update Successfully. 
+2010-03-04 05:57:22		 End of Function : insertDisplayDetailsXML 

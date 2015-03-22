@@ -1,0 +1,1706 @@
+2010-02-24 06:44:01		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 06:44:01		 Database Connection Successful. 
+2010-02-24 06:44:01		 Database Selection Failure. MYSQL ERROR ::: Unknown database 'rt_communication' :::. 
+2010-02-24 06:44:01		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 06:45:50		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 06:45:50		 Database Connection Successful. 
+2010-02-24 06:45:50		 Database Selection Successful. 
+2010-02-24 06:45:50		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_EMAIL'               ,''               ,''               , '1'              ,'2010-02-23'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-23'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 06:45:50		 Database Connection Closed Successful. 
+2010-02-24 06:45:50		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 06:45:50		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 06:45:50		 Database Connection Successful. 
+2010-02-24 06:45:50		 Database Selection Successful. 
+2010-02-24 06:45:50		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_EMAIL',`rt_comm_manager_type_ids` = 'e-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-23',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-23',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '1' 
+2010-02-24 06:45:50		 Database Connection Closed Successful. 
+2010-02-24 06:45:50		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 06:45:50		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 06:45:50		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 06:45:50		 XML File Update Successfully. 
+2010-02-24 06:45:50		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 06:47:11		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 06:47:11		 Database Connection Successful. 
+2010-02-24 06:47:11		 Database Selection Successful. 
+2010-02-24 06:47:11		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_EMAIL'               ,''               ,''               , '1'              ,'2010-02-23'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-23'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 06:47:11		 Database Connection Closed Successful. 
+2010-02-24 06:47:11		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 06:47:11		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 06:47:11		 Database Connection Successful. 
+2010-02-24 06:47:11		 Database Selection Successful. 
+2010-02-24 06:47:11		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_EMAIL',`rt_comm_manager_type_ids` = 'e-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-23',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-23',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '2' 
+2010-02-24 06:47:11		 Database Connection Closed Successful. 
+2010-02-24 06:47:11		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 06:47:11		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 06:47:11		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 06:47:11		 XML File Update Successfully. 
+2010-02-24 06:47:11		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 06:47:20		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 06:47:20		 Database Connection Successful. 
+2010-02-24 06:47:20		 Database Selection Successful. 
+2010-02-24 06:47:20		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_EMAIL'               ,''               ,''               , '1'              ,'2010-02-23'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-23'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 06:47:20		 Database Connection Closed Successful. 
+2010-02-24 06:47:20		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 06:47:20		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 06:47:20		 Database Connection Successful. 
+2010-02-24 06:47:20		 Database Selection Successful. 
+2010-02-24 06:47:20		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_EMAIL',`rt_comm_manager_type_ids` = 'e-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-23',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-23',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '3' 
+2010-02-24 06:47:20		 Database Connection Closed Successful. 
+2010-02-24 06:47:20		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 06:47:20		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 06:47:20		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 06:47:20		 XML File Update Successfully. 
+2010-02-24 06:47:20		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 06:55:46		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 06:55:46		 Database Connection Successful. 
+2010-02-24 06:55:46		 Database Selection Successful. 
+2010-02-24 06:55:46		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_EMAIL'               ,''               ,''               , '1'              ,'2010-02-23'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-23'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 06:55:46		 Database Connection Closed Successful. 
+2010-02-24 06:55:46		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 06:55:46		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 06:55:46		 Database Connection Successful. 
+2010-02-24 06:55:46		 Database Selection Successful. 
+2010-02-24 06:55:46		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_EMAIL',`rt_comm_manager_type_ids` = 'e-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-23',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-23',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '4' 
+2010-02-24 06:55:46		 Database Connection Closed Successful. 
+2010-02-24 06:55:46		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 06:55:46		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 06:55:46		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 06:55:46		 XML File Update Successfully. 
+2010-02-24 06:55:46		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 06:56:03		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 06:56:03		 Database Connection Successful. 
+2010-02-24 06:56:03		 Database Selection Successful. 
+2010-02-24 06:56:03		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_EMAIL'               ,''               ,''               , '1'              ,'2010-02-23'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-23'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 06:56:03		 Database Connection Closed Successful. 
+2010-02-24 06:56:03		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 06:56:03		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 06:56:03		 Database Connection Successful. 
+2010-02-24 06:56:03		 Database Selection Successful. 
+2010-02-24 06:56:03		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_EMAIL',`rt_comm_manager_type_ids` = 'e-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-23',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-23',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '5' 
+2010-02-24 06:56:03		 Database Connection Closed Successful. 
+2010-02-24 06:56:03		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 06:56:03		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 06:56:03		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 06:56:03		 XML File Update Successfully. 
+2010-02-24 06:56:03		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 06:56:30		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 06:56:30		 Database Connection Successful. 
+2010-02-24 06:56:30		 Database Selection Successful. 
+2010-02-24 06:56:30		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_EMAIL'               ,''               ,''               , '1'              ,'2010-02-23'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-23'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 06:56:30		 Database Connection Closed Successful. 
+2010-02-24 06:56:30		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 06:56:30		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 06:56:30		 Database Connection Successful. 
+2010-02-24 06:56:30		 Database Selection Successful. 
+2010-02-24 06:56:30		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_EMAIL',`rt_comm_manager_type_ids` = 'e-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-23',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-23',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '6' 
+2010-02-24 06:56:30		 Database Connection Closed Successful. 
+2010-02-24 06:56:30		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 06:56:30		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 06:56:30		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 06:56:30		 XML File Update Successfully. 
+2010-02-24 06:56:30		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 06:57:55		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 06:57:55		 Database Connection Successful. 
+2010-02-24 06:57:55		 Database Selection Successful. 
+2010-02-24 06:57:55		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_EMAIL'               ,''               ,''               , '1'              ,'2010-02-23'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-23'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 06:57:55		 Database Connection Closed Successful. 
+2010-02-24 06:57:55		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 06:57:55		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 06:57:55		 Database Connection Successful. 
+2010-02-24 06:57:55		 Database Selection Successful. 
+2010-02-24 06:57:55		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_EMAIL',`rt_comm_manager_type_ids` = 'e-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-23',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-23',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '7' 
+2010-02-24 06:57:55		 Database Connection Closed Successful. 
+2010-02-24 06:57:55		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 06:57:55		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 06:57:55		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 06:57:55		 XML File Update Successfully. 
+2010-02-24 06:57:55		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 07:07:46		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 07:07:46		 Database Connection Successful. 
+2010-02-24 07:07:46		 Database Selection Successful. 
+2010-02-24 07:07:46		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_EMAIL'               ,''               ,''               , '1'              ,'2010-02-23'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-23'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 07:07:46		 Database Connection Closed Successful. 
+2010-02-24 07:07:46		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 07:07:46		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 07:07:46		 Database Connection Successful. 
+2010-02-24 07:07:46		 Database Selection Successful. 
+2010-02-24 07:07:46		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_EMAIL',`rt_comm_manager_type_ids` = 'e-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-23',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-23',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '8' 
+2010-02-24 07:07:46		 Database Connection Closed Successful. 
+2010-02-24 07:07:46		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 07:07:46		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 07:07:46		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 07:07:46		 XML File Update Successfully. 
+2010-02-24 07:07:46		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 07:09:22		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 07:09:22		 Database Connection Successful. 
+2010-02-24 07:09:22		 Database Selection Successful. 
+2010-02-24 07:09:22		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_EMAIL'               ,''               ,''               , '1'              ,'2010-02-23'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-23'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 07:09:22		 Database Connection Closed Successful. 
+2010-02-24 07:09:22		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 07:09:22		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 07:09:22		 Database Connection Successful. 
+2010-02-24 07:09:22		 Database Selection Successful. 
+2010-02-24 07:09:22		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_EMAIL',`rt_comm_manager_type_ids` = 'e-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-23',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-23',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '9' 
+2010-02-24 07:09:22		 Database Connection Closed Successful. 
+2010-02-24 07:09:22		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 07:09:22		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 07:09:22		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 07:09:22		 XML File Update Successfully. 
+2010-02-24 07:09:22		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 07:28:03		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 07:28:03		 Database Connection Successful. 
+2010-02-24 07:28:03		 Database Selection Successful. 
+2010-02-24 07:28:03		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_EMAIL'               ,''               ,''               , '1'              ,'2010-02-23'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-23'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 07:28:03		 Database Connection Closed Successful. 
+2010-02-24 07:28:03		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 07:28:03		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 07:28:03		 Database Connection Successful. 
+2010-02-24 07:28:03		 Database Selection Successful. 
+2010-02-24 07:28:03		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_EMAIL',`rt_comm_manager_type_ids` = 'e-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-23',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-23',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '10' 
+2010-02-24 07:28:03		 Database Connection Closed Successful. 
+2010-02-24 07:28:03		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 07:28:03		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 07:28:03		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 07:28:03		 XML File Update Successfully. 
+2010-02-24 07:28:04		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 07:30:18		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 07:30:18		 Database Connection Successful. 
+2010-02-24 07:30:18		 Database Selection Successful. 
+2010-02-24 07:30:18		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_EMAIL'               ,''               ,''               , '1'              ,'2010-02-23'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-23'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 07:30:18		 Database Connection Closed Successful. 
+2010-02-24 07:30:18		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 07:30:18		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 07:30:18		 Database Connection Successful. 
+2010-02-24 07:30:18		 Database Selection Successful. 
+2010-02-24 07:30:18		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_EMAIL',`rt_comm_manager_type_ids` = 'e-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-23',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-23',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '11' 
+2010-02-24 07:30:18		 Database Connection Closed Successful. 
+2010-02-24 07:30:18		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 07:30:18		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 07:30:18		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 07:30:18		 XML File Update Successfully. 
+2010-02-24 07:30:18		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 07:30:38		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 07:30:38		 Database Connection Successful. 
+2010-02-24 07:30:38		 Database Selection Successful. 
+2010-02-24 07:30:38		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_EMAIL'               ,''               ,''               , '1'              ,'2010-02-23'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-23'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 07:30:38		 Database Connection Closed Successful. 
+2010-02-24 07:30:38		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 07:30:38		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 07:30:38		 Database Connection Successful. 
+2010-02-24 07:30:38		 Database Selection Successful. 
+2010-02-24 07:30:38		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_EMAIL',`rt_comm_manager_type_ids` = 'e-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-23',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-23',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '12' 
+2010-02-24 07:30:38		 Database Connection Closed Successful. 
+2010-02-24 07:30:38		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 07:30:38		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 07:30:38		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 07:30:38		 XML File Update Successfully. 
+2010-02-24 07:30:38		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 07:34:11		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 07:34:11		 Database Connection Successful. 
+2010-02-24 07:34:11		 Database Selection Successful. 
+2010-02-24 07:34:11		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_EMAIL'               ,''               ,''               , '1'              ,'2010-02-23'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-23'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 07:34:11		 Database Connection Closed Successful. 
+2010-02-24 07:34:11		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 07:34:11		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 07:34:11		 Database Connection Successful. 
+2010-02-24 07:34:11		 Database Selection Successful. 
+2010-02-24 07:34:11		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_EMAIL',`rt_comm_manager_type_ids` = 'e-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-23',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-23',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '13' 
+2010-02-24 07:34:11		 Database Connection Closed Successful. 
+2010-02-24 07:34:11		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 07:34:11		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 07:34:11		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 07:34:11		 XML File Update Successfully. 
+2010-02-24 07:34:11		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 07:49:20		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 07:49:20		 Database Connection Successful. 
+2010-02-24 07:49:20		 Database Selection Successful. 
+2010-02-24 07:49:20		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_EMAIL'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 07:49:20		 Database Connection Closed Successful. 
+2010-02-24 07:49:20		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 07:49:20		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 07:49:20		 Database Connection Successful. 
+2010-02-24 07:49:20		 Database Selection Successful. 
+2010-02-24 07:49:20		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_EMAIL',`rt_comm_manager_type_ids` = 'e-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '14' 
+2010-02-24 07:49:20		 Database Connection Closed Successful. 
+2010-02-24 07:49:20		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 07:49:20		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 07:49:20		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 07:49:20		 XML File Update Successfully. 
+2010-02-24 07:49:20		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 07:50:50		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 07:50:50		 Database Connection Successful. 
+2010-02-24 07:50:50		 Database Selection Successful. 
+2010-02-24 07:50:50		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_EMAIL'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 07:50:50		 Database Connection Closed Successful. 
+2010-02-24 07:50:50		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 07:50:50		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 07:50:50		 Database Connection Successful. 
+2010-02-24 07:50:50		 Database Selection Successful. 
+2010-02-24 07:50:50		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_EMAIL',`rt_comm_manager_type_ids` = 'e-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '15' 
+2010-02-24 07:50:50		 Database Connection Closed Successful. 
+2010-02-24 07:50:50		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 07:50:50		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 07:50:50		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 07:50:50		 XML File Update Successfully. 
+2010-02-24 07:50:50		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 07:53:50		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 07:53:50		 Database Connection Successful. 
+2010-02-24 07:53:50		 Database Selection Successful. 
+2010-02-24 07:53:50		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_EMAIL'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 07:53:50		 Database Connection Closed Successful. 
+2010-02-24 07:53:50		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 07:53:50		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 07:53:50		 Database Connection Successful. 
+2010-02-24 07:53:50		 Database Selection Successful. 
+2010-02-24 07:53:50		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_EMAIL',`rt_comm_manager_type_ids` = 'e-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '16' 
+2010-02-24 07:53:50		 Database Connection Closed Successful. 
+2010-02-24 07:53:50		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 07:53:50		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 07:53:50		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 07:53:50		 XML File Update Successfully. 
+2010-02-24 07:53:50		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 07:55:41		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 07:55:41		 Database Connection Successful. 
+2010-02-24 07:55:41		 Database Selection Successful. 
+2010-02-24 07:55:41		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_EMAIL'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 07:55:41		 Database Connection Closed Successful. 
+2010-02-24 07:55:41		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 07:55:41		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 07:55:41		 Database Connection Successful. 
+2010-02-24 07:55:41		 Database Selection Successful. 
+2010-02-24 07:55:41		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_EMAIL',`rt_comm_manager_type_ids` = 'e-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '17' 
+2010-02-24 07:55:41		 Database Connection Closed Successful. 
+2010-02-24 07:55:41		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 07:55:41		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 07:55:41		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 07:55:41		 XML File Update Successfully. 
+2010-02-24 07:55:41		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 08:02:50		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 08:02:50		 Database Connection Successful. 
+2010-02-24 08:02:50		 Database Selection Successful. 
+2010-02-24 08:02:50		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_EMAIL'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 08:02:50		 Database Connection Closed Successful. 
+2010-02-24 08:02:50		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 08:02:50		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 08:02:50		 Database Connection Successful. 
+2010-02-24 08:02:50		 Database Selection Successful. 
+2010-02-24 08:02:50		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_EMAIL',`rt_comm_manager_type_ids` = 'e-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '18' 
+2010-02-24 08:02:50		 Database Connection Closed Successful. 
+2010-02-24 08:02:50		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 08:02:50		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 08:02:50		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 08:02:50		 XML File Update Successfully. 
+2010-02-24 08:02:50		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 08:24:43		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 08:24:43		 Database Connection Successful. 
+2010-02-24 08:24:43		 Database Selection Successful. 
+2010-02-24 08:24:43		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_EMAIL'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 08:24:43		 Database Connection Closed Successful. 
+2010-02-24 08:24:43		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 08:24:43		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 08:24:43		 Database Connection Successful. 
+2010-02-24 08:24:43		 Database Selection Successful. 
+2010-02-24 08:24:43		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_EMAIL',`rt_comm_manager_type_ids` = 'e-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '19' 
+2010-02-24 08:24:43		 Database Connection Closed Successful. 
+2010-02-24 08:24:43		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 08:24:43		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 08:24:43		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 08:24:43		 XML File Update Successfully. 
+2010-02-24 08:24:43		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 08:26:31		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 08:26:31		 Database Connection Successful. 
+2010-02-24 08:26:31		 Database Selection Successful. 
+2010-02-24 08:26:31		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_EMAIL'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 08:26:31		 Database Connection Closed Successful. 
+2010-02-24 08:26:31		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 08:26:31		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 08:26:31		 Database Connection Successful. 
+2010-02-24 08:26:31		 Database Selection Successful. 
+2010-02-24 08:26:31		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_EMAIL',`rt_comm_manager_type_ids` = 'e-19',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '20' 
+2010-02-24 08:26:31		 Database Connection Closed Successful. 
+2010-02-24 08:26:31		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 08:26:31		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 08:26:31		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 08:26:31		 XML File Update Successfully. 
+2010-02-24 08:26:31		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 09:21:19		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 09:21:19		 Database Connection Successful. 
+2010-02-24 09:21:19		 Database Selection Successful. 
+2010-02-24 09:21:19		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_DISPLAY'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 09:21:19		 Database Connection Closed Successful. 
+2010-02-24 09:21:19		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 09:21:19		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 09:21:19		 Database Connection Successful. 
+2010-02-24 09:21:19		 Database Selection Successful. 
+2010-02-24 09:21:19		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_DISPLAY',`rt_comm_manager_type_ids` = 'd-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '21' 
+2010-02-24 09:21:19		 Database Connection Closed Successful. 
+2010-02-24 09:21:19		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 09:21:19		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 09:21:19		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 09:21:19		 XML File Update Successfully. 
+2010-02-24 09:21:19		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 09:25:25		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 09:25:25		 Database Connection Successful. 
+2010-02-24 09:25:25		 Database Selection Successful. 
+2010-02-24 09:25:25		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_DISPLAY'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 09:25:25		 Database Connection Closed Successful. 
+2010-02-24 09:25:25		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 09:25:25		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 09:25:25		 Database Connection Successful. 
+2010-02-24 09:25:25		 Database Selection Successful. 
+2010-02-24 09:25:25		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_DISPLAY',`rt_comm_manager_type_ids` = 'd-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '22' 
+2010-02-24 09:25:25		 Database Connection Closed Successful. 
+2010-02-24 09:25:25		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 09:25:25		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 09:25:25		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 09:25:25		 XML File Update Successfully. 
+2010-02-24 09:25:25		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 09:28:02		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 09:28:02		 Database Connection Successful. 
+2010-02-24 09:28:02		 Database Selection Successful. 
+2010-02-24 09:28:02		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_DISPLAY'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 09:28:02		 Database Connection Closed Successful. 
+2010-02-24 09:28:02		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 09:28:02		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 09:28:02		 Database Connection Successful. 
+2010-02-24 09:28:02		 Database Selection Successful. 
+2010-02-24 09:28:02		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_DISPLAY',`rt_comm_manager_type_ids` = 'd-8',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '23' 
+2010-02-24 09:28:02		 Database Connection Closed Successful. 
+2010-02-24 09:28:02		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 09:28:02		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 09:28:02		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 09:28:02		 XML File Update Successfully. 
+2010-02-24 09:28:02		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 09:35:18		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 09:35:18		 Database Connection Successful. 
+2010-02-24 09:35:18		 Database Selection Successful. 
+2010-02-24 09:35:18		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_DISPLAY'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 09:35:18		 Database Connection Closed Successful. 
+2010-02-24 09:35:18		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 09:35:18		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 09:35:18		 Database Connection Successful. 
+2010-02-24 09:35:18		 Database Selection Successful. 
+2010-02-24 09:35:18		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_DISPLAY',`rt_comm_manager_type_ids` = 'd-9',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '24' 
+2010-02-24 09:35:18		 Database Connection Closed Successful. 
+2010-02-24 09:35:18		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 09:35:18		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 09:35:18		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 09:35:18		 XML File Update Successfully. 
+2010-02-24 09:35:18		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 11:12:27		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 11:12:27		 Database Connection Successful. 
+2010-02-24 11:12:27		 Database Selection Successful. 
+2010-02-24 11:12:27		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_DISPLAY'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 11:12:27		 Database Connection Closed Successful. 
+2010-02-24 11:12:27		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 11:12:27		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 11:12:27		 Database Connection Successful. 
+2010-02-24 11:12:27		 Database Selection Successful. 
+2010-02-24 11:12:27		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_DISPLAY',`rt_comm_manager_type_ids` = 'd-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '25' 
+2010-02-24 11:12:27		 Database Connection Closed Successful. 
+2010-02-24 11:12:27		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 11:12:27		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 11:12:27		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 11:12:27		 XML File Update Successfully. 
+2010-02-24 11:12:27		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 11:16:32		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 11:16:32		 Database Connection Successful. 
+2010-02-24 11:16:32		 Database Selection Successful. 
+2010-02-24 11:16:32		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_DISPLAY'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 11:16:32		 Database Connection Closed Successful. 
+2010-02-24 11:16:32		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 11:16:32		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 11:16:32		 Database Connection Successful. 
+2010-02-24 11:16:32		 Database Selection Successful. 
+2010-02-24 11:16:32		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_DISPLAY',`rt_comm_manager_type_ids` = 'd-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '26' 
+2010-02-24 11:16:32		 Database Connection Closed Successful. 
+2010-02-24 11:16:32		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 11:16:32		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 11:16:32		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 11:16:32		 XML File Update Successfully. 
+2010-02-24 11:16:32		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 11:18:01		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 11:18:01		 Database Connection Successful. 
+2010-02-24 11:18:01		 Database Selection Successful. 
+2010-02-24 11:18:01		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_DISPLAY'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 11:18:01		 Database Connection Closed Successful. 
+2010-02-24 11:18:01		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 11:18:01		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 11:18:01		 Database Connection Successful. 
+2010-02-24 11:18:01		 Database Selection Successful. 
+2010-02-24 11:18:01		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_DISPLAY',`rt_comm_manager_type_ids` = 'd-10',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '27' 
+2010-02-24 11:18:01		 Database Connection Closed Successful. 
+2010-02-24 11:18:01		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 11:18:01		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 11:18:01		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 11:18:01		 XML File Update Successfully. 
+2010-02-24 11:18:01		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 11:20:07		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 11:20:07		 Database Connection Successful. 
+2010-02-24 11:20:07		 Database Selection Successful. 
+2010-02-24 11:20:07		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_DISPLAY'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 11:20:07		 Database Connection Closed Successful. 
+2010-02-24 11:20:07		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 11:20:07		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 11:20:07		 Database Connection Successful. 
+2010-02-24 11:20:07		 Database Selection Successful. 
+2010-02-24 11:20:07		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_DISPLAY',`rt_comm_manager_type_ids` = 'd-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '28' 
+2010-02-24 11:20:07		 Database Connection Closed Successful. 
+2010-02-24 11:20:07		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 11:20:07		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 11:20:07		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 11:20:07		 XML File Update Successfully. 
+2010-02-24 11:20:07		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 11:21:28		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 11:21:28		 Database Connection Successful. 
+2010-02-24 11:21:28		 Database Selection Successful. 
+2010-02-24 11:21:28		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_DISPLAY'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 11:21:28		 Database Connection Closed Successful. 
+2010-02-24 11:21:28		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 11:21:28		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 11:21:28		 Database Connection Successful. 
+2010-02-24 11:21:28		 Database Selection Successful. 
+2010-02-24 11:21:28		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_DISPLAY',`rt_comm_manager_type_ids` = 'd-11',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '29' 
+2010-02-24 11:21:28		 Database Connection Closed Successful. 
+2010-02-24 11:21:28		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 11:21:28		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 11:21:28		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 11:21:28		 XML File Update Successfully. 
+2010-02-24 11:21:28		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 11:25:15		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 11:25:15		 Database Connection Successful. 
+2010-02-24 11:25:15		 Database Selection Successful. 
+2010-02-24 11:25:15		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_DISPLAY'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 11:25:15		 Database Connection Closed Successful. 
+2010-02-24 11:25:15		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 11:25:15		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 11:25:15		 Database Connection Successful. 
+2010-02-24 11:25:15		 Database Selection Successful. 
+2010-02-24 11:25:15		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_DISPLAY',`rt_comm_manager_type_ids` = 'd-12',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '30' 
+2010-02-24 11:25:15		 Database Connection Closed Successful. 
+2010-02-24 11:25:15		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 11:25:15		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 11:25:15		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 11:25:15		 XML File Update Successfully. 
+2010-02-24 11:25:15		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 11:43:43		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 11:43:43		 Database Connection Successful. 
+2010-02-24 11:43:43		 Database Selection Successful. 
+2010-02-24 11:43:43		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_DISPLAY'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 11:43:43		 Database Connection Closed Successful. 
+2010-02-24 11:43:43		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 11:43:43		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 11:43:43		 Database Connection Successful. 
+2010-02-24 11:43:43		 Database Selection Successful. 
+2010-02-24 11:43:43		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_DISPLAY',`rt_comm_manager_type_ids` = 'd-13',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '31' 
+2010-02-24 11:43:43		 Database Connection Closed Successful. 
+2010-02-24 11:43:43		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 11:43:43		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 11:43:43		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 11:43:43		 XML File Update Successfully. 
+2010-02-24 11:43:43		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 11:46:00		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 11:46:00		 Database Connection Successful. 
+2010-02-24 11:46:00		 Database Selection Successful. 
+2010-02-24 11:46:00		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_DISPLAY'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 11:46:00		 Database Connection Closed Successful. 
+2010-02-24 11:46:00		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 11:46:00		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 11:46:00		 Database Connection Successful. 
+2010-02-24 11:46:00		 Database Selection Successful. 
+2010-02-24 11:46:00		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_DISPLAY',`rt_comm_manager_type_ids` = 'd-14',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '32' 
+2010-02-24 11:46:00		 Database Connection Closed Successful. 
+2010-02-24 11:46:00		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 11:46:00		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 11:46:00		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 11:46:00		 XML File Update Successfully. 
+2010-02-24 11:46:00		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 11:48:27		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 11:48:27		 Database Connection Successful. 
+2010-02-24 11:48:27		 Database Selection Successful. 
+2010-02-24 11:48:27		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_DISPLAY'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 11:48:27		 Database Connection Closed Successful. 
+2010-02-24 11:48:27		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 11:48:27		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 11:48:27		 Database Connection Successful. 
+2010-02-24 11:48:27		 Database Selection Successful. 
+2010-02-24 11:48:27		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_DISPLAY',`rt_comm_manager_type_ids` = 'd-15',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '33' 
+2010-02-24 11:48:27		 Database Connection Closed Successful. 
+2010-02-24 11:48:27		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 11:48:27		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 11:48:27		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 11:48:27		 XML File Update Successfully. 
+2010-02-24 11:48:27		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 12:20:43		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 12:20:43		 Database Connection Successful. 
+2010-02-24 12:20:43		 Database Selection Successful. 
+2010-02-24 12:20:43		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_SMS'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 12:20:43		 Database Connection Closed Successful. 
+2010-02-24 12:20:43		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 12:20:43		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 12:20:43		 Database Connection Successful. 
+2010-02-24 12:20:43		 Database Selection Successful. 
+2010-02-24 12:20:43		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_SMS',`rt_comm_manager_type_ids` = 's-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '34' 
+2010-02-24 12:20:43		 Database Connection Closed Successful. 
+2010-02-24 12:20:43		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 12:20:43		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 12:20:43		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 12:20:43		 XML File Update Successfully. 
+2010-02-24 12:20:43		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 12:24:41		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 12:24:41		 Database Connection Successful. 
+2010-02-24 12:24:41		 Database Selection Successful. 
+2010-02-24 12:24:41		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_SMS'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 12:24:41		 Database Connection Closed Successful. 
+2010-02-24 12:24:41		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 12:24:41		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 12:24:41		 Database Connection Successful. 
+2010-02-24 12:24:41		 Database Selection Successful. 
+2010-02-24 12:24:41		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_SMS',`rt_comm_manager_type_ids` = 's-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '35' 
+2010-02-24 12:24:41		 Database Connection Closed Successful. 
+2010-02-24 12:24:41		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 12:24:41		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 12:24:41		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 12:24:41		 XML File Update Successfully. 
+2010-02-24 12:24:41		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 12:25:54		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 12:25:54		 Database Connection Successful. 
+2010-02-24 12:25:54		 Database Selection Successful. 
+2010-02-24 12:25:54		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_SMS'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 12:25:54		 Database Connection Closed Successful. 
+2010-02-24 12:25:54		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 12:25:54		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 12:25:54		 Database Connection Successful. 
+2010-02-24 12:25:54		 Database Selection Successful. 
+2010-02-24 12:25:54		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_SMS',`rt_comm_manager_type_ids` = 's-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '36' 
+2010-02-24 12:25:54		 Database Connection Closed Successful. 
+2010-02-24 12:25:54		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 12:25:54		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 12:25:54		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 12:25:54		 XML File Update Successfully. 
+2010-02-24 12:25:54		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 12:26:55		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 12:26:55		 Database Connection Successful. 
+2010-02-24 12:26:55		 Database Selection Successful. 
+2010-02-24 12:26:55		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_SMS'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 12:26:55		 Database Connection Closed Successful. 
+2010-02-24 12:26:55		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 12:26:55		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 12:26:55		 Database Connection Successful. 
+2010-02-24 12:26:55		 Database Selection Successful. 
+2010-02-24 12:26:55		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_SMS',`rt_comm_manager_type_ids` = 's-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '37' 
+2010-02-24 12:26:55		 Database Connection Closed Successful. 
+2010-02-24 12:26:55		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 12:26:55		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 12:26:55		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 12:26:55		 XML File Update Successfully. 
+2010-02-24 12:26:55		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 12:28:40		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 12:28:40		 Database Connection Successful. 
+2010-02-24 12:28:40		 Database Selection Successful. 
+2010-02-24 12:28:40		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_SMS'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 12:28:40		 Database Connection Closed Successful. 
+2010-02-24 12:28:40		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 12:28:40		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 12:28:40		 Database Connection Successful. 
+2010-02-24 12:28:40		 Database Selection Successful. 
+2010-02-24 12:28:40		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_SMS',`rt_comm_manager_type_ids` = 's-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '38' 
+2010-02-24 12:28:40		 Database Connection Closed Successful. 
+2010-02-24 12:28:40		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 12:28:40		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 12:28:40		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 12:28:40		 XML File Update Successfully. 
+2010-02-24 12:28:40		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 12:29:44		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 12:29:44		 Database Connection Successful. 
+2010-02-24 12:29:44		 Database Selection Successful. 
+2010-02-24 12:29:44		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_SMS'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 12:29:44		 Database Connection Closed Successful. 
+2010-02-24 12:29:44		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 12:29:44		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 12:29:44		 Database Connection Successful. 
+2010-02-24 12:29:44		 Database Selection Successful. 
+2010-02-24 12:29:44		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_SMS',`rt_comm_manager_type_ids` = 's-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '39' 
+2010-02-24 12:29:44		 Database Connection Closed Successful. 
+2010-02-24 12:29:44		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 12:29:44		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 12:29:44		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 12:29:44		 XML File Update Successfully. 
+2010-02-24 12:29:44		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 12:29:54		 Start of Function : insertCommunicationManagerDetails 
+2010-02-24 12:29:54		 Database Connection Successful. 
+2010-02-24 12:29:54		 Database Selection Successful. 
+2010-02-24 12:29:54		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_SMS'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-24 12:29:54		 Database Connection Closed Successful. 
+2010-02-24 12:29:54		 End of Function : insertCommunicationManagerDetails 
+2010-02-24 12:29:54		 Start of Function : updateCommunicationManagerDetails 
+2010-02-24 12:29:54		 Database Connection Successful. 
+2010-02-24 12:29:54		 Database Selection Successful. 
+2010-02-24 12:29:55		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_SMS',`rt_comm_manager_type_ids` = 's-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '40' 
+2010-02-24 12:29:55		 Database Connection Closed Successful. 
+2010-02-24 12:29:55		 End of Function : updateCommunicationManagerDetails 
+2010-02-24 12:29:55		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-24 12:29:55		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-24 12:29:55		 XML File Update Successfully. 
+2010-02-24 12:29:55		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 05:35:34		 Start of Function : insertCommunicationManagerDetails 
+2010-02-25 05:35:34		 Database Connection Successful. 
+2010-02-25 05:35:34		 Database Selection Successful. 
+2010-02-25 05:35:34		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_SMS'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-25 05:35:34		 Database Connection Closed Successful. 
+2010-02-25 05:35:34		 End of Function : insertCommunicationManagerDetails 
+2010-02-25 05:35:34		 Start of Function : updateCommunicationManagerDetails 
+2010-02-25 05:35:34		 Database Connection Successful. 
+2010-02-25 05:35:34		 Database Selection Successful. 
+2010-02-25 05:35:34		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_SMS',`rt_comm_manager_type_ids` = 's-E1110',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '41' 
+2010-02-25 05:35:34		 Database Connection Closed Successful. 
+2010-02-25 05:35:34		 End of Function : updateCommunicationManagerDetails 
+2010-02-25 05:35:34		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 05:35:34		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-25 05:35:35		 XML File Update Successfully. 
+2010-02-25 05:35:35		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 10:49:48		 Start of Function : insertCommunicationManagerDetails 
+2010-02-25 10:49:48		 Database Connection Successful. 
+2010-02-25 10:49:48		 Database Selection Successful. 
+2010-02-25 10:49:48		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_SMS'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-25 10:49:48		 Database Connection Closed Successful. 
+2010-02-25 10:49:48		 End of Function : insertCommunicationManagerDetails 
+2010-02-25 10:49:48		 Start of Function : updateCommunicationManagerDetails 
+2010-02-25 10:49:48		 Database Connection Successful. 
+2010-02-25 10:49:48		 Database Selection Successful. 
+2010-02-25 10:49:49		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_SMS',`rt_comm_manager_type_ids` = 's-E0011',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '42' 
+2010-02-25 10:49:49		 Database Connection Closed Successful. 
+2010-02-25 10:49:49		 End of Function : updateCommunicationManagerDetails 
+2010-02-25 10:49:49		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 10:49:49		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-25 10:49:49		 XML File Update Successfully. 
+2010-02-25 10:49:49		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 12:07:11		 Start of Function : insertCommunicationManagerDetails 
+2010-02-25 12:07:11		 Database Connection Successful. 
+2010-02-25 12:07:11		 Database Selection Successful. 
+2010-02-25 12:07:11		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_SMS'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-25 12:07:11		 Database Connection Closed Successful. 
+2010-02-25 12:07:11		 End of Function : insertCommunicationManagerDetails 
+2010-02-25 12:07:11		 Start of Function : updateCommunicationManagerDetails 
+2010-02-25 12:07:11		 Database Connection Successful. 
+2010-02-25 12:07:11		 Database Selection Successful. 
+2010-02-25 12:07:11		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_SMS',`rt_comm_manager_type_ids` = 's-1',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '43' 
+2010-02-25 12:07:11		 Database Connection Closed Successful. 
+2010-02-25 12:07:11		 End of Function : updateCommunicationManagerDetails 
+2010-02-25 12:07:11		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 12:07:11		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-25 12:07:11		 XML File Update Successfully. 
+2010-02-25 12:07:11		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 12:09:49		 Start of Function : insertCommunicationManagerDetails 
+2010-02-25 12:09:49		 Database Connection Successful. 
+2010-02-25 12:09:49		 Database Selection Successful. 
+2010-02-25 12:09:49		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_SMS'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-25 12:09:49		 Database Connection Closed Successful. 
+2010-02-25 12:09:49		 End of Function : insertCommunicationManagerDetails 
+2010-02-25 12:09:49		 Start of Function : updateCommunicationManagerDetails 
+2010-02-25 12:09:49		 Database Connection Successful. 
+2010-02-25 12:09:49		 Database Selection Successful. 
+2010-02-25 12:09:49		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_SMS',`rt_comm_manager_type_ids` = 's-2',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '44' 
+2010-02-25 12:09:49		 Database Connection Closed Successful. 
+2010-02-25 12:09:49		 End of Function : updateCommunicationManagerDetails 
+2010-02-25 12:09:49		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 12:09:49		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-25 12:09:49		 XML File Update Successfully. 
+2010-02-25 12:09:49		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 12:11:12		 Start of Function : insertCommunicationManagerDetails 
+2010-02-25 12:11:12		 Database Connection Successful. 
+2010-02-25 12:11:12		 Database Selection Successful. 
+2010-02-25 12:11:12		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_SMS'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-25 12:11:12		 Database Connection Closed Successful. 
+2010-02-25 12:11:12		 End of Function : insertCommunicationManagerDetails 
+2010-02-25 12:11:12		 Start of Function : updateCommunicationManagerDetails 
+2010-02-25 12:11:12		 Database Connection Successful. 
+2010-02-25 12:11:12		 Database Selection Successful. 
+2010-02-25 12:11:12		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_SMS',`rt_comm_manager_type_ids` = 's-3',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '45' 
+2010-02-25 12:11:12		 Database Connection Closed Successful. 
+2010-02-25 12:11:12		 End of Function : updateCommunicationManagerDetails 
+2010-02-25 12:11:12		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 12:11:12		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-25 12:11:12		 XML File Update Successfully. 
+2010-02-25 12:11:12		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 12:12:03		 Start of Function : insertCommunicationManagerDetails 
+2010-02-25 12:12:03		 Database Connection Successful. 
+2010-02-25 12:12:03		 Database Selection Successful. 
+2010-02-25 12:12:03		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_EMAIL'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-25 12:12:03		 Database Connection Closed Successful. 
+2010-02-25 12:12:03		 End of Function : insertCommunicationManagerDetails 
+2010-02-25 12:12:03		 Start of Function : updateCommunicationManagerDetails 
+2010-02-25 12:12:03		 Database Connection Successful. 
+2010-02-25 12:12:03		 Database Selection Successful. 
+2010-02-25 12:12:03		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_EMAIL',`rt_comm_manager_type_ids` = 'e-20',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '46' 
+2010-02-25 12:12:03		 Database Connection Closed Successful. 
+2010-02-25 12:12:03		 End of Function : updateCommunicationManagerDetails 
+2010-02-25 12:12:03		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 12:12:03		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-25 12:12:03		 XML File Update Successfully. 
+2010-02-25 12:12:03		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 12:14:13		 Start of Function : insertCommunicationManagerDetails 
+2010-02-25 12:14:13		 Database Connection Successful. 
+2010-02-25 12:14:13		 Database Selection Successful. 
+2010-02-25 12:14:13		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_SMS'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-25 12:14:13		 Database Connection Closed Successful. 
+2010-02-25 12:14:13		 End of Function : insertCommunicationManagerDetails 
+2010-02-25 12:14:13		 Start of Function : updateCommunicationManagerDetails 
+2010-02-25 12:14:13		 Database Connection Successful. 
+2010-02-25 12:14:13		 Database Selection Successful. 
+2010-02-25 12:14:13		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_SMS',`rt_comm_manager_type_ids` = 's-4',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '47' 
+2010-02-25 12:14:13		 Database Connection Closed Successful. 
+2010-02-25 12:14:13		 End of Function : updateCommunicationManagerDetails 
+2010-02-25 12:14:13		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 12:14:13		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-25 12:14:13		 XML File Update Successfully. 
+2010-02-25 12:14:13		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 12:15:29		 Start of Function : insertCommunicationManagerDetails 
+2010-02-25 12:15:29		 Database Connection Successful. 
+2010-02-25 12:15:29		 Database Selection Successful. 
+2010-02-25 12:15:29		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_SMS'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-25 12:15:29		 Database Connection Closed Successful. 
+2010-02-25 12:15:29		 End of Function : insertCommunicationManagerDetails 
+2010-02-25 12:15:29		 Start of Function : updateCommunicationManagerDetails 
+2010-02-25 12:15:29		 Database Connection Successful. 
+2010-02-25 12:15:29		 Database Selection Successful. 
+2010-02-25 12:15:29		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_SMS',`rt_comm_manager_type_ids` = 's-5',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '48' 
+2010-02-25 12:15:29		 Database Connection Closed Successful. 
+2010-02-25 12:15:29		 End of Function : updateCommunicationManagerDetails 
+2010-02-25 12:15:29		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 12:15:29		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-25 12:15:29		 XML File Update Successfully. 
+2010-02-25 12:15:29		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 12:15:52		 Start of Function : insertCommunicationManagerDetails 
+2010-02-25 12:15:52		 Database Connection Successful. 
+2010-02-25 12:15:52		 Database Selection Successful. 
+2010-02-25 12:15:52		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_SMS'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-25 12:15:52		 Database Connection Closed Successful. 
+2010-02-25 12:15:52		 End of Function : insertCommunicationManagerDetails 
+2010-02-25 12:15:52		 Start of Function : updateCommunicationManagerDetails 
+2010-02-25 12:15:52		 Database Connection Successful. 
+2010-02-25 12:15:52		 Database Selection Successful. 
+2010-02-25 12:15:52		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_SMS',`rt_comm_manager_type_ids` = 's-6',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '49' 
+2010-02-25 12:15:52		 Database Connection Closed Successful. 
+2010-02-25 12:15:52		 End of Function : updateCommunicationManagerDetails 
+2010-02-25 12:15:52		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 12:15:52		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-25 12:15:52		 XML File Update Successfully. 
+2010-02-25 12:15:52		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 13:43:31		 Start of Function : insertCommunicationManagerDetails 
+2010-02-25 13:43:31		 Database Connection Successful. 
+2010-02-25 13:43:31		 Database Selection Successful. 
+2010-02-25 13:43:31		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_EMAIL'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-25 13:43:31		 Database Connection Closed Successful. 
+2010-02-25 13:43:31		 End of Function : insertCommunicationManagerDetails 
+2010-02-25 13:43:31		 Start of Function : updateCommunicationManagerDetails 
+2010-02-25 13:43:31		 Database Connection Successful. 
+2010-02-25 13:43:31		 Database Selection Successful. 
+2010-02-25 13:43:31		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_EMAIL',`rt_comm_manager_type_ids` = 'e-21',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '50' 
+2010-02-25 13:43:31		 Database Connection Closed Successful. 
+2010-02-25 13:43:31		 End of Function : updateCommunicationManagerDetails 
+2010-02-25 13:43:31		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 13:43:31		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-25 13:43:31		 XML File Update Successfully. 
+2010-02-25 13:43:31		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 13:44:36		 Start of Function : insertCommunicationManagerDetails 
+2010-02-25 13:44:36		 Database Connection Successful. 
+2010-02-25 13:44:36		 Database Selection Successful. 
+2010-02-25 13:44:36		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_DISPLAY'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-25 13:44:36		 Database Connection Closed Successful. 
+2010-02-25 13:44:36		 End of Function : insertCommunicationManagerDetails 
+2010-02-25 13:44:36		 Start of Function : updateCommunicationManagerDetails 
+2010-02-25 13:44:36		 Database Connection Successful. 
+2010-02-25 13:44:36		 Database Selection Successful. 
+2010-02-25 13:44:36		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_DISPLAY',`rt_comm_manager_type_ids` = 'd-16',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '51' 
+2010-02-25 13:44:36		 Database Connection Closed Successful. 
+2010-02-25 13:44:36		 End of Function : updateCommunicationManagerDetails 
+2010-02-25 13:44:36		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 13:44:36		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-25 13:44:36		 XML File Update Successfully. 
+2010-02-25 13:44:36		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 15:02:03		 Start of Function : insertCommunicationManagerDetails 
+2010-02-25 15:02:03		 Database Connection Successful. 
+2010-02-25 15:02:03		 Database Selection Successful. 
+2010-02-25 15:02:03		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_DISPLAY'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-25 15:02:03		 Database Connection Closed Successful. 
+2010-02-25 15:02:03		 End of Function : insertCommunicationManagerDetails 
+2010-02-25 15:02:03		 Start of Function : updateCommunicationManagerDetails 
+2010-02-25 15:02:03		 Database Connection Successful. 
+2010-02-25 15:02:03		 Database Selection Successful. 
+2010-02-25 15:02:03		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_DISPLAY',`rt_comm_manager_type_ids` = 'd-17',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '52' 
+2010-02-25 15:02:03		 Database Connection Closed Successful. 
+2010-02-25 15:02:03		 End of Function : updateCommunicationManagerDetails 
+2010-02-25 15:02:03		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 15:02:03		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-25 15:02:03		 XML File Update Successfully. 
+2010-02-25 15:02:03		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 15:02:27		 Start of Function : insertCommunicationManagerDetails 
+2010-02-25 15:02:27		 Database Connection Successful. 
+2010-02-25 15:02:27		 Database Selection Successful. 
+2010-02-25 15:02:27		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_DISPLAY'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-25 15:02:27		 Database Connection Closed Successful. 
+2010-02-25 15:02:27		 End of Function : insertCommunicationManagerDetails 
+2010-02-25 15:02:27		 Start of Function : updateCommunicationManagerDetails 
+2010-02-25 15:02:27		 Database Connection Successful. 
+2010-02-25 15:02:27		 Database Selection Successful. 
+2010-02-25 15:02:27		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_DISPLAY',`rt_comm_manager_type_ids` = 'd-18',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '53' 
+2010-02-25 15:02:27		 Database Connection Closed Successful. 
+2010-02-25 15:02:27		 End of Function : updateCommunicationManagerDetails 
+2010-02-25 15:02:27		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 15:02:27		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-25 15:02:27		 XML File Update Successfully. 
+2010-02-25 15:02:27		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 15:03:23		 Start of Function : insertCommunicationManagerDetails 
+2010-02-25 15:03:23		 Database Connection Successful. 
+2010-02-25 15:03:23		 Database Selection Successful. 
+2010-02-25 15:03:23		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_DISPLAY'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-25 15:03:23		 Database Connection Closed Successful. 
+2010-02-25 15:03:23		 End of Function : insertCommunicationManagerDetails 
+2010-02-25 15:03:23		 Start of Function : updateCommunicationManagerDetails 
+2010-02-25 15:03:23		 Database Connection Successful. 
+2010-02-25 15:03:23		 Database Selection Successful. 
+2010-02-25 15:03:23		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_DISPLAY',`rt_comm_manager_type_ids` = 'd-19',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '54' 
+2010-02-25 15:03:23		 Database Connection Closed Successful. 
+2010-02-25 15:03:23		 End of Function : updateCommunicationManagerDetails 
+2010-02-25 15:03:23		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 15:03:23		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-25 15:03:23		 XML File Update Successfully. 
+2010-02-25 15:03:23		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 15:03:42		 Start of Function : insertCommunicationManagerDetails 
+2010-02-25 15:03:42		 Database Connection Successful. 
+2010-02-25 15:03:42		 Database Selection Successful. 
+2010-02-25 15:03:42		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_DISPLAY'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-25 15:03:42		 Database Connection Closed Successful. 
+2010-02-25 15:03:42		 End of Function : insertCommunicationManagerDetails 
+2010-02-25 15:03:42		 Start of Function : updateCommunicationManagerDetails 
+2010-02-25 15:03:42		 Database Connection Successful. 
+2010-02-25 15:03:42		 Database Selection Successful. 
+2010-02-25 15:03:42		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_DISPLAY',`rt_comm_manager_type_ids` = 'd-20',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '55' 
+2010-02-25 15:03:42		 Database Connection Closed Successful. 
+2010-02-25 15:03:42		 End of Function : updateCommunicationManagerDetails 
+2010-02-25 15:03:42		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 15:03:42		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-25 15:03:42		 XML File Update Successfully. 
+2010-02-25 15:03:42		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 15:03:58		 Start of Function : insertCommunicationManagerDetails 
+2010-02-25 15:03:58		 Database Connection Successful. 
+2010-02-25 15:03:58		 Database Selection Successful. 
+2010-02-25 15:03:58		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_DISPLAY'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-25 15:03:58		 Database Connection Closed Successful. 
+2010-02-25 15:03:58		 End of Function : insertCommunicationManagerDetails 
+2010-02-25 15:03:58		 Start of Function : updateCommunicationManagerDetails 
+2010-02-25 15:03:58		 Database Connection Successful. 
+2010-02-25 15:03:58		 Database Selection Successful. 
+2010-02-25 15:03:58		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_DISPLAY',`rt_comm_manager_type_ids` = 'd-21',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '56' 
+2010-02-25 15:03:58		 Database Connection Closed Successful. 
+2010-02-25 15:03:58		 End of Function : updateCommunicationManagerDetails 
+2010-02-25 15:03:58		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-25 15:03:58		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-25 15:03:58		 XML File Update Successfully. 
+2010-02-25 15:03:58		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-26 15:29:55		 Start of Function : insertCommunicationManagerDetails 
+2010-02-26 15:29:55		 Database Connection Successful. 
+2010-02-26 15:29:55		 Database Selection Successful. 
+2010-02-26 15:29:55		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_DISPLAY'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-26 15:29:55		 Database Connection Closed Successful. 
+2010-02-26 15:29:55		 End of Function : insertCommunicationManagerDetails 
+2010-02-26 15:29:56		 Start of Function : updateCommunicationManagerDetails 
+2010-02-26 15:29:56		 Database Connection Successful. 
+2010-02-26 15:29:56		 Database Selection Successful. 
+2010-02-26 15:29:56		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_DISPLAY',`rt_comm_manager_type_ids` = 'd-22',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '57' 
+2010-02-26 15:29:56		 Database Connection Closed Successful. 
+2010-02-26 15:29:56		 End of Function : updateCommunicationManagerDetails 
+2010-02-26 15:29:56		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-26 15:29:56		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-26 15:29:56		 XML File Update Successfully. 
+2010-02-26 15:29:56		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-26 15:33:55		 Start of Function : insertCommunicationManagerDetails 
+2010-02-26 15:33:55		 Database Connection Successful. 
+2010-02-26 15:33:55		 Database Selection Successful. 
+2010-02-26 15:33:55		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_DISPLAY'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-26 15:33:55		 Database Connection Closed Successful. 
+2010-02-26 15:33:55		 End of Function : insertCommunicationManagerDetails 
+2010-02-26 15:33:55		 Start of Function : updateCommunicationManagerDetails 
+2010-02-26 15:33:55		 Database Connection Successful. 
+2010-02-26 15:33:55		 Database Selection Successful. 
+2010-02-26 15:33:55		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_DISPLAY',`rt_comm_manager_type_ids` = 'd-23',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '58' 
+2010-02-26 15:33:55		 Database Connection Closed Successful. 
+2010-02-26 15:33:55		 End of Function : updateCommunicationManagerDetails 
+2010-02-26 15:33:55		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-26 15:33:55		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-26 15:33:55		 XML File Update Successfully. 
+2010-02-26 15:33:55		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 09:53:43		 Start of Function : insertCommunicationManagerDetails 
+2010-02-27 09:53:43		 Database Connection Successful. 
+2010-02-27 09:53:43		 Database Selection Successful. 
+2010-02-27 09:53:44		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_SMS'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-27 09:53:44		 Database Connection Closed Successful. 
+2010-02-27 09:53:44		 End of Function : insertCommunicationManagerDetails 
+2010-02-27 09:53:44		 Start of Function : updateCommunicationManagerDetails 
+2010-02-27 09:53:44		 Database Connection Successful. 
+2010-02-27 09:53:44		 Database Selection Successful. 
+2010-02-27 09:53:44		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_SMS',`rt_comm_manager_type_ids` = 's-7',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '59' 
+2010-02-27 09:53:44		 Database Connection Closed Successful. 
+2010-02-27 09:53:44		 End of Function : updateCommunicationManagerDetails 
+2010-02-27 09:53:44		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 09:53:44		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-27 09:53:44		 XML File Update Successfully. 
+2010-02-27 09:53:44		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 09:55:43		 Start of Function : insertCommunicationManagerDetails 
+2010-02-27 09:55:43		 Database Connection Successful. 
+2010-02-27 09:55:43		 Database Selection Successful. 
+2010-02-27 09:55:43		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_SMS'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-27 09:55:43		 Database Connection Closed Successful. 
+2010-02-27 09:55:43		 End of Function : insertCommunicationManagerDetails 
+2010-02-27 09:55:43		 Start of Function : updateCommunicationManagerDetails 
+2010-02-27 09:55:43		 Database Connection Successful. 
+2010-02-27 09:55:43		 Database Selection Successful. 
+2010-02-27 09:55:43		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_SMS',`rt_comm_manager_type_ids` = 's-8',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '60' 
+2010-02-27 09:55:43		 Database Connection Closed Successful. 
+2010-02-27 09:55:43		 End of Function : updateCommunicationManagerDetails 
+2010-02-27 09:55:43		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 09:55:43		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-27 09:55:43		 XML File Update Successfully. 
+2010-02-27 09:55:43		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 09:56:16		 Start of Function : insertCommunicationManagerDetails 
+2010-02-27 09:56:16		 Database Connection Successful. 
+2010-02-27 09:56:16		 Database Selection Successful. 
+2010-02-27 09:56:16		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_SMS'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-27 09:56:16		 Database Connection Closed Successful. 
+2010-02-27 09:56:16		 End of Function : insertCommunicationManagerDetails 
+2010-02-27 09:56:16		 Start of Function : updateCommunicationManagerDetails 
+2010-02-27 09:56:16		 Database Connection Successful. 
+2010-02-27 09:56:16		 Database Selection Successful. 
+2010-02-27 09:56:16		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_SMS',`rt_comm_manager_type_ids` = 's-9',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '61' 
+2010-02-27 09:56:16		 Database Connection Closed Successful. 
+2010-02-27 09:56:16		 End of Function : updateCommunicationManagerDetails 
+2010-02-27 09:56:16		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 09:56:16		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-27 09:56:16		 XML File Update Successfully. 
+2010-02-27 09:56:16		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 09:56:26		 Start of Function : insertCommunicationManagerDetails 
+2010-02-27 09:56:26		 Database Connection Successful. 
+2010-02-27 09:56:26		 Database Selection Successful. 
+2010-02-27 09:56:26		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_SMS'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-27 09:56:26		 Database Connection Closed Successful. 
+2010-02-27 09:56:26		 End of Function : insertCommunicationManagerDetails 
+2010-02-27 09:56:26		 Start of Function : updateCommunicationManagerDetails 
+2010-02-27 09:56:26		 Database Connection Successful. 
+2010-02-27 09:56:26		 Database Selection Successful. 
+2010-02-27 09:56:26		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_SMS',`rt_comm_manager_type_ids` = 's-10',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '62' 
+2010-02-27 09:56:26		 Database Connection Closed Successful. 
+2010-02-27 09:56:26		 End of Function : updateCommunicationManagerDetails 
+2010-02-27 09:56:26		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 09:56:26		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-27 09:56:26		 XML File Update Successfully. 
+2010-02-27 09:56:26		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 09:58:18		 Start of Function : insertCommunicationManagerDetails 
+2010-02-27 09:58:18		 Database Connection Successful. 
+2010-02-27 09:58:18		 Database Selection Successful. 
+2010-02-27 09:58:18		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_SMS'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-27 09:58:18		 Database Connection Closed Successful. 
+2010-02-27 09:58:18		 End of Function : insertCommunicationManagerDetails 
+2010-02-27 09:58:18		 Start of Function : updateCommunicationManagerDetails 
+2010-02-27 09:58:18		 Database Connection Successful. 
+2010-02-27 09:58:18		 Database Selection Successful. 
+2010-02-27 09:58:18		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_SMS',`rt_comm_manager_type_ids` = 's-11',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '63' 
+2010-02-27 09:58:18		 Database Connection Closed Successful. 
+2010-02-27 09:58:18		 End of Function : updateCommunicationManagerDetails 
+2010-02-27 09:58:18		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 09:58:18		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-27 09:58:18		 XML File Update Successfully. 
+2010-02-27 09:58:18		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 09:58:58		 Start of Function : insertCommunicationManagerDetails 
+2010-02-27 09:58:58		 Database Connection Successful. 
+2010-02-27 09:58:58		 Database Selection Successful. 
+2010-02-27 09:58:58		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_SMS'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-27 09:58:58		 Database Connection Closed Successful. 
+2010-02-27 09:58:58		 End of Function : insertCommunicationManagerDetails 
+2010-02-27 09:58:58		 Start of Function : updateCommunicationManagerDetails 
+2010-02-27 09:58:58		 Database Connection Successful. 
+2010-02-27 09:58:58		 Database Selection Successful. 
+2010-02-27 09:58:58		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_SMS',`rt_comm_manager_type_ids` = 's-12',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '64' 
+2010-02-27 09:58:58		 Database Connection Closed Successful. 
+2010-02-27 09:58:58		 End of Function : updateCommunicationManagerDetails 
+2010-02-27 09:58:58		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 09:58:58		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-27 09:58:58		 XML File Update Successfully. 
+2010-02-27 09:58:58		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 09:59:19		 Start of Function : insertCommunicationManagerDetails 
+2010-02-27 09:59:19		 Database Connection Successful. 
+2010-02-27 09:59:19		 Database Selection Successful. 
+2010-02-27 09:59:19		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_SMS'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-27 09:59:19		 Database Connection Closed Successful. 
+2010-02-27 09:59:19		 End of Function : insertCommunicationManagerDetails 
+2010-02-27 09:59:19		 Start of Function : updateCommunicationManagerDetails 
+2010-02-27 09:59:19		 Database Connection Successful. 
+2010-02-27 09:59:19		 Database Selection Successful. 
+2010-02-27 09:59:19		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_SMS',`rt_comm_manager_type_ids` = 's-13',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '65' 
+2010-02-27 09:59:19		 Database Connection Closed Successful. 
+2010-02-27 09:59:19		 End of Function : updateCommunicationManagerDetails 
+2010-02-27 09:59:19		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 09:59:19		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-27 09:59:19		 XML File Update Successfully. 
+2010-02-27 09:59:19		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 10:00:04		 Start of Function : insertCommunicationManagerDetails 
+2010-02-27 10:00:04		 Database Connection Successful. 
+2010-02-27 10:00:04		 Database Selection Successful. 
+2010-02-27 10:00:04		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_SMS'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-27 10:00:04		 Database Connection Closed Successful. 
+2010-02-27 10:00:04		 End of Function : insertCommunicationManagerDetails 
+2010-02-27 10:00:04		 Start of Function : updateCommunicationManagerDetails 
+2010-02-27 10:00:04		 Database Connection Successful. 
+2010-02-27 10:00:04		 Database Selection Successful. 
+2010-02-27 10:00:04		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_SMS',`rt_comm_manager_type_ids` = 's-14',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '66' 
+2010-02-27 10:00:04		 Database Connection Closed Successful. 
+2010-02-27 10:00:04		 End of Function : updateCommunicationManagerDetails 
+2010-02-27 10:00:04		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 10:00:04		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-27 10:00:04		 XML File Update Successfully. 
+2010-02-27 10:00:04		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 10:04:17		 Start of Function : insertCommunicationManagerDetails 
+2010-02-27 10:04:17		 Database Connection Successful. 
+2010-02-27 10:04:17		 Database Selection Successful. 
+2010-02-27 10:04:17		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_SMS'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-27 10:04:17		 Database Connection Closed Successful. 
+2010-02-27 10:04:17		 End of Function : insertCommunicationManagerDetails 
+2010-02-27 10:04:17		 Start of Function : updateCommunicationManagerDetails 
+2010-02-27 10:04:17		 Database Connection Successful. 
+2010-02-27 10:04:17		 Database Selection Successful. 
+2010-02-27 10:04:17		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_SMS',`rt_comm_manager_type_ids` = 's-15',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '67' 
+2010-02-27 10:04:17		 Database Connection Closed Successful. 
+2010-02-27 10:04:17		 End of Function : updateCommunicationManagerDetails 
+2010-02-27 10:04:17		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 10:04:17		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-27 10:04:17		 XML File Update Successfully. 
+2010-02-27 10:04:17		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 10:05:04		 Start of Function : insertCommunicationManagerDetails 
+2010-02-27 10:05:04		 Database Connection Successful. 
+2010-02-27 10:05:04		 Database Selection Successful. 
+2010-02-27 10:05:04		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_SMS'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-27 10:05:04		 Database Connection Closed Successful. 
+2010-02-27 10:05:04		 End of Function : insertCommunicationManagerDetails 
+2010-02-27 10:05:04		 Start of Function : updateCommunicationManagerDetails 
+2010-02-27 10:05:04		 Database Connection Successful. 
+2010-02-27 10:05:04		 Database Selection Successful. 
+2010-02-27 10:05:04		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_SMS',`rt_comm_manager_type_ids` = 's-16',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '68' 
+2010-02-27 10:05:04		 Database Connection Closed Successful. 
+2010-02-27 10:05:04		 End of Function : updateCommunicationManagerDetails 
+2010-02-27 10:05:04		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 10:05:04		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-27 10:05:04		 XML File Update Successfully. 
+2010-02-27 10:05:04		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 10:05:30		 Start of Function : insertCommunicationManagerDetails 
+2010-02-27 10:05:30		 Database Connection Successful. 
+2010-02-27 10:05:30		 Database Selection Successful. 
+2010-02-27 10:05:30		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_SMS'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-27 10:05:30		 Database Connection Closed Successful. 
+2010-02-27 10:05:30		 End of Function : insertCommunicationManagerDetails 
+2010-02-27 10:05:31		 Start of Function : updateCommunicationManagerDetails 
+2010-02-27 10:05:31		 Database Connection Successful. 
+2010-02-27 10:05:31		 Database Selection Successful. 
+2010-02-27 10:05:31		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_SMS',`rt_comm_manager_type_ids` = 's-17',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '69' 
+2010-02-27 10:05:31		 Database Connection Closed Successful. 
+2010-02-27 10:05:31		 End of Function : updateCommunicationManagerDetails 
+2010-02-27 10:05:31		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 10:05:31		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-27 10:05:31		 XML File Update Successfully. 
+2010-02-27 10:05:31		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 10:09:40		 Start of Function : insertCommunicationManagerDetails 
+2010-02-27 10:09:40		 Database Connection Successful. 
+2010-02-27 10:09:40		 Database Selection Successful. 
+2010-02-27 10:09:40		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_SMS'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-27 10:09:40		 Database Connection Closed Successful. 
+2010-02-27 10:09:40		 End of Function : insertCommunicationManagerDetails 
+2010-02-27 10:09:41		 Start of Function : updateCommunicationManagerDetails 
+2010-02-27 10:09:41		 Database Connection Successful. 
+2010-02-27 10:09:41		 Database Selection Successful. 
+2010-02-27 10:09:41		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_SMS',`rt_comm_manager_type_ids` = 's-18',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '70' 
+2010-02-27 10:09:41		 Database Connection Closed Successful. 
+2010-02-27 10:09:41		 End of Function : updateCommunicationManagerDetails 
+2010-02-27 10:09:41		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 10:09:41		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-27 10:09:41		 XML File Update Successfully. 
+2010-02-27 10:09:41		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 10:13:18		 Start of Function : insertCommunicationManagerDetails 
+2010-02-27 10:13:18		 Database Connection Successful. 
+2010-02-27 10:13:18		 Database Selection Successful. 
+2010-02-27 10:13:18		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_SMS'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-27 10:13:18		 Database Connection Closed Successful. 
+2010-02-27 10:13:18		 End of Function : insertCommunicationManagerDetails 
+2010-02-27 10:13:18		 Start of Function : updateCommunicationManagerDetails 
+2010-02-27 10:13:18		 Database Connection Successful. 
+2010-02-27 10:13:18		 Database Selection Successful. 
+2010-02-27 10:13:18		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_SMS',`rt_comm_manager_type_ids` = 's-19',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '71' 
+2010-02-27 10:13:18		 Database Connection Closed Successful. 
+2010-02-27 10:13:18		 End of Function : updateCommunicationManagerDetails 
+2010-02-27 10:13:18		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 10:13:18		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-27 10:13:18		 XML File Update Successfully. 
+2010-02-27 10:13:18		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 10:15:30		 Start of Function : insertCommunicationManagerDetails 
+2010-02-27 10:15:30		 Database Connection Successful. 
+2010-02-27 10:15:30		 Database Selection Successful. 
+2010-02-27 10:15:30		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_EMAIL'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-27 10:15:30		 Database Connection Closed Successful. 
+2010-02-27 10:15:30		 End of Function : insertCommunicationManagerDetails 
+2010-02-27 10:15:30		 Start of Function : updateCommunicationManagerDetails 
+2010-02-27 10:15:30		 Database Connection Successful. 
+2010-02-27 10:15:30		 Database Selection Successful. 
+2010-02-27 10:15:30		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_EMAIL',`rt_comm_manager_type_ids` = 'e-22',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '72' 
+2010-02-27 10:15:30		 Database Connection Closed Successful. 
+2010-02-27 10:15:30		 End of Function : updateCommunicationManagerDetails 
+2010-02-27 10:15:30		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 10:15:30		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-27 10:15:30		 XML File Update Successfully. 
+2010-02-27 10:15:30		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 13:00:33		 Start of Function : insertCommunicationManagerDetails 
+2010-02-27 13:00:33		 Database Connection Successful. 
+2010-02-27 13:00:33		 Database Selection Successful. 
+2010-02-27 13:00:33		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_EMAIL'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-27 13:00:33		 Database Connection Closed Successful. 
+2010-02-27 13:00:33		 End of Function : insertCommunicationManagerDetails 
+2010-02-27 13:00:33		 Start of Function : updateCommunicationManagerDetails 
+2010-02-27 13:00:33		 Database Connection Successful. 
+2010-02-27 13:00:33		 Database Selection Successful. 
+2010-02-27 13:00:33		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_EMAIL',`rt_comm_manager_type_ids` = 'e-23',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '73' 
+2010-02-27 13:00:33		 Database Connection Closed Successful. 
+2010-02-27 13:00:33		 End of Function : updateCommunicationManagerDetails 
+2010-02-27 13:00:33		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 13:00:33		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-27 13:00:33		 XML File Update Successfully. 
+2010-02-27 13:00:33		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 13:02:07		 Start of Function : insertCommunicationManagerDetails 
+2010-02-27 13:02:07		 Database Connection Successful. 
+2010-02-27 13:02:07		 Database Selection Successful. 
+2010-02-27 13:02:07		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_SMS'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-27 13:02:07		 Database Connection Closed Successful. 
+2010-02-27 13:02:07		 End of Function : insertCommunicationManagerDetails 
+2010-02-27 13:02:07		 Start of Function : updateCommunicationManagerDetails 
+2010-02-27 13:02:07		 Database Connection Successful. 
+2010-02-27 13:02:07		 Database Selection Successful. 
+2010-02-27 13:02:07		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_SMS',`rt_comm_manager_type_ids` = 's-20',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '74' 
+2010-02-27 13:02:07		 Database Connection Closed Successful. 
+2010-02-27 13:02:07		 End of Function : updateCommunicationManagerDetails 
+2010-02-27 13:02:07		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 13:02:07		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-27 13:02:07		 XML File Update Successfully. 
+2010-02-27 13:02:07		 End of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 13:03:20		 Start of Function : insertCommunicationManagerDetails 
+2010-02-27 13:03:20		 Database Connection Successful. 
+2010-02-27 13:03:20		 Database Selection Successful. 
+2010-02-27 13:03:20		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_DISPLAY'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-02-27 13:03:20		 Database Connection Closed Successful. 
+2010-02-27 13:03:20		 End of Function : insertCommunicationManagerDetails 
+2010-02-27 13:03:20		 Start of Function : updateCommunicationManagerDetails 
+2010-02-27 13:03:20		 Database Connection Successful. 
+2010-02-27 13:03:20		 Database Selection Successful. 
+2010-02-27 13:03:20		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_DISPLAY',`rt_comm_manager_type_ids` = 'd-24',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '75' 
+2010-02-27 13:03:20		 Database Connection Closed Successful. 
+2010-02-27 13:03:20		 End of Function : updateCommunicationManagerDetails 
+2010-02-27 13:03:20		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-02-27 13:03:20		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-02-27 13:03:20		 XML File Update Successfully. 
+2010-02-27 13:03:20		 End of Function : insertCommunicationManagerDetailsXML 
+2010-03-04 05:56:53		 Start of Function : insertCommunicationManagerDetails 
+2010-03-04 05:56:53		 Database Connection Successful. 
+2010-03-04 05:56:53		 Database Selection Successful. 
+2010-03-04 05:56:53		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_DISPLAY'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-03-04 05:56:53		 Database Connection Closed Successful. 
+2010-03-04 05:56:53		 End of Function : insertCommunicationManagerDetails 
+2010-03-04 05:56:53		 Start of Function : updateCommunicationManagerDetails 
+2010-03-04 05:56:53		 Database Connection Successful. 
+2010-03-04 05:56:53		 Database Selection Successful. 
+2010-03-04 05:56:53		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_DISPLAY',`rt_comm_manager_type_ids` = 'd-25',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '76' 
+2010-03-04 05:56:53		 Database Connection Closed Successful. 
+2010-03-04 05:56:53		 End of Function : updateCommunicationManagerDetails 
+2010-03-04 05:56:53		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-03-04 05:56:53		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-03-04 05:56:53		 XML File Update Successfully. 
+2010-03-04 05:56:53		 End of Function : insertCommunicationManagerDetailsXML 
+2010-03-04 05:57:22		 Start of Function : insertCommunicationManagerDetails 
+2010-03-04 05:57:22		 Database Connection Successful. 
+2010-03-04 05:57:22		 Database Selection Successful. 
+2010-03-04 05:57:22		 Query Executed Successfully. ::: insert into `rt_comm_manager` (`rt_comm_manager_id`,`rt_comm_manager_type`,`rt_comm_manager_type_ids`,`rt_comm_manager_message_details`,`rt_comm_manager_from_user_id`,`rt_comm_manager_schedule_date`,`rt_comm_manager_repeat`,`rt_comm_manager_expire_date`,`rt_comm_manager_frequency`,`rt_comm_manager_creation_date`,`rt_comm_manager_creation_time`,`rt_comm_manager_creation_user_id`,`rt_comm_manager_extra1`,`rt_comm_manager_extra2`,`rt_comm_manager_extra3`)values
+                                                (null                ,'COMM_DISPLAY'               ,''               ,''               , '1'              ,'2010-02-24'                  ,'no'               ,'0000-00-00'               ,'1'               ,'2010-02-24'                        ,'12:00:00'                        ,'1'                        ,''               ,''               ,''); 
+2010-03-04 05:57:22		 Database Connection Closed Successful. 
+2010-03-04 05:57:22		 End of Function : insertCommunicationManagerDetails 
+2010-03-04 05:57:22		 Start of Function : updateCommunicationManagerDetails 
+2010-03-04 05:57:22		 Database Connection Successful. 
+2010-03-04 05:57:22		 Database Selection Successful. 
+2010-03-04 05:57:22		 Query Executed Successfully. ::: update `rt_comm_manager` set `rt_comm_manager_type` = 'COMM_DISPLAY',`rt_comm_manager_type_ids` = 'd-26',
+        `rt_comm_manager_message_details` = '',`rt_comm_manager_from_user_id` = '1',
+        `rt_comm_manager_schedule_date` = '2010-02-24',`rt_comm_manager_repeat` = 'no',`rt_comm_manager_expire_date` = '0000-00-00',
+        `rt_comm_manager_frequency` = '1',`rt_comm_manager_last_update_date` = '2010-02-24',`rt_comm_manager_last_update_time` = '12:00:00',
+        `rt_comm_manager_last_update_user_id` = '1',`rt_comm_manager_extra1` = '',`rt_comm_manager_extra2` = '',
+        `rt_comm_manager_extra3` = '' where `rt_comm_manager_id` = '77' 
+2010-03-04 05:57:22		 Database Connection Closed Successful. 
+2010-03-04 05:57:22		 End of Function : updateCommunicationManagerDetails 
+2010-03-04 05:57:22		 Start of Function : insertCommunicationManagerDetailsXML 
+2010-03-04 05:57:22		 XML File Found. :: ../db1_layer_comm/comm/comm/xml/comm.xml :: 
+2010-03-04 05:57:22		 XML File Update Successfully. 
+2010-03-04 05:57:22		 End of Function : insertCommunicationManagerDetailsXML 
+2010-03-08 13:23:55		 Start of Function : insertCommunicationManagerDetails 
+2010-03-08 13:23:55		 Database Connection Successful. 
+2010-03-08 13:23:55		 Database Selection Failure. MYSQL ERROR ::: Unknown database 'email_sms' :::. 
+2010-03-08 13:23:55		 End of Function : insertCommunicationManagerDetails 
+2010-03-08 13:24:14		 Start of Function : insertCommunicationManagerDetails 
+2010-03-08 13:24:14		 Database Connection Successful. 
+2010-03-08 13:24:14		 Database Selection Failure. MYSQL ERROR ::: Unknown database 'email_sms' :::. 
+2010-03-08 13:24:14		 End of Function : insertCommunicationManagerDetails 

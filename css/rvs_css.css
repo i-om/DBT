@@ -1,0 +1,177 @@
+.classTable
+{
+  width: 800px;
+}
+.classHeading
+{
+  font-size: 25px;
+  font-family: 'arial';
+  font-weight: bold;
+}
+.classTitle
+{
+    font-weight: bold;
+    width : 50%;
+    vertical-align: top;
+    font-size: 15px;
+    font-family: 'arial';
+}
+
+.classTableHead
+{
+    font-weight: bold;
+    vertical-align: top;
+    font-size: 15px;
+    font-family: 'arial';
+
+}
+
+.classLabel
+{
+    width : 50%;
+    vertical-align: top;
+    text-indent: 6%;
+    font-size: 13px;
+    font-family: 'arial';
+    /*text-transform: capitalize;  */
+}
+
+.classSelect
+{
+  width : 150px;
+}
+
+.classL2Label
+{
+    width : 50%;
+    vertical-align: top;
+    text-indent: 6%;
+    font-size: 13px;
+    font-family: 'arial';
+    font-style: italic;
+    /*text-transform: capitalize;  */
+}
+
+.classLabelView
+{
+    width : 50%;
+    vertical-align: top;
+    text-indent: 6%;
+    font-size: 13px;
+    font-family: 'arial';
+    font-weight: bolder;
+}
+.classData
+{
+  font-size: 13px;
+  font-family: 'arial';
+}
+.classTableData
+{
+  font-size: 13px;
+  font-family: 'arial';
+
+}
+.classInstruction
+{
+  vertical-align: top;
+  text-indent: 0%;
+  margin-left: 3%;
+  font-size: 13px;
+  font-style: italic;
+  font-family: 'arial';
+
+}
+.classTA
+{
+  vertical-align: top;
+  width : 400;
+  height : 100;
+}
+
+.classTextBox
+{
+    vertical-align: top;
+    /*size: 40px;*/
+}
+
+.classTitle
+{
+  vertical-align: top;
+  font-weight: bold;
+  width : 350;
+}
+
+.classplantdiv
+{
+  border: medium;
+  border-color: #000000;
+}
+
+.classCheckBox
+{
+  vertical-align: top;
+}
+.classTableDataViewLink
+{
+    color: #6600FF;
+    text-decoration: underline;
+}
+.classTableDataModifyLink
+{
+    color: #6600FF;
+    text-decoration: underline;
+}
+
+.classBold
+{
+    font-weight: bold;
+    font-family: 'arial';
+
+}
+
+.classLabelResult
+{
+    font-weight: bold;
+    font-family: 'arial';
+    text-indent: 12%;
+    font-size: 14px;
+
+}
+
+
+.classHidden
+{
+    display:none;
+
+}
+
+
+.classLabel3
+{
+
+    font-family: 'arial';
+    text-indent: 2%;
+    font-size: 12px;
+    font-style: italic;
+    color: #336644;
+
+}
+
+#footer_modal
+{
+
+    -moz-border-radius: 1px 1px 1px 1px;
+    top:7px;
+    left: 0px;
+    height:15px;
+    background-color:#1A2226;
+    position: relative;
+    float:left;
+    color: #FFFFFF;
+    font-family:Arial;
+    font-size: 9px;
+    text-decoration: none;
+    text-transform: none;
+
+}

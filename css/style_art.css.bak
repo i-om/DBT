@@ -1,0 +1,777 @@
+body
+{
+    background-color:#ffffff;
+    font-family: 'Franklin Gothic Medium';
+    margin:0;
+	padding:0;
+}
+
+
+
+#header
+{
+    top:0px;
+    height:90px;
+    width:1000px;
+    background-color: #000000;
+    background-image: url(../images/headerBg1.jpg);
+    background-repeat: repeat-y;
+    position: relative;
+    -moz-border-radius: 8px 8px 8px 8px;
+}
+
+#header #company
+{
+    top:0px;
+    left:5px;
+    float: left;
+    position:relative;
+    background-image:none;
+    background-repeat: no-repeat;
+    width:280px;
+    height:75px;
+    text-align: left;
+    font-size: 12px;
+}
+
+#header #company #chead
+{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+#header #cv
+{
+    top:12px;
+    left:90px;
+    float:left;
+    position:relative;
+    color:#fff;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 50px;
+    text-shadow: 20;
+}
+
+#header #version
+{
+    top:47px;
+    left:160px;
+    float:left;
+    position:relative;
+    color:#fff;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 10;
+}
+
+#header #logo
+{
+    float:right;
+    top:5px;
+    right:5px;
+    position:relative;
+}
+
+
+
+#main
+{
+    width:1000px;
+    top:3px;
+    position: relative;
+}
+
+#leftcol
+{
+    width:135px;
+    float:left;
+    text-align:left;
+    font-family: 'Franklin Gothic Medium';
+}
+
+#rightcol{
+
+width:135px;
+float:right;
+text-align:left;
+font-family: 'Franklin Gothic Medium';
+right:0px;
+position:absolute;
+}
+
+#bar
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+    width:860px;
+    background-color:#1A2226;
+    float:left;
+    left: 3px;
+    position:relative;
+}
+
+#bar a
+{
+    color:#ffffff;
+    text-decoration: none;
+}
+
+#bar #headBar
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+    color:#ffffff;
+    font-size:36px;
+    font-Family: 'Franklin Gothic Medium';
+    float:none;
+    text-transform: uppercase;
+}
+
+#bottomBar
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+    width:860px;
+    background-color:#1A2226;
+    float:left;
+    left: 3px;
+    position:relative;
+    color:#ffffff;
+    font-size:12px;
+    font-Family: Verdana;
+    left: 0px;
+    position: relative;
+}
+
+#containerMain
+{
+    width:860px;
+    float: left;
+    left: 3px;
+    margin-top: 3px;
+    text-align:left;
+    position: relative;
+    font-family: 'Franklin Gothic Medium';
+}
+
+#containerMain a
+{
+    text-decoration: none;
+}
+
+
+#containerMain a:Hover
+{
+    text-decoration: none;
+    text-transform: none;
+}
+
+
+
+#head
+{
+    -moz-border-radius: 1px 1px 1px 1px;
+    width:135px;
+    height:18px;
+    background-color:#1A2226;
+    color:#ffffff;
+    font-family:'Franklin Gothic Medium';
+}
+
+
+#head1
+{
+    -moz-border-radius: 1px 1px 1px 1px;
+    width:860px;
+    height:22px;
+    background-color:#1A2226;
+    color:#ffffff;
+    text-align:left;
+    font-family: 'Franklin Gothic Medium';
+}
+
+#headtitle
+{
+    top:-2px;
+    position:relative;
+    color:#ffffff;
+    font-Family: 'Franklin Gothic Medium';
+    font-size:12px;
+    font-weight: bold;
+}
+
+#headtitle1
+{
+    color:#ffffff;
+    font-Family: 'Franklin Gothic Medium';
+    left:0px;
+    position:relative;
+    font-size:12px;
+}
+
+#headtitle1 td
+{
+    color:#ffffff;
+    font-Family: 'Franklin Gothic Medium';
+}
+
+#head img
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+    left:0px;
+    top:-2px;
+    position: relative;
+    float:left;
+}
+
+#head1 img
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+    left:0px;
+    position: relative;
+}
+
+#footer
+{
+    -moz-border-radius: 1px 1px 1px 1px;
+    top:7px;
+    left: 0px;
+    width:1000px;
+    height:15px;
+    background-color:#1A2226;
+    position: relative;
+    float:left;
+    color: #FFFFFF;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 9px;
+    text-decoration: none;
+    text-transform: none;
+}
+
+#footer a
+{
+   text-decoration: none;
+   color: #ffffff;
+   text-transform: none;
+}
+
+
+h3
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+    color:#000000;
+}
+
+
+#leftWidget
+{
+    background-image: url(../images/bg.jpg);
+    background-repeat: repeat-x;
+    background-color: #ffffff;
+}
+
+
+#leftWidget #leftWidgetContent
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+    color:#000000;
+    font-size: 10px;
+    font-Family: 'Arial';
+    margin-left: 10px;
+    text-decoration: none;
+    text-transform: none;
+}
+
+#leftWidget #leftWidgetContentLogin
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+    color:#000000;
+    font-size: 9px;
+    font-Family: 'Arial';
+    margin-left: 5px;
+}
+
+#leftWidget #leftWidgetContentLogin a
+{
+    color:#000000;
+    text-decoration: none;
+    text-transform: none;
+}
+
+#leftWidget #leftWidgetContentLogin a:HOVER
+{
+    color:#000000;
+    text-decoration: underline;
+}
+
+#leftWidget #leftWidgetContent a:HOVER
+{
+    color:#000000;
+    text-decoration: underline;
+}
+
+#leftWidget #leftWidgetContent a
+{
+    color:#000000;
+    text-decoration: none;
+}
+
+
+#containerDiv
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+    background-image: url(../images/containerDivSmall.jpg) ;
+    background-repeat: repeat-x;
+    font-family: 'Franklin Gothic Medium';
+}
+
+#containerDiv a
+{
+    color: #000000;
+    text-decoration: none;
+    text-transform: none;
+}
+
+#containerDiv textarea
+{
+    font-size: 14px;
+    font-Family: 'Franklin Gothic Medium';
+    background-color: #FFFFFF;
+}
+
+
+#containerDiv #containerData
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+    color:#000000;
+    font-size: 14px;
+    font-Family: 'Franklin Gothic Medium';
+    margin-left: 7px;
+    text-align:left;
+}
+
+#containerDiv #containerData input[type="text"]
+{
+    font-size: 14px;
+    font-Family: 'Franklin Gothic Medium';
+    background-color: #FFFFFF;
+}
+
+
+#buttonContainer
+{
+    left:0px;
+    position:relative;
+    width:720px;
+    display:inline;
+    margin-left:3px;
+}
+
+#buttonContainer a #title
+{
+    top: -40px;
+    left: 150px;
+    position: relative;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight:bold;
+    text-align: center;
+    width: 160px;}
+
+
+#buttonContainer a #title1
+{
+    top: -45px;
+    left: 120px;
+    position: relative;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight:bold;
+    font-size: 16px;
+    font-weight:bold;
+    width: 160px;
+    text-align: center;
+    }
+
+#buttonContainer a
+{
+    color:#fff;
+    cursor:pointer;
+    text-decoration: none;
+    width:360px;
+    height:107px;
+    background-image: url(../images/button1.png);
+    background-repeat: no-repeat;
+    float:left;
+    background-color: #ffffff;
+
+}
+
+#buttonContainer a:hover
+{
+    text-decoration: none;
+    background-image: url(../images/button2.png);
+
+}
+
+#buttonContainer a img
+{
+    top:15px;
+    border: 0px;
+    left: 45px;
+    position:relative;
+    width:auto;
+}
+
+
+
+#buttonAdd
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+    background-image: url(../images/button.jpg);
+    background-repeat: repeat-x;
+    height:32px;
+    width: 150px;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: 'Franklin Gothic Medium';
+    cursor: pointer;
+}
+
+#buttonAdd a
+{
+    cursor: pointer;
+    color: #FFFFFF;
+}
+
+#buttonAdd:Hover
+{
+    text-decoration: none;
+    text-transform: none;
+    cursor: pointer;
+    color: #cccccc;
+}
+
+#operations
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+    background-color:#3D4550;
+    color:#ffffff;
+    height: 50px;
+    position: relative;
+    width:860px;
+}
+
+
+#arrowLeft
+{
+    background-repeat: no-repeat;
+    cursor: pointer;
+    top:1px;
+    position: relative;
+}
+
+#arrowLeft img:HOVER
+{
+  cursor: pointer;
+}
+
+#twoDay
+{
+    font-family: 'Franklin Gothic Medium';
+    font-size: 10px;
+    top:-4px;
+    position: relative;
+    color:#ffffff;
+}
+
+#twoDay a
+{
+    text-decoration: none;
+    text-transform: none;
+}
+
+#today
+{
+    top:-1px;
+    position: relative;
+    font-size: 10px;
+    color:#ffffff;
+}
+
+#today input[type="button"]
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+    font-size: 10px;
+    width: 42px;
+    top: -3px;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+#arrowRight
+{
+  background-repeat: no-repeat;
+  cursor: pointer;
+  top:1px;
+  position: relative;
+}
+
+#arrowRight img:hover
+{
+  cursor: pointer;
+}
+
+#docName
+{
+  font-family: 'Franklin Gothic Medium';
+  text-align:center;
+  font-size: 12px;
+  width: 150px;
+  top:18px;
+  left:-80px;
+  position:relative;
+  color:#ffffff;
+}
+
+#docName select
+{
+  font-size: 12px;
+  width: 150px;
+}
+
+#years
+{
+  float: left;
+  font-family:'Franklin Gothic Medium';
+  left:3px;
+  position: relative;
+    color:#ffffff;
+    font-size:12px;
+}
+
+#years select
+{
+   font-size: 10px;
+}
+
+#to{
+  color: #000000;
+}
+
+#traverse
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+    z-index: 0;
+    color: #000000;
+
+}
+
+#goBack
+{
+   font-family:'Franklin Gothic Medium';
+   text-align: center;
+   font-size: 14px;
+   position: relative;
+   left: 150px;
+}
+
+#traverse #month a
+{
+     background-image: url(../images/traverse.png);
+     background-repeat: no-repeat;
+     width:60px;
+     height: 18px;
+     bottom: 0px;
+     vertical-align: middle;
+     font-family: 'Franklin Gothic Medium';
+     font-size: 12px;
+     margin-right: 5px;;
+     float:right;
+     text-align: center;
+     cursor: pointer;
+     text-decoration: none;
+     color: #000000;
+     top:11px;
+     position: relative;
+
+}
+
+#traverse #month a:Hover
+{
+     background-image: url(../images/traverse1.png);
+     background-repeat: no-repeat;
+     color:#ffffff;
+     text-decoration: none;
+
+
+}
+
+#traverse #day a
+{
+     background-image: url(../images/traverse.png);
+     background-repeat: no-repeat;
+     width:60px;
+     height: 18px;
+     bottom: 0px;
+     vertical-align: middle;
+     font-family: 'Franklin Gothic Medium';
+     font-size: 11px;
+     margin-right: 5px;;
+     float:right;
+     text-align: center;
+     cursor: pointer;
+     text-decoration: none;
+     color: #000000;
+     position: relative;
+      top:12px;
+
+}
+
+#traverse #day a:Hover
+{
+     background-image: url(../images/traverse1.png);
+     background-repeat: no-repeat;
+     color:#ffffff;
+     text-decoration: none;
+}
+
+#traverse #week a
+{
+
+     background-image: url(../images/traverse.png);
+     background-repeat: no-repeat;
+     width:60px;
+     height: 18px;
+     bottom: 0px;
+     vertical-align: middle;
+     font-family: 'Franklin Gothic Medium';
+     font-size: 11px;
+     margin-right: 5px;;
+     float:right;
+     text-align: center;
+     cursor: pointer;
+     text-decoration: none;
+     color: #000000;
+     top:11px;
+     position: relative;
+
+}
+
+#traverse #week a:Hover{
+    background-image: url(../images/traverse1.png);
+     background-repeat: no-repeat;
+     color:#ffffff;
+     text-decoration: none;
+
+
+}
+
+
+#traverse #selected a{
+     background-image: url(../images/traverse1.png);
+     background-repeat: no-repeat;
+     width:60px;
+     height: 18px;
+     bottom: 0px;
+     vertical-align: middle;
+     font-family: 'Franklin Gothic Medium';
+     font-size: 12px;
+     margin-right: 5px;;
+     float:right;
+     text-align: center;
+     cursor: pointer;
+     text-decoration: none;
+     color: #ffffff;
+     top:11px;
+     position: relative;
+
+}
+
+
+
+#even
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+     background-color: #CEEFFF;
+}
+
+
+#odd
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+}
+
+#hd
+{
+    -moz-border-radius: 2px 2px 2px 2px;
+      background-color: #000000;
+      color: #ffffff;
+}
+
+#headder
+{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#ccc
+{
+    background-color: #CEEFFF;
+}
+
+
+input[type="text"]
+{
+    font-size: 14px;
+    font-Family: 'Franklin Gothic Medium';
+    background-color: #FFFFFF;
+    border: 1px #ccc solid;
+}
+
+
+textarea
+{
+    font-size: 14px;
+    font-Family: 'Franklin Gothic Medium';
+    background-color: #FFFFFF;
+    border: 1px #ccc solid;
+}
+
+
+
+#ui-datepicker-div
+{
+    z-index:1250;
+    font-size: 62.5%;
+}
+
+#white
+{
+    color:white;
+}
+
+#printheader
+{
+  display: none;
+}
+
+.display
+{
+   -moz-border-radius: 2px 2px 2px 2px;
+    font-size: 11px;
+    font-Family: 'Franklin Gothic Medium';
+    background-color: #FFFFFF;
+    border: 0px;
+}
+
+ #banner
+{
+    top:5px;
+    left:210px;
+    float:left;
+    position:relative;
+    color:#fff;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 45px;
+    text-shadow: 20;
+}

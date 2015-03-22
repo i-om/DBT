@@ -1,0 +1,83 @@
+#main
+{
+  /* width:1000px;*/
+    top:3px;
+    position: relative;
+}
+/*body
+{
+width:80%;
+background-color:#CCCCCC;
+}
+.classTxtFirstName,classTxtLastName ,classTxtOccupation,classTxtCity,classTxtEmail,classTaAddress
+{
+size : 30;
+}
+
+.classTableData
+{
+width:80%;
+background-color:#CCCCCC;
+}
+.classTxtFirstName,classTxtLastName ,classTxtOccupation,classTxtCity,classTxtEmail,classTaAddress
+{
+size : 30;
+}
+
+.classTableHeader
+{
+  font-family:"Times New Roman" ;
+  font-size:20px;
+  font-style:oblique;
+  color:#660000;
+}
+
+
+
+.classTableLabel
+{
+  font-family:"Times New Roman" ;
+  font-size:20px;
+  font-style:oblique;
+  background-color:#330000;
+  color:#330000;
+}
+
+.classHomePageButton
+{
+  font-family:"Times New Roman" ;
+  font-size:20px;
+  font-style:normal;
+  color:#FFFFFF;
+  background-color:#000033;
+}*/
+
+#leftcol
+{
+    width:200px;
+    float:left;
+    margin-top: 30px;
+    text-align:left;
+    font-family:Arial;
+}
+
+#containerMain
+{
+    /*width:800px;*/
+    
+    float: left;
+    left: 3px;
+    margin-top: 30px;
+    text-align:left;
+    position: relative;
+    font-family:Arial;
+}
+
+#buttonContainer
+{
+    left:0px;
+    position:relative;
+    width:720px;
+    display:inline;
+    margin-left:3px;
+}

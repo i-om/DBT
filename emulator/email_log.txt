@@ -1,0 +1,340 @@
+2010-02-23 09:03:24		 Start of Function : insertEmailDetails 
+2010-02-23 09:03:25		 Database Connection Successful. 
+2010-02-23 09:03:25		 Database Selection Failure. MYSQL ERROR ::: Unknown database 'rt_communication' :::. 
+2010-02-23 09:03:25		 End of Function : insertEmailDetails 
+2010-02-23 09:11:00		 Start of Function : insertEmailDetails 
+2010-02-23 09:11:00		 Database Connection Successful. 
+2010-02-23 09:11:00		 Database Selection Failure. MYSQL ERROR ::: Unknown database 'rt_communication' :::. 
+2010-02-23 09:11:00		 End of Function : insertEmailDetails 
+2010-02-23 09:20:02		 Start of Function : insertEmailDetails 
+2010-02-23 09:20:02		 Database Connection Successful. 
+2010-02-23 09:20:02		 Database Selection Successful. 
+2010-02-23 09:20:02		 Query Executed Successfully. ::: insert into `rt_comm_email` (`rt_comm_email_id`,`rt_comm_to_name`,`rt_comm_to_email_id`,`rt_comm_from_name`,`rt_comm_from_email_id`,`rt_comm_subject`,`rt_comm_message`,`rt_comm_attachment`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_email_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                              (null              ,'mahesh,manish,sanjiv'       ,'mahesh.umarane@gmail.com,mahesh.umarane@gmail.com,mahesh.umarane@gmail.com'          ,'Sharada'        ,'mahesh.umarane@plus91.in'         ,'General'       ,'Hi to all Plus91'       ,','       ,'sent'       ,'2010-02-23'       ,'12:00:00'       ,'2010-02-23'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-23'                ,'12:00:00'                ,'1'                ,'1'       ,'1'  ,''       ,''       ,''); 
+2010-02-23 09:20:02		 Database Connection Closed Successful. 
+2010-02-23 09:20:02		 End of Function : insertEmailDetails 
+2010-02-23 09:20:02		 Start of Function : getEmailManagerForIdXML 
+2010-02-23 09:20:02		 XML File Not Found. :: comm/email/xml/email_manager.xml :: 
+2010-02-23 09:20:02		 End of Function : getEmailManagerForIdXML 
+2010-02-23 09:20:02		 Start of Function : insertEmailDetailsXML 
+2010-02-23 09:20:02		 XML File Not Found. :: comm/email/xml/email.xml :: 
+2010-02-23 09:20:02		 Creating New XML File. :: comm/email/xml/email.xml :: 
+2010-02-23 09:20:08		 Start of Function : insertEmailDetails 
+2010-02-23 09:20:08		 Database Connection Successful. 
+2010-02-23 09:20:08		 Database Selection Successful. 
+2010-02-23 09:20:08		 Query Executed Successfully. ::: insert into `rt_comm_email` (`rt_comm_email_id`,`rt_comm_to_name`,`rt_comm_to_email_id`,`rt_comm_from_name`,`rt_comm_from_email_id`,`rt_comm_subject`,`rt_comm_message`,`rt_comm_attachment`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_email_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                              (null              ,'mahesh,manish,sanjiv'       ,'mahesh.umarane@gmail.com,mahesh.umarane@gmail.com,mahesh.umarane@gmail.com'          ,'Sharada'        ,'mahesh.umarane@plus91.in'         ,'General'       ,'Hi to all Plus91'       ,','       ,'sent'       ,'2010-02-23'       ,'12:00:00'       ,'2010-02-23'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-23'                ,'12:00:00'                ,'1'                ,'1'       ,'1'  ,''       ,''       ,''); 
+2010-02-23 09:20:08		 Database Connection Closed Successful. 
+2010-02-23 09:20:08		 End of Function : insertEmailDetails 
+2010-02-23 09:20:08		 Start of Function : getEmailManagerForIdXML 
+2010-02-23 09:20:08		 XML File Not Found. :: comm/email/xml/email_manager.xml :: 
+2010-02-23 09:20:08		 End of Function : getEmailManagerForIdXML 
+2010-02-23 09:20:08		 Start of Function : insertEmailDetailsXML 
+2010-02-23 09:20:08		 XML File Not Found. :: comm/email/xml/email.xml :: 
+2010-02-23 09:20:08		 Creating New XML File. :: comm/email/xml/email.xml :: 
+2010-02-23 09:54:53		 Start of Function : insertEmailDetails 
+2010-02-23 09:54:53		 Database Connection Successful. 
+2010-02-23 09:54:53		 Database Selection Successful. 
+2010-02-23 09:54:53		 Query Executed Successfully. ::: insert into `rt_comm_email` (`rt_comm_email_id`,`rt_comm_to_name`,`rt_comm_to_email_id`,`rt_comm_from_name`,`rt_comm_from_email_id`,`rt_comm_subject`,`rt_comm_message`,`rt_comm_attachment`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_email_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                              (null              ,'mahesh,manish,sanjiv'       ,'mahesh.umarane@gmail.com,mahesh.umarane@gmail.com,mahesh.umarane@gmail.com'          ,'Sharada'        ,'mahesh.umarane@plus91.in'         ,'General'       ,'Hi to all Plus91'       ,','       ,'sent'       ,'2010-02-23'       ,'12:00:00'       ,'2010-02-23'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-23'                ,'12:00:00'                ,'1'                ,'1'       ,'1'  ,''       ,''       ,''); 
+2010-02-23 09:54:53		 Database Connection Closed Successful. 
+2010-02-23 09:54:53		 End of Function : insertEmailDetails 
+2010-02-23 09:54:53		 Start of Function : getEmailManagerForIdXML 
+2010-02-23 09:54:53		 XML File Not Found. :: comm/email/xml/email_manager.xml :: 
+2010-02-23 09:54:53		 End of Function : getEmailManagerForIdXML 
+2010-02-23 09:54:53		 Start of Function : insertEmailDetailsXML 
+2010-02-23 09:54:53		 XML File Not Found. :: comm/email/xml/email.xml :: 
+2010-02-23 09:54:53		 Creating New XML File. :: comm/email/xml/email.xml :: 
+2010-02-23 09:58:06		 Start of Function : insertEmailDetails 
+2010-02-23 09:58:06		 Database Connection Successful. 
+2010-02-23 09:58:06		 Database Selection Successful. 
+2010-02-23 09:58:06		 Query Executed Successfully. ::: insert into `rt_comm_email` (`rt_comm_email_id`,`rt_comm_to_name`,`rt_comm_to_email_id`,`rt_comm_from_name`,`rt_comm_from_email_id`,`rt_comm_subject`,`rt_comm_message`,`rt_comm_attachment`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_email_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                              (null              ,'mahesh,manish,sanjiv'       ,'mahesh.umarane@gmail.com,mahesh.umarane@gmail.com,mahesh.umarane@gmail.com'          ,'Sharada'        ,'mahesh.umarane@plus91.in'         ,'General'       ,'Hi to all Plus91'       ,','       ,'sent'       ,'2010-02-23'       ,'12:00:00'       ,'2010-02-23'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-23'                ,'12:00:00'                ,'1'                ,'1'       ,'1'  ,''       ,''       ,''); 
+2010-02-23 09:58:06		 Database Connection Closed Successful. 
+2010-02-23 09:58:06		 End of Function : insertEmailDetails 
+2010-02-23 09:58:06		 Start of Function : getEmailManagerForIdXML 
+2010-02-23 09:58:06		 XML File Not Found. :: comm/email/xml/email_manager.xml :: 
+2010-02-23 09:58:06		 End of Function : getEmailManagerForIdXML 
+2010-02-23 09:58:06		 Start of Function : insertEmailDetailsXML 
+2010-02-23 09:58:06		 XML File Not Found. :: comm/email/xml/email.xml :: 
+2010-02-23 09:58:06		 Creating New XML File. :: comm/email/xml/email.xml :: 
+2010-02-23 10:02:22		 Start of Function : insertEmailDetails 
+2010-02-23 10:02:22		 Database Connection Successful. 
+2010-02-23 10:02:22		 Database Selection Successful. 
+2010-02-23 10:02:22		 Query Executed Successfully. ::: insert into `rt_comm_email` (`rt_comm_email_id`,`rt_comm_to_name`,`rt_comm_to_email_id`,`rt_comm_from_name`,`rt_comm_from_email_id`,`rt_comm_subject`,`rt_comm_message`,`rt_comm_attachment`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_email_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                              (null              ,'mahesh,manish,sanjiv'       ,'mahesh.umarane@gmail.com,mahesh.umarane@gmail.com,mahesh.umarane@gmail.com'          ,'Sharada'        ,'mahesh.umarane@plus91.in'         ,'General'       ,'Hi to all Plus91'       ,'em_register_now.php'       ,'sent'       ,'2010-02-23'       ,'12:00:00'       ,'2010-02-23'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-23'                ,'12:00:00'                ,'1'                ,'1'       ,'1'  ,''       ,''       ,''); 
+2010-02-23 10:02:22		 Database Connection Closed Successful. 
+2010-02-23 10:02:22		 End of Function : insertEmailDetails 
+2010-02-23 10:02:22		 Start of Function : getEmailManagerForIdXML 
+2010-02-23 10:02:22		 XML File Not Found. :: comm/email/xml/email_manager.xml :: 
+2010-02-23 10:02:22		 End of Function : getEmailManagerForIdXML 
+2010-02-23 10:02:22		 Start of Function : insertEmailDetailsXML 
+2010-02-23 10:02:22		 XML File Not Found. :: comm/email/xml/email.xml :: 
+2010-02-23 10:02:22		 Creating New XML File. :: comm/email/xml/email.xml :: 
+2010-02-23 10:04:17		 Start of Function : insertEmailDetails 
+2010-02-23 10:04:17		 Database Connection Successful. 
+2010-02-23 10:04:17		 Database Selection Successful. 
+2010-02-23 10:04:17		 Query Executed Successfully. ::: insert into `rt_comm_email` (`rt_comm_email_id`,`rt_comm_to_name`,`rt_comm_to_email_id`,`rt_comm_from_name`,`rt_comm_from_email_id`,`rt_comm_subject`,`rt_comm_message`,`rt_comm_attachment`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_email_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                              (null              ,'mahesh,manish,sanjiv'       ,'mahesh.umarane@gmail.com,mahesh.umarane@gmail.com,mahesh.umarane@gmail.com'          ,'Sharada'        ,'mahesh.umarane@plus91.in'         ,'General'       ,'Hi to all Plus91'       ,'em_register_now.php'       ,'sent'       ,'2010-02-23'       ,'12:00:00'       ,'2010-02-23'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-23'                ,'12:00:00'                ,'1'                ,'1'       ,'1'  ,''       ,''       ,''); 
+2010-02-23 10:04:17		 Database Connection Closed Successful. 
+2010-02-23 10:04:17		 End of Function : insertEmailDetails 
+2010-02-23 10:04:17		 Start of Function : getEmailManagerForIdXML 
+2010-02-23 10:04:17		 XML File Not Found. :: xml/email_manager.xml :: 
+2010-02-23 10:04:17		 End of Function : getEmailManagerForIdXML 
+2010-02-23 10:04:17		 Start of Function : insertEmailDetailsXML 
+2010-02-23 10:04:17		 XML File Not Found. :: xml/email.xml :: 
+2010-02-23 10:04:17		 Creating New XML File. :: xml/email.xml :: 
+2010-02-23 10:16:11		 Start of Function : insertEmailDetails 
+2010-02-23 10:16:11		 Database Connection Successful. 
+2010-02-23 10:16:11		 Database Selection Successful. 
+2010-02-23 10:16:11		 Query Executed Successfully. ::: insert into `rt_comm_email` (`rt_comm_email_id`,`rt_comm_to_name`,`rt_comm_to_email_id`,`rt_comm_from_name`,`rt_comm_from_email_id`,`rt_comm_subject`,`rt_comm_message`,`rt_comm_attachment`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_email_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                              (null              ,'mahesh,manish,sanjiv'       ,'mahesh.umarane@gmail.com,mahesh.umarane@gmail.com,mahesh.umarane@gmail.com'          ,'Sharada'        ,'mahesh.umarane@plus91.in'         ,'General'       ,'Hi to all Plus91'       ,'em_register_now.php'       ,'sent'       ,'2010-02-23'       ,'12:00:00'       ,'2010-02-23'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-23'                ,'12:00:00'                ,'1'                ,'1'       ,'1'  ,''       ,''       ,''); 
+2010-02-23 10:16:11		 Database Connection Closed Successful. 
+2010-02-23 10:16:11		 End of Function : insertEmailDetails 
+2010-02-23 10:16:11		 Start of Function : getEmailManagerForIdXML 
+2010-02-23 10:16:11		 XML File Not Found. :: comm/email/xml/email_manager.xml :: 
+2010-02-23 10:16:11		 End of Function : getEmailManagerForIdXML 
+2010-02-23 10:16:11		 Start of Function : insertEmailDetailsXML 
+2010-02-23 10:16:11		 XML File Not Found. :: comm/email/xml/email.xml :: 
+2010-02-23 10:16:11		 Creating New XML File. :: comm/email/xml/email.xml :: 
+2010-02-23 10:25:58		 Start of Function : insertEmailDetails 
+2010-02-23 10:25:58		 Database Connection Successful. 
+2010-02-23 10:25:58		 Database Selection Successful. 
+2010-02-23 10:25:58		 Query Executed Successfully. ::: insert into `rt_comm_email` (`rt_comm_email_id`,`rt_comm_to_name`,`rt_comm_to_email_id`,`rt_comm_from_name`,`rt_comm_from_email_id`,`rt_comm_subject`,`rt_comm_message`,`rt_comm_attachment`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_email_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                              (null              ,'mahesh,manish,sanjiv'       ,'mahesh.umarane@gmail.com,mahesh.umarane@gmail.com,mahesh.umarane@gmail.com'          ,'Sharada'        ,'mahesh.umarane@plus91.in'         ,'General'       ,'Hi to all Plus91'       ,'em_register_now.php'       ,'sent'       ,'2010-02-23'       ,'12:00:00'       ,'2010-02-23'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-23'                ,'12:00:00'                ,'1'                ,'1'       ,'1'  ,''       ,''       ,''); 
+2010-02-23 10:25:58		 Database Connection Closed Successful. 
+2010-02-23 10:25:58		 End of Function : insertEmailDetails 
+2010-02-23 10:25:58		 Start of Function : getEmailManagerForIdXML 
+2010-02-23 10:25:58		 XML File Not Found. :: db1_layer_comm/comm/email/xml/email_manager.xml :: 
+2010-02-23 10:25:58		 End of Function : getEmailManagerForIdXML 
+2010-02-23 10:25:58		 Start of Function : insertEmailDetailsXML 
+2010-02-23 10:25:58		 XML File Not Found. :: db1_layer_comm/comm/email/xml/email.xml :: 
+2010-02-23 10:25:58		 Creating New XML File. :: db1_layer_comm/comm/email/xml/email.xml :: 
+2010-02-23 10:31:04		 Start of Function : insertEmailDetails 
+2010-02-23 10:31:04		 Database Connection Successful. 
+2010-02-23 10:31:04		 Database Selection Successful. 
+2010-02-23 10:31:04		 Query Executed Successfully. ::: insert into `rt_comm_email` (`rt_comm_email_id`,`rt_comm_to_name`,`rt_comm_to_email_id`,`rt_comm_from_name`,`rt_comm_from_email_id`,`rt_comm_subject`,`rt_comm_message`,`rt_comm_attachment`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_email_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                              (null              ,'mahesh,manish,sanjiv'       ,'mahesh.umarane@gmail.com,mahesh.umarane@gmail.com,mahesh.umarane@gmail.com'          ,'Sharada'        ,'mahesh.umarane@plus91.in'         ,'General'       ,'Hi to all Plus91'       ,'em_register_now.php'       ,'sent'       ,'2010-02-23'       ,'12:00:00'       ,'2010-02-23'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-23'                ,'12:00:00'                ,'1'                ,'1'       ,'1'  ,''       ,''       ,''); 
+2010-02-23 10:31:04		 Database Connection Closed Successful. 
+2010-02-23 10:31:04		 End of Function : insertEmailDetails 
+2010-02-23 10:31:04		 Start of Function : getEmailManagerForIdXML 
+2010-02-23 10:31:04		 XML File Not Found. :: comm/email/xml/email_manager.xml :: 
+2010-02-23 10:31:04		 End of Function : getEmailManagerForIdXML 
+2010-02-23 10:31:04		 Start of Function : insertEmailDetailsXML 
+2010-02-23 10:31:04		 XML File Not Found. :: comm/email/xml/email.xml :: 
+2010-02-23 10:31:04		 Creating New XML File. :: comm/email/xml/email.xml :: 
+2010-02-23 10:31:38		 Start of Function : insertEmailDetails 
+2010-02-23 10:31:38		 Database Connection Successful. 
+2010-02-23 10:31:38		 Database Selection Successful. 
+2010-02-23 10:31:38		 Query Executed Successfully. ::: insert into `rt_comm_email` (`rt_comm_email_id`,`rt_comm_to_name`,`rt_comm_to_email_id`,`rt_comm_from_name`,`rt_comm_from_email_id`,`rt_comm_subject`,`rt_comm_message`,`rt_comm_attachment`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_email_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                              (null              ,'mahesh,manish,sanjiv'       ,'mahesh.umarane@gmail.com,mahesh.umarane@gmail.com,mahesh.umarane@gmail.com'          ,'Sharada'        ,'mahesh.umarane@plus91.in'         ,'General'       ,'Hi to all Plus91'       ,'em_register_now.php'       ,'sent'       ,'2010-02-23'       ,'12:00:00'       ,'2010-02-23'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-23'                ,'12:00:00'                ,'1'                ,'1'       ,'1'  ,''       ,''       ,''); 
+2010-02-23 10:31:38		 Database Connection Closed Successful. 
+2010-02-23 10:31:38		 End of Function : insertEmailDetails 
+2010-02-23 10:31:38		 Start of Function : getEmailManagerForIdXML 
+2010-02-23 10:31:38		 XML File Not Found. :: xml/email_manager.xml :: 
+2010-02-23 10:31:38		 End of Function : getEmailManagerForIdXML 
+2010-02-23 10:31:38		 Start of Function : insertEmailDetailsXML 
+2010-02-23 10:31:38		 XML File Not Found. :: xml/email.xml :: 
+2010-02-23 10:31:38		 Creating New XML File. :: xml/email.xml :: 
+2010-02-23 10:32:38		 Start of Function : insertEmailDetails 
+2010-02-23 10:32:38		 Database Connection Successful. 
+2010-02-23 10:32:38		 Database Selection Successful. 
+2010-02-23 10:32:38		 Query Executed Successfully. ::: insert into `rt_comm_email` (`rt_comm_email_id`,`rt_comm_to_name`,`rt_comm_to_email_id`,`rt_comm_from_name`,`rt_comm_from_email_id`,`rt_comm_subject`,`rt_comm_message`,`rt_comm_attachment`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_email_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                              (null              ,'mahesh,manish,sanjiv'       ,'mahesh.umarane@gmail.com,mahesh.umarane@gmail.com,mahesh.umarane@gmail.com'          ,'Sharada'        ,'mahesh.umarane@plus91.in'         ,'General'       ,'Hi to all Plus91'       ,'em_register_now.php'       ,'sent'       ,'2010-02-23'       ,'12:00:00'       ,'2010-02-23'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-23'                ,'12:00:00'                ,'1'                ,'1'       ,'1'  ,''       ,''       ,''); 
+2010-02-23 10:32:38		 Database Connection Closed Successful. 
+2010-02-23 10:32:38		 End of Function : insertEmailDetails 
+2010-02-23 10:32:38		 Start of Function : getEmailManagerForIdXML 
+2010-02-23 10:32:38		 XML File Found. :: ../db1_layer_comm/comm/email/xml/email_manager.xml :: 
+2010-02-23 10:32:38		 End of Function : getEmailManagerForIdXML 
+2010-02-23 10:32:38		 Start of Function : insertEmailDetailsXML 
+2010-02-23 10:32:38		 XML File Found. :: ../db1_layer_comm/comm/email/xml/email.xml :: 
+2010-02-23 10:32:38		 XML File Update Successfully. 
+2010-02-23 10:32:38		 End of Function : insertEmailDetailsXML 
+2010-02-23 12:59:35		 Start of Function : insertEmailDetails 
+2010-02-23 12:59:35		 Database Connection Successful. 
+2010-02-23 12:59:35		 Database Selection Successful. 
+2010-02-23 12:59:35		 Query Executed Successfully. ::: insert into `rt_comm_email` (`rt_comm_email_id`,`rt_comm_to_name`,`rt_comm_to_email_id`,`rt_comm_from_name`,`rt_comm_from_email_id`,`rt_comm_subject`,`rt_comm_message`,`rt_comm_attachment`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_email_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                              (null              ,'Karan'       ,'karan@gmail.com'          ,'mahesh'        ,'mahesh.umarane@gmail.com'         ,'dxhdgdh'       ,'
+        fdgjlldfgjldf
+sgs;lfkg;kfsd;kg
+dfgljdflxkg'       ,'em_register_now.php'       ,'sent'       ,'2010-02-23'       ,'12:59:35'       ,'2010-02-23'       ,'12:59:35'       ,'test'            ,'1'       ,'2010-02-23'                ,'12:59:35'                ,'1'                ,'1'       ,'1'  ,''       ,''       ,''); 
+2010-02-23 12:59:35		 Database Connection Closed Successful. 
+2010-02-23 12:59:35		 End of Function : insertEmailDetails 
+2010-02-23 12:59:35		 Start of Function : getEmailManagerForIdXML 
+2010-02-23 12:59:35		 XML File Found. :: ../db1_layer_comm/comm/email/xml/email_manager.xml :: 
+2010-02-23 12:59:35		 End of Function : getEmailManagerForIdXML 
+2010-02-23 12:59:35		 Start of Function : insertEmailDetailsXML 
+2010-02-23 12:59:35		 XML File Found. :: ../db1_layer_comm/comm/email/xml/email.xml :: 
+2010-02-23 12:59:35		 XML File Update Successfully. 
+2010-02-23 12:59:35		 End of Function : insertEmailDetailsXML 
+2010-02-23 13:01:20		 Start of Function : insertEmailDetails 
+2010-02-23 13:01:20		 Database Connection Successful. 
+2010-02-23 13:01:20		 Database Selection Successful. 
+2010-02-23 13:01:20		 Query Executed Successfully. ::: insert into `rt_comm_email` (`rt_comm_email_id`,`rt_comm_to_name`,`rt_comm_to_email_id`,`rt_comm_from_name`,`rt_comm_from_email_id`,`rt_comm_subject`,`rt_comm_message`,`rt_comm_attachment`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_email_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                              (null              ,'Ambrish'       ,'ambrish123@gmail.com'          ,'mahesh'        ,'mahesh.umarane@gmail.com'         ,'Terror'       ,'Smoking is injurious'       ,'em_register_now.php'       ,'sent'       ,'2010-02-23'       ,'13:01:20'       ,'2010-02-23'       ,'13:01:20'       ,'test'            ,'1'       ,'2010-02-23'                ,'13:01:20'                ,'1'                ,'1'       ,'1'  ,''       ,''       ,''); 
+2010-02-23 13:01:20		 Database Connection Closed Successful. 
+2010-02-23 13:01:20		 End of Function : insertEmailDetails 
+2010-02-23 13:01:20		 Start of Function : getEmailManagerForIdXML 
+2010-02-23 13:01:20		 XML File Found. :: ../db1_layer_comm/comm/email/xml/email_manager.xml :: 
+2010-02-23 13:01:20		 End of Function : getEmailManagerForIdXML 
+2010-02-23 13:01:20		 Start of Function : insertEmailDetailsXML 
+2010-02-23 13:01:20		 XML File Found. :: ../db1_layer_comm/comm/email/xml/email.xml :: 
+2010-02-23 13:01:20		 XML File Update Successfully. 
+2010-02-23 13:01:20		 End of Function : insertEmailDetailsXML 
+2010-02-24 06:43:18		 Start of Function : insertEmailDetails 
+2010-02-24 06:43:18		 Database Connection Successful. 
+2010-02-24 06:43:18		 Database Selection Successful. 
+2010-02-24 06:43:18		 Query Executed Successfully. ::: insert into `rt_comm_email` (`rt_comm_email_id`,`rt_comm_to_name`,`rt_comm_to_email_id`,`rt_comm_from_name`,`rt_comm_from_email_id`,`rt_comm_subject`,`rt_comm_message`,`rt_comm_attachment`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_email_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                              (null              ,'Sonal'       ,'sonal@yahoomail.com'          ,'mahesh'        ,'mahesh.umarane@gmail.com'         ,'genaral'       ,'
+  
+Alerts
+SENDING EMAIL
+ 
+ 
+To 	
+AddCc 	
+Subject 	
+Message      '       ,'em_register_now.php'       ,'sent'       ,'2010-02-24'       ,'06:43:18'       ,'2010-02-24'       ,'06:43:18'       ,'test'            ,'1'       ,'2010-02-24'                ,'06:43:18'                ,'1'                ,'1'       ,'1'  ,''       ,''       ,''); 
+2010-02-24 06:43:18		 Database Connection Closed Successful. 
+2010-02-24 06:43:18		 End of Function : insertEmailDetails 
+2010-02-24 06:43:18		 Start of Function : getEmailManagerForIdXML 
+2010-02-24 06:43:18		 XML File Found. :: ../db1_layer_comm/comm/email/xml/email_manager.xml :: 
+2010-02-24 06:43:18		 End of Function : getEmailManagerForIdXML 
+2010-02-24 06:43:18		 Start of Function : insertEmailDetailsXML 
+2010-02-24 06:43:18		 XML File Found. :: ../db1_layer_comm/comm/email/xml/email.xml :: 
+2010-02-24 06:43:18		 XML File Update Successfully. 
+2010-02-24 06:43:18		 End of Function : insertEmailDetailsXML 
+2010-02-24 07:28:04		 Start of Function : insertEmailDetails 
+2010-02-24 07:28:04		 Database Connection Successful. 
+2010-02-24 07:28:04		 Database Selection Successful. 
+2010-02-24 07:28:04		 Query Executed Successfully. ::: insert into `rt_comm_email` (`rt_comm_email_id`,`rt_comm_to_name`,`rt_comm_to_email_id`,`rt_comm_from_name`,`rt_comm_from_email_id`,`rt_comm_subject`,`rt_comm_message`,`rt_comm_attachment`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_email_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                              (null              ,'Antara'       ,'antara@mail.com'          ,'mahesh'        ,'mahesh.umarane@gmail.com'         ,'Subject'       ,'Message
+        '       ,'em_register_now.php'       ,'sent'       ,'2010-02-24'       ,'07:28:04'       ,'2010-02-24'       ,'07:28:04'       ,'test'            ,'1'       ,'2010-02-24'                ,'07:28:04'                ,'1'                ,'1'       ,'1'  ,''       ,''       ,''); 
+2010-02-24 07:28:04		 Database Connection Closed Successful. 
+2010-02-24 07:28:04		 End of Function : insertEmailDetails 
+2010-02-24 07:28:04		 Start of Function : getEmailManagerForIdXML 
+2010-02-24 07:28:04		 XML File Found. :: ../db1_layer_comm/comm/email/xml/email_manager.xml :: 
+2010-02-24 07:28:04		 End of Function : getEmailManagerForIdXML 
+2010-02-24 07:28:04		 Start of Function : insertEmailDetailsXML 
+2010-02-24 07:28:04		 XML File Found. :: ../db1_layer_comm/comm/email/xml/email.xml :: 
+2010-02-24 07:28:04		 XML File Update Successfully. 
+2010-02-24 07:28:04		 End of Function : insertEmailDetailsXML 
+2010-02-24 07:30:18		 Start of Function : insertEmailDetails 
+2010-02-24 07:30:18		 Database Connection Successful. 
+2010-02-24 07:30:18		 Database Selection Successful. 
+2010-02-24 07:30:18		 Query Executed Successfully. ::: insert into `rt_comm_email` (`rt_comm_email_id`,`rt_comm_to_name`,`rt_comm_to_email_id`,`rt_comm_from_name`,`rt_comm_from_email_id`,`rt_comm_subject`,`rt_comm_message`,`rt_comm_attachment`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_email_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                              (null              ,'Antara'       ,'antara@mail.com'          ,'mahesh'        ,'mahesh.umarane@gmail.com'         ,'Subject'       ,'Message
+        '       ,'em_register_now.php'       ,'sent'       ,'2010-02-24'       ,'07:30:18'       ,'2010-02-24'       ,'07:30:18'       ,'test'            ,'1'       ,'2010-02-24'                ,'07:30:18'                ,'1'                ,'11'       ,'11'  ,''       ,''       ,''); 
+2010-02-24 07:30:18		 Database Connection Closed Successful. 
+2010-02-24 07:30:18		 End of Function : insertEmailDetails 
+2010-02-24 07:30:18		 Start of Function : getEmailManagerForIdXML 
+2010-02-24 07:30:18		 XML File Found. :: ../db1_layer_comm/comm/email/xml/email_manager.xml :: 
+2010-02-24 07:30:18		 No Record Found. 
+2010-02-24 07:30:18		 End of Function : getEmailManagerForIdXML 
+2010-02-24 07:30:18		 Start of Function : insertEmailDetailsXML 
+2010-02-24 07:30:18		 XML File Found. :: ../db1_layer_comm/comm/email/xml/email.xml :: 
+2010-02-24 07:30:18		 XML File Update Successfully. 
+2010-02-24 07:30:18		 End of Function : insertEmailDetailsXML 
+2010-02-24 07:30:38		 Start of Function : insertEmailDetails 
+2010-02-24 07:30:38		 Database Connection Successful. 
+2010-02-24 07:30:38		 Database Selection Successful. 
+2010-02-24 07:30:38		 Query Executed Successfully. ::: insert into `rt_comm_email` (`rt_comm_email_id`,`rt_comm_to_name`,`rt_comm_to_email_id`,`rt_comm_from_name`,`rt_comm_from_email_id`,`rt_comm_subject`,`rt_comm_message`,`rt_comm_attachment`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_email_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                              (null              ,'Antara'       ,'antara@mail.com'          ,'mahesh'        ,'mahesh.umarane@gmail.com'         ,'Subject'       ,'Message
+        '       ,'em_register_now.php'       ,'sent'       ,'2010-02-24'       ,'07:30:38'       ,'2010-02-24'       ,'07:30:38'       ,'test'            ,'1'       ,'2010-02-24'                ,'07:30:38'                ,'1'                ,'12'       ,'12'  ,''       ,''       ,''); 
+2010-02-24 07:30:38		 Database Connection Closed Successful. 
+2010-02-24 07:30:38		 End of Function : insertEmailDetails 
+2010-02-24 07:30:38		 Start of Function : getEmailManagerForIdXML 
+2010-02-24 07:30:38		 XML File Found. :: ../db1_layer_comm/comm/email/xml/email_manager.xml :: 
+2010-02-24 07:30:38		 No Record Found. 
+2010-02-24 07:30:38		 End of Function : getEmailManagerForIdXML 
+2010-02-24 07:30:38		 Start of Function : insertEmailDetailsXML 
+2010-02-24 07:30:38		 XML File Found. :: ../db1_layer_comm/comm/email/xml/email.xml :: 
+2010-02-24 07:30:38		 XML File Update Successfully. 
+2010-02-24 07:30:38		 End of Function : insertEmailDetailsXML 
+2010-02-24 07:34:11		 Start of Function : insertEmailDetails 
+2010-02-24 07:34:11		 Database Connection Successful. 
+2010-02-24 07:34:11		 Database Selection Successful. 
+2010-02-24 07:34:11		 Query Executed Successfully. ::: insert into `rt_comm_email` (`rt_comm_email_id`,`rt_comm_to_name`,`rt_comm_to_email_id`,`rt_comm_from_name`,`rt_comm_from_email_id`,`rt_comm_subject`,`rt_comm_message`,`rt_comm_attachment`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_email_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                              (null              ,'Ambrish'       ,'ambrish@yahoo.com'          ,'mahesh'        ,'mahesh.umarane@gmail.com'         ,'Subject'       ,'
+  Message      '       ,'em_register_now.php'       ,'sent'       ,'2010-02-24'       ,'07:34:11'       ,'2010-02-24'       ,'07:34:11'       ,'test'            ,'1'       ,'2010-02-24'                ,'07:34:11'                ,'1'                ,'13'       ,'13'  ,''       ,''       ,''); 
+2010-02-24 07:34:11		 Database Connection Closed Successful. 
+2010-02-24 07:34:11		 End of Function : insertEmailDetails 
+2010-02-24 07:34:11		 Start of Function : getEmailManagerForIdXML 
+2010-02-24 07:34:11		 XML File Found. :: ../db1_layer_comm/comm/email/xml/email_manager.xml :: 
+2010-02-24 07:34:11		 No Record Found. 
+2010-02-24 07:34:11		 End of Function : getEmailManagerForIdXML 
+2010-02-24 07:34:11		 Start of Function : insertEmailDetailsXML 
+2010-02-24 07:34:11		 XML File Found. :: ../db1_layer_comm/comm/email/xml/email.xml :: 
+2010-02-24 07:34:11		 XML File Update Successfully. 
+2010-02-24 07:34:11		 End of Function : insertEmailDetailsXML 
+2010-02-24 08:26:31		 Start of Function : insertEmailDetails 
+2010-02-24 08:26:31		 Database Connection Successful. 
+2010-02-24 08:26:31		 Database Selection Successful. 
+2010-02-24 08:26:31		 Query Executed Successfully. ::: insert into `rt_comm_email` (`rt_comm_email_id`,`rt_comm_to_name`,`rt_comm_to_email_id`,`rt_comm_from_name`,`rt_comm_from_email_id`,`rt_comm_subject`,`rt_comm_message`,`rt_comm_attachment`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_email_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                              (null              ,'Amar'       ,'amar@svhj.com'          ,'mahesh'        ,'mahesh.umarane@gmail.com'         ,'Subject'       ,'
+  Message      '       ,'em_register_now.php'       ,''       ,'2010-02-24'       ,'12:00:00'       ,'2010-02-24'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-24'                ,'12:00:00'                ,'1'                ,'1'       ,'20'  ,''       ,''       ,''); 
+2010-02-24 08:26:31		 Database Connection Closed Successful. 
+2010-02-24 08:26:31		 End of Function : insertEmailDetails 
+2010-02-24 08:26:31		 Start of Function : getEmailManagerForIdXML 
+2010-02-24 08:26:31		 XML File Found. :: ../db1_layer_comm/comm/email/xml/email_manager.xml :: 
+2010-02-24 08:26:31		 End of Function : getEmailManagerForIdXML 
+2010-02-24 08:26:31		 Start of Function : insertEmailDetailsXML 
+2010-02-24 08:26:31		 XML File Found. :: ../db1_layer_comm/comm/email/xml/email.xml :: 
+2010-02-24 08:26:31		 XML File Update Successfully. 
+2010-02-24 08:26:31		 End of Function : insertEmailDetailsXML 
+2010-02-25 12:12:03		 Start of Function : insertEmailDetails 
+2010-02-25 12:12:03		 Database Connection Successful. 
+2010-02-25 12:12:03		 Database Selection Successful. 
+2010-02-25 12:12:03		 Query Executed Successfully. ::: insert into `rt_comm_email` (`rt_comm_email_id`,`rt_comm_to_name`,`rt_comm_to_email_id`,`rt_comm_from_name`,`rt_comm_from_email_id`,`rt_comm_subject`,`rt_comm_message`,`rt_comm_attachment`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_email_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                              (null              ,'Antara'       ,'antara@mail.com'          ,'mahesh'        ,'mahesh.umarane@gmail.com'         ,'Good Friday'       ,'Good Friday to all        '       ,'em_register_now.php'       ,''       ,'2010-02-24'       ,'12:00:00'       ,'2010-02-24'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-25'                ,'12:00:00'                ,'1'                ,'1'       ,'46'  ,''       ,''       ,''); 
+2010-02-25 12:12:03		 Database Connection Closed Successful. 
+2010-02-25 12:12:03		 End of Function : insertEmailDetails 
+2010-02-25 12:12:03		 Start of Function : getEmailManagerForIdXML 
+2010-02-25 12:12:03		 XML File Found. :: ../db1_layer_comm/comm/email/xml/email_manager.xml :: 
+2010-02-25 12:12:03		 End of Function : getEmailManagerForIdXML 
+2010-02-25 12:12:03		 Start of Function : insertEmailDetailsXML 
+2010-02-25 12:12:03		 XML File Found. :: ../db1_layer_comm/comm/email/xml/email.xml :: 
+2010-02-25 12:12:03		 XML File Update Successfully. 
+2010-02-25 12:12:03		 End of Function : insertEmailDetailsXML 
+2010-02-25 13:43:31		 Start of Function : insertEmailDetails 
+2010-02-25 13:43:31		 Database Connection Successful. 
+2010-02-25 13:43:31		 Database Selection Successful. 
+2010-02-25 13:43:31		 Query Executed Successfully. ::: insert into `rt_comm_email` (`rt_comm_email_id`,`rt_comm_to_name`,`rt_comm_to_email_id`,`rt_comm_from_name`,`rt_comm_from_email_id`,`rt_comm_subject`,`rt_comm_message`,`rt_comm_attachment`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_email_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                              (null              ,'Sonal'       ,'sonal@yahoomail.com'          ,'mahesh'        ,'mahesh.umarane@gmail.com'         ,'Mery XMus'       ,'Mery XMus     '       ,'em_register_now.php'       ,''       ,'2010-02-24'       ,'12:00:00'       ,'2010-02-24'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-25'                ,'12:00:00'                ,'1'                ,'1'       ,'50'  ,''       ,''       ,''); 
+2010-02-25 13:43:31		 Database Connection Closed Successful. 
+2010-02-25 13:43:31		 End of Function : insertEmailDetails 
+2010-02-25 13:43:31		 Start of Function : getEmailManagerForIdXML 
+2010-02-25 13:43:31		 XML File Found. :: ../db1_layer_comm/comm/email/xml/email_manager.xml :: 
+2010-02-25 13:43:31		 End of Function : getEmailManagerForIdXML 
+2010-02-25 13:43:31		 Start of Function : insertEmailDetailsXML 
+2010-02-25 13:43:31		 XML File Found. :: ../db1_layer_comm/comm/email/xml/email.xml :: 
+2010-02-25 13:43:31		 XML File Update Successfully. 
+2010-02-25 13:43:31		 End of Function : insertEmailDetailsXML 
+2010-02-27 10:15:30		 Start of Function : insertEmailDetails 
+2010-02-27 10:15:30		 Database Connection Successful. 
+2010-02-27 10:15:30		 Database Selection Successful. 
+2010-02-27 10:15:30		 Query Executed Successfully. ::: insert into `rt_comm_email` (`rt_comm_email_id`,`rt_comm_to_name`,`rt_comm_to_email_id`,`rt_comm_from_name`,`rt_comm_from_email_id`,`rt_comm_subject`,`rt_comm_message`,`rt_comm_attachment`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_email_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                              (null              ,'Ambrish'       ,'ambrish@yahoo.com'          ,'mahesh'        ,'mahesh.umarane@gmail.com'         ,'Happy Diwali'       ,'Happy Diwali to all my relatives        '       ,'em_register_now.php'       ,''       ,'2010-02-24'       ,'12:00:00'       ,'2010-02-24'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-27'                ,'12:00:00'                ,'1'                ,'1'       ,'72'  ,''       ,''       ,''); 
+2010-02-27 10:15:30		 Database Connection Closed Successful. 
+2010-02-27 10:15:30		 End of Function : insertEmailDetails 
+2010-02-27 10:15:30		 Start of Function : getEmailManagerForIdXML 
+2010-02-27 10:15:30		 XML File Found. :: ../db1_layer_comm/comm/email/xml/email_manager.xml :: 
+2010-02-27 10:15:30		 End of Function : getEmailManagerForIdXML 
+2010-02-27 10:15:30		 Start of Function : insertEmailDetailsXML 
+2010-02-27 10:15:30		 XML File Found. :: ../db1_layer_comm/comm/email/xml/email.xml :: 
+2010-02-27 10:15:30		 XML File Update Successfully. 
+2010-02-27 10:15:30		 End of Function : insertEmailDetailsXML 
+2010-02-27 13:00:33		 Start of Function : insertEmailDetails 
+2010-02-27 13:00:33		 Database Connection Successful. 
+2010-02-27 13:00:33		 Database Selection Successful. 
+2010-02-27 13:00:33		 Query Executed Successfully. ::: insert into `rt_comm_email` (`rt_comm_email_id`,`rt_comm_to_name`,`rt_comm_to_email_id`,`rt_comm_from_name`,`rt_comm_from_email_id`,`rt_comm_subject`,`rt_comm_message`,`rt_comm_attachment`,`rt_comm_status`,`rt_comm_sched_date`,`rt_comm_sched_time`,`rt_comm_sent_date`,`rt_comm_sent_time`,`rt_comm_module_name`,`rt_comm_module_id`,`rt_comm_creation_date`,`rt_comm_creation_time`,`rt_comm_creation_user_id`,`rt_comm_email_manager_id`,`rt_comm_manager_id`,`rt_comm_extra1`,`rt_comm_extra2`,`rt_comm_extra3`)values
+                                              (null              ,'Antara'       ,'antara@mail.com'          ,'mahesh'        ,'mahesh.umarane@gmail.com'         ,'Happy New Year'       ,'Happy New Year to all my friends        '       ,'em_register_now.php'       ,''       ,'2010-02-24'       ,'12:00:00'       ,'2010-02-24'       ,'12:00:00'       ,'test'            ,'1'       ,'2010-02-27'                ,'12:00:00'                ,'1'                ,'1'       ,'73'  ,''       ,''       ,''); 
+2010-02-27 13:00:33		 Database Connection Closed Successful. 
+2010-02-27 13:00:33		 End of Function : insertEmailDetails 
+2010-02-27 13:00:33		 Start of Function : getEmailManagerForIdXML 
+2010-02-27 13:00:33		 XML File Found. :: ../db1_layer_comm/comm/email/xml/email_manager.xml :: 
+2010-02-27 13:00:33		 End of Function : getEmailManagerForIdXML 
+2010-02-27 13:00:33		 Start of Function : insertEmailDetailsXML 
+2010-02-27 13:00:33		 XML File Found. :: ../db1_layer_comm/comm/email/xml/email.xml :: 
+2010-02-27 13:00:33		 XML File Update Successfully. 
+2010-02-27 13:00:33		 End of Function : insertEmailDetailsXML 

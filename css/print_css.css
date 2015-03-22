@@ -1,0 +1,88 @@
+body
+{
+    font-family: Arial;
+    font-size: 15px;
+}
+
+#main
+{
+  /* width:1000px;*/
+    top:3px;
+    position: relative;
+}
+#leftcol
+{
+    width:200px;
+    float:left;
+    margin-top: 30px;
+    text-align:left;
+    font-family:Arial;
+}
+
+#containerMain
+{
+    /*width:800px;*/
+
+    float: left;
+    left: 3px;
+    margin-top: 30px;
+    text-align:left;
+    position: relative;
+    font-family:Arial;
+}
+
+#buttonContainer
+{
+    left:0px;
+    position:relative;
+    width:720px;
+    display:inline;
+    margin-left:3px;
+}
+
+.classLabel
+{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#idTextHospital
+{
+    left:100px;
+    position:relative;
+    font-weight: bold;
+    font-size: 16px;
+
+}
+
+#idPatientRecord
+{
+    text-align:center;
+    margin:10px;
+    border: 1px solid black;
+}
+
+.classTableFormat1
+{
+    border-top:1px solid black;
+    border-bottom:1px solid black;
+}
+
+.classTableFormat2, .classTableData3
+{
+    border-bottom:1px solid black;
+}
+.classTableData1
+{
+    border-right:1px solid black;
+}
+
+.classTableData2
+{
+    border-top:1px solid black;
+}
+
+.classTableFormat3
+{
+    font-size: 13px;
+}
